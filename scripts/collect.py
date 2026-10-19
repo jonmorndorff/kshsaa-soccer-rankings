@@ -20,18 +20,19 @@ def get(session,url):
 def discover(session,gender):
     endpoint=f'{gender.title()}SchedulesByTeam.cfm'
     found={}
+    memberships={}
     for cls in CLASSES:
         url=BASE+endpoint+'?Class='+cls
         soup=get(session,url)
-        for option in soup.select('option'):
+        for option in soup.select('select[name=SchoolSelect] option'):
             value=option.get('value','').strip();name=option.get_text(' ',strip=True)
-            if value.isdigit() and len(name)>3 and not name.lower().startswith(('select','choose')):
-                found[value]={'id':value,'name':name,'classification':cls}
-        for a in soup.select('a[href]'):
-            href=urljoin(url,a['href']);p=urlparse(href)
-            if p.path.lower().endswith(endpoint.lower()):
-                q=parse_qs(p.query);sid=q.get('SchoolSelect',[''])[0]
-                if sid.isdigit():found.setdefault(sid,{'id':sid,'name':a.get_text(' ',strip=True),'classification':cls})
+            if value.isdigit() and int(value)>0 and len(name)>3 and not name.lower().startswith(('select','choose','team schedules')):
+                memberships.setdefault(value,set()).add(cls)
+                found.setdefault(value,{'id':value,'name':name,'classification':cls})
+    ambiguous={sid:sorted(classes) for sid,classes in memberships.items() if len(classes)>1}
+    if ambiguous:
+        sample=list(ambiguous.items())[:5]
+        raise RuntimeError(f'KSHSAA class selectors overlap for {len(ambiguous)} schools: {sample}. Refusing to assign incorrect classes.')
     return {k:v for k,v in found.items() if v['name'] and len(v['name'])>3}
 
 def parse_page(soup, team, year, url):
@@ -60,6 +61,8 @@ def parse_page(soup, team, year, url):
         try:date=dt.date(match_year,month,day).isoformat()
         except ValueError:continue
         opponent=cols[2].get_text(' ',strip=True)
+        opponent_link=cols[2].find('a',href=True)
+        opponent_id=parse_qs(urlparse(opponent_link['href']).query).get('SchoolSelect',[''])[0] if opponent_link else ''
         location=cols[3].get_text(' ',strip=True).upper()
         outcome=cols[4].get_text(' ',strip=True).upper()
         score_text=cols[5].get_text(' ',strip=True)
@@ -70,7 +73,7 @@ def parse_page(soup, team, year, url):
         if (outcome=='W' and gf<=ga) or (outcome=='L' and gf>=ga) or (outcome=='T' and gf!=ga):
             continue
         games.append({'date':date,'opponent':opponent,'gf':gf,'ga':ga,
-                      'location':location,'result':outcome,'overtime':'(OT)' in score_text.upper(),
+                      'location':location,'opponent_id':opponent_id,'result':outcome,'overtime':'(OT)' in score_text.upper(),
                       'source':url})
     return games
 
@@ -96,19 +99,26 @@ def main():
         seen+=1
         for r in rows:
             opponent=re.sub(r'[^a-z0-9]','',r['opponent'].lower().replace(' hs',''))
-            oid=name_to_id.get(opponent)
+            oid=r.get('opponent_id') if r.get('opponent_id') in teams else name_to_id.get(opponent)
             if not oid or oid==sid:
                 unmatched.append({'team':team['name'],'opponent':r['opponent'],'date':r['date']});continue
             if r['location']=='V':home,away=oid,sid;hg,ag=r['ga'],r['gf']
-            else:home,away=sid,oid;hg,ag=r['gf'],r['ga']
+            elif r['location']=='H':home,away=sid,oid;hg,ag=r['gf'],r['ga']
+            else:
+                # Neutral sites do not identify a home team; use stable ID ordering.
+                home,away=sorted((sid,oid));hg,ag=(r['gf'],r['ga']) if home==sid else (r['ga'],r['gf'])
             key=(r['date'],*sorted([home,away]))
             new={'date':r['date'],'home':home,'away':away,'homeGoals':hg,'awayGoals':ag,'source':r['source']}
-            if key in games and (games[key]['homeGoals'],games[key]['awayGoals']) != (hg,ag) and (games[key]['home'],games[key]['away'])==(home,away):
+            if key in games and (games[key]['home'],games[key]['away'],games[key]['homeGoals'],games[key]['awayGoals']) != (home,away,hg,ag):
                 conflicts.append({'existing':games[key],'reported':new});continue
             games.setdefault(key,new) # Never overwrite archived results automatically
     out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date'])}
     # Avoid publishing partial or unreviewed initial datasets automatically.
     if not out['games']:raise RuntimeError('No verified parsable games; archive unchanged.')
+    if conflicts:
+        report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
+        report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
+        raise RuntimeError(f'{len(conflicts)} conflicts or fetch errors; review {report}. Archive unchanged.')
     path.write_text(json.dumps(out,indent=2)+'\n')
     report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
     report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
