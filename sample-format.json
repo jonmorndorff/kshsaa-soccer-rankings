@@ -1,0 +1,1 @@
+{"teams":[{"id":"school-a","name":"School A","classification":"6A"},{"id":"school-b","name":"School B","classification":"5A"}],"games":[{"home":"school-a","away":"school-b","homeGoals":2,"awayGoals":1}]}
