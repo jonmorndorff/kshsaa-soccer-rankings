@@ -46,7 +46,10 @@ def discover(session,gender,year):
             sid=str(item.get('SchoolID','')).strip()
             name=str(item.get('SchoolName','')).strip()
             actual=item.get('SchoolClass')
-            if not sid.isdigit() or not name or actual!=cls:
+            # KSHSAA's combined 4-3-2-1A endpoint may label individual
+            # schools 4-1A or 3-2-1A; retain the shared ranking class.
+            accepted = {'4-3-2-1A', '4-1A', '3-2-1A'} if cls == '4-3-2-1A' else {cls}
+            if not sid.isdigit() or not name or actual not in accepted:
                 raise RuntimeError(f'Invalid school entry in {cls} standings: {item!r}')
             if sid in found:
                 raise RuntimeError(f'School {sid} occurs in multiple classifications; archive unchanged.')
