@@ -17,23 +17,45 @@ HEADERS={'User-Agent':'KansasSoccerIndependentRankings/0.1 (educational rankings
 def get(session,url):
     r=session.get(url,timeout=25);r.raise_for_status();time.sleep(1.5);return BeautifulSoup(r.text,'html.parser')
 
-def discover(session,gender):
-    endpoint=f'{gender.title()}SchedulesByTeam.cfm'
+API_BASE='https://kshsaa-api.kshsaa.org/standings/Soccer/ByClassAndGender/'
+
+def discover(session,gender,year):
+    """Use the official standings API for school IDs and classifications.
+
+    Fail closed if any class is missing, malformed, or belongs to another season.
+    """
+    gender_id=1 if gender=='boys' else 2  # Confirm girls ID before enabling spring collection.
+    if gender=='girls':
+        raise RuntimeError('Girls API gender identifier has not been verified yet; archive unchanged.')
+    expected_season=f'{year}-{year+1}' if gender=='boys' else f'{year-1}-{year}'
     found={}
-    memberships={}
     for cls in CLASSES:
-        url=BASE+endpoint+'?Class='+cls
-        soup=get(session,url)
-        for option in soup.select('select[name=SchoolSelect] option'):
-            value=option.get('value','').strip();name=option.get_text(' ',strip=True)
-            if value.isdigit() and int(value)>0 and len(name)>3 and not name.lower().startswith(('select','choose','team schedules')):
-                memberships.setdefault(value,set()).add(cls)
-                found.setdefault(value,{'id':value,'name':name,'classification':cls})
-    ambiguous={sid:sorted(classes) for sid,classes in memberships.items() if len(classes)>1}
-    if ambiguous:
-        sample=list(ambiguous.items())[:5]
-        raise RuntimeError(f'KSHSAA class selectors overlap for {len(ambiguous)} schools: {sample}. Refusing to assign incorrect classes.')
-    return {k:v for k,v in found.items() if v['name'] and len(v['name'])>3}
+        url=f'{API_BASE}{cls}/{gender_id}'
+        response=session.get(url,timeout=30)
+        response.raise_for_status()
+        payload=response.json()
+        if not isinstance(payload,dict) or not isinstance(payload.get('standingsData'),list):
+            raise RuntimeError(f'Invalid standings API response for {cls}: {url}')
+        season=payload.get('yearData',{}).get('Description')
+        if season != expected_season:
+            raise RuntimeError(f'Unexpected season for {cls}: {season!r} (expected {expected_season!r}); archive unchanged.')
+        rows=payload['standingsData']
+        if not rows:
+            raise RuntimeError(f'Empty standings for {cls}; archive unchanged.')
+        for item in rows:
+            sid=str(item.get('SchoolID','')).strip()
+            name=str(item.get('SchoolName','')).strip()
+            actual=item.get('SchoolClass')
+            if not sid.isdigit() or not name or actual!=cls:
+                raise RuntimeError(f'Invalid school entry in {cls} standings: {item!r}')
+            if sid in found:
+                raise RuntimeError(f'School {sid} occurs in multiple classifications; archive unchanged.')
+            found[sid]={'id':sid,'name':name,'classification':cls,
+                        'wins':item.get('TtlWins'), 'losses':item.get('TtlLosses'),
+                        'ties':item.get('TtlTies'), 'goalsFor':item.get('TtlGoals'),
+                        'goalsAgainst':item.get('OppTtlGoals')}
+        time.sleep(1.5)
+    return found
 
 def parse_page(soup, team, year, url):
     """Parse the six DIV columns in KSHSAA's regular-season schedule."""
@@ -86,10 +108,15 @@ def main():
     old=json.loads(path.read_text()) if path.exists() else {'gender':args.gender,'year':args.year,'teams':[],'games':[]}
     teams={t['id']:t for t in old['teams']};games={ (g['date'],*sorted([g['home'],g['away']])):g for g in old['games']}
     session=requests.Session();session.headers.update(HEADERS)
-    discovered=discover(session,args.gender)
+    discovered=discover(session,args.gender,args.year)
     if not discovered:raise RuntimeError('No team selectors discovered; site markup requires review. Archive unchanged.')
-    teams.update(discovered)
-    name_to_id={re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs','')):sid for sid,t in teams.items()}
+    # Retain archived game records, but do not keep stale or misclassified
+    # team entries from earlier failed collection attempts.
+    teams=discovered.copy()
+    name_to_id={}
+    for sid,t in teams.items():
+        key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
+        name_to_id[key]=sid
     conflicts=[];unmatched=[];seen=0
     for sid,team in discovered.items():
         if args.max_teams and seen>=args.max_teams:break
