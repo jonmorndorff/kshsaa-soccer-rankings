@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
 BASE='https://www.kshsaa.org/Public/Soccer/'
-CLASSES=('6A','5A','4-1A')
+CLASSES=('6A','5A','4-3-2-1A')
 MONTHS={m:i for i,m in enumerate(('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'),1)}
 HEADERS={'User-Agent':'KansasSoccerIndependentRankings/0.1 (educational rankings; low-rate requests)'}
 
@@ -34,30 +34,48 @@ def discover(session,gender):
                 if sid.isdigit():found.setdefault(sid,{'id':sid,'name':a.get_text(' ',strip=True),'classification':cls})
     return {k:v for k,v in found.items() if v['name'] and len(v['name'])>3}
 
-def parse_page(soup,team,year,url):
-    text=soup.get_text(' ',strip=True)
-    m=re.search(r'([\w .,&\'\-]+?)\s+BOYS SOCCER SEASON SCHEDULE|([\w .,&\'\-]+?)\s+GIRLS SOCCER SEASON SCHEDULE',text,re.I)
-    if m:
-        label=(m.group(1) or m.group(2)).strip()
-        if len(label)<100:team['name']=label
+def parse_page(soup, team, year, url):
+    """Parse the six DIV columns in KSHSAA's regular-season schedule."""
+    heading=soup.find(string=re.compile(r'(BOYS|GIRLS) SOCCER SEASON SCHEDULE', re.I))
+    if heading:
+        name_tag=heading.find_previous('div')
+        if name_tag:
+            label=name_tag.get_text(' ',strip=True)
+            if label and len(label)<100 and 'SOCCER' not in label.upper():
+                team['name']=label
     games=[]
-    for tr in soup.select('tr'):
-        cells=[c.get_text(' ',strip=True) for c in tr.find_all(['td','th'],recursive=False)]
-        if len(cells)<4:continue
-        date_match=re.search(r'\b(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+([A-Za-z]{3})\s+(\d{1,2})',cells[0])
-        if not date_match:continue
-        month=MONTHS.get(date_match.group(1).title())
+    for container in soup.find_all('div'):
+        cols=container.find_all('div',recursive=False)
+        if len(cols)!=6:continue
+        date_text=cols[0].get_text(' ',strip=True)
+        dm=re.fullmatch(r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+([A-Za-z]{3})\s+(\d{1,2})',date_text)
+        if not dm:continue
+        month=MONTHS.get(dm.group(1).title())
         if not month:continue
-        day=int(date_match.group(2));match_year=year if month>=7 else year+1 if month<=2 else year
+        # Boys play in fall; girls play in spring. The supplied year is
+        # the fall year for boys and spring year for girls.
+        match_year=year if (month>=7 or args_gender_is_girls(url)) else year+1
         if match_year!=year:continue
-        date=f'{year}-{month:02}-{day:02}'
-        opponent=cells[1].strip()
-        if not opponent:continue
-        joined=' '.join(cells[2:]);score=re.search(r'\b(\d{1,2})\s*[-–]\s*(\d{1,2})\b',joined)
-        if not score:continue
-        location=next((x.strip().upper() for x in cells[2:] if x.strip().upper() in ('H','V','N')),None)
-        games.append({'date':date,'opponent':opponent,'gf':int(score.group(1)),'ga':int(score.group(2)),'location':location,'source':url})
+        day=int(dm.group(2))
+        try:date=dt.date(match_year,month,day).isoformat()
+        except ValueError:continue
+        opponent=cols[2].get_text(' ',strip=True)
+        location=cols[3].get_text(' ',strip=True).upper()
+        outcome=cols[4].get_text(' ',strip=True).upper()
+        score_text=cols[5].get_text(' ',strip=True)
+        score=re.match(r'^(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*\(.*\))?$',score_text)
+        if not opponent or not score or outcome not in ('W','L','T') or location not in ('H','V','N'):
+            continue
+        gf,ga=map(int,score.groups())
+        if (outcome=='W' and gf<=ga) or (outcome=='L' and gf>=ga) or (outcome=='T' and gf!=ga):
+            continue
+        games.append({'date':date,'opponent':opponent,'gf':gf,'ga':ga,
+                      'location':location,'result':outcome,'overtime':'(OT)' in score_text.upper(),
+                      'source':url})
     return games
+
+def args_gender_is_girls(url):
+    return 'GirlsSchedulesByTeam' in url
 
 def main():
     p=argparse.ArgumentParser();p.add_argument('--gender',choices=['boys','girls'],required=True);p.add_argument('--year',type=int,required=True);p.add_argument('--max-teams',type=int,default=0);args=p.parse_args()
