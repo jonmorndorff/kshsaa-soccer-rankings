@@ -24,7 +24,7 @@ jobs:
 
       - name: Test collector
         run: |
-          python scripts/collect.py --gender boys --year 2026 --max-teams 3
+          python scripts/collect.py --gender boys --year 2026
 
       - name: Upload results
         if: always()
