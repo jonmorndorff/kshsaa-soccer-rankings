@@ -5,3 +5,4 @@
 async function loadPublished(){const g=gender,y=year,k=key();try{const r=await fetch(`data/${g}-${y}.json`,{cache:'no-store'});if(!r.ok)return;const raw=await r.json();const clean=importData(raw);database[k]=clean;save();if(key()===k)render()}catch(e){console.warn('Published scores unavailable:',e.message)}}
 loadPublished();const oldSwitch=switchGender;switchGender=function(g){oldSwitch(g);loadPublished()};$('year').addEventListener('change',loadPublished);
 </script></body></html>
+
