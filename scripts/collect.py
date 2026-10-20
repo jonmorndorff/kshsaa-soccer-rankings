@@ -60,47 +60,87 @@ def discover(session,gender,year):
         time.sleep(1.5)
     return found
 
+# Official 2026 KSHSAA East Regional lists, transcribed from the six
+# regional standings tables supplied by the coach on October 20, 2026.
+# All other schools in each classification are West.
+OFFICIAL_EAST_2026 = {
+    "6A": [
+        "Blue Valley West HS",
+        "Shawnee Mission West HS",
+        "JC Harmon HS",
+        "Olathe Northwest HS",
+        "Shawnee Mission South HS",
+        "Olathe West HS",
+        "Gardner Edgerton HS",
+        "Blue Valley North HS",
+        "Olathe East HS",
+        "Overland Park-Blue Valley HS",
+        "Olathe South HS",
+        "Blue Valley Northwest HS",
+        "Mill Valley HS",
+        "Shawnee Mission East HS",
+        "Wyandotte HS",
+        "Shawnee Mission Northwest HS",
+        "Olathe North HS",
+        "Shawnee Mission North HS"
+    ],
+    "5A": [
+        "Blue Valley Southwest HS",
+        "Turner HS",
+        "Pittsburg HS",
+        "De Soto HS",
+        "Piper HS",
+        "Sumner Academy",
+        "Bonner Springs HS",
+        "St. James Academy",
+        "Shawnee Heights HS",
+        "Kansas City-Washington HS",
+        "St. Thomas Aquinas HS",
+        "Seaman HS",
+        "Spring Hill HS",
+        "Highland Park HS",
+        "FL Schlagle HS",
+        "Basehor-Linwood HS",
+        "Lansing HS",
+        "Leavenworth HS"
+    ],
+    "4-3-2-1A": [
+        "Maranatha Christian Academy",
+        "Bishop Miege HS",
+        "Heritage Christian Academy",
+        "Louisburg HS",
+        "Ottawa HS",
+        "Eudora HS",
+        "Bishop Ward HS",
+        "Field Kindley HS",
+        "Maur Hill-Mount Academy",
+        "Tonganoxie HS",
+        "Paola HS",
+        "Baldwin HS",
+        "Parsons HS",
+        "Kansas City Christian HS",
+        "Bishop Seabury Academy",
+        "Atchison HS",
+        "Fort Scott HS"
+    ]
+}
+
 def assign_regions(session, teams, year):
-    """Use published KSHSAA regional assignments; never infer regions geographically."""
-    url=BASE+'BoysRegionalAssignments.cfm'
-    try:
-        soup=get(session,url)
-        lines=[re.sub(r'\s+',' ',x).strip() for x in soup.stripped_strings]
-        lines=[x for x in lines if x]
-        # The official assignment page may initially publish only some classes.
-        # Match schools only inside the corresponding East/West 'Schools:' section.
-        def norm(s):
-            return re.sub(r'[^a-z0-9]','',s.lower().replace(' high school',' hs').replace(' high',' hs'))
-        index={}
-        for sid,t in teams.items():
-            index.setdefault((t['classification'],norm(t['name'])),[]).append(sid)
-        active=None
-        in_schools=False
-        matched=set()
-        for line in lines:
-            heading=re.search(r'(6A|5A|4-1A|4-3-2-1A)\s*[-–]+\s*(East|West)\s+Kansas\s+Regional',line,re.I)
-            if heading:
-                cls='4-3-2-1A' if heading.group(1) in ('4-1A','4-3-2-1A') else heading.group(1)
-                active=(cls,heading.group(2).title())
-                in_schools=False
-                continue
-            if line.startswith('Schools:'):
-                in_schools=True
-                line=line[len('Schools:'):].strip()
-            if not in_schools or not active:
-                continue
-            if 'No Pets Permitted' in line or line=='Bracket':
-                in_schools=False
-                continue
-            for name in line.split(';'):
-                name=name.strip()
-                if not name:continue
-                for sid in index.get((active[0],norm(name)),[]):
-                    teams[sid]['region']=active[1]
-                    matched.add(sid)
-        print(f'Official regional assignments: {len(matched)} schools matched from {url}')
-    except Exception as exc:
-        print(f'Official regional assignments unavailable: {exc}; leaving regions unassigned.')
+    """Assign official regional groups without geographical guesswork."""
+    if year != 2026:
+        print('No verified regional assignment list for this year; leaving unassigned.')
+        return
+    def norm(s):
+        return re.sub(r'[^a-z0-9]', '', s.lower())
+    for cls, names in OFFICIAL_EAST_2026.items():
+        actual={norm(t['name']):t for t in teams.values() if t['classification']==cls}
+        missing=[name for name in names if norm(name) not in actual]
+        if missing:
+            raise RuntimeError(f'Cannot match official East regional schools in {cls}: {missing}')
+        for t in teams.values():
+            if t['classification']==cls:
+                t['region']='East' if norm(t['name']) in {norm(n) for n in names} else 'West'
+        print(f'Official {cls} regions: {len(names)} East, {sum(t["classification"]==cls for t in teams.values())-len(names)} West')
 
 def parse_page(soup, team, year, url):
     """Parse the six DIV columns in KSHSAA's regular-season schedule."""
