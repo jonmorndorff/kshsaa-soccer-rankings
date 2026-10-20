@@ -70,6 +70,7 @@ def parse_page(soup, team, year, url):
             if label and len(label)<100 and 'SOCCER' not in label.upper():
                 team['name']=label
     games=[]
+    schedule=[]
     for container in soup.find_all('div'):
         cols=container.find_all('div',recursive=False)
         if len(cols)!=6:continue
@@ -92,6 +93,8 @@ def parse_page(soup, team, year, url):
         outcome=cols[4].get_text(' ',strip=True).upper()
         score_text=cols[5].get_text(' ',strip=True)
         score=re.match(r'^(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*\(.*\))?$',score_text)
+        if opponent and not score and outcome not in ('W','L','T'):
+            schedule.append({'date':date,'opponent':opponent,'location':location if location in ('H','V','N') else '', 'source':url})
         if not opponent or not score or outcome not in ('W','L','T') or location not in ('H','V','N'):
             continue
         gf,ga=map(int,score.groups())
@@ -100,7 +103,7 @@ def parse_page(soup, team, year, url):
         games.append({'date':date,'opponent':opponent,'gf':gf,'ga':ga,
                       'location':location,'opponent_id':opponent_id,'result':outcome,'overtime':'(OT)' in score_text.upper(),
                       'source':url})
-    return games
+    return games,schedule
 
 def args_gender_is_girls(url):
     return 'GirlsSchedulesByTeam' in url
@@ -120,13 +123,14 @@ def main():
     for sid,t in teams.items():
         key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
         name_to_id[key]=sid
-    conflicts=[];unmatched=[];seen=0; disputed_keys=set()
+    conflicts=[];unmatched=[];seen=0; disputed_keys=set();upcoming={}
     for sid,team in discovered.items():
         if args.max_teams and seen>=args.max_teams:break
         url=BASE+f'{args.gender.title()}SchedulesByTeam.cfm?Class={team["classification"]}&SchoolSelect={sid}'
-        try:rows=parse_page(get(session,url),team,args.year,url)
+        try:rows,fixtures=parse_page(get(session,url),team,args.year,url)
         except Exception as e:conflicts.append({'url':url,'error':str(e)});continue
         seen+=1
+        upcoming[sid]=fixtures
         for r in rows:
             opponent=re.sub(r'[^a-z0-9]','',r['opponent'].lower().replace(' hs',''))
             oid=r.get('opponent_id') if r.get('opponent_id') in teams else name_to_id.get(opponent)
@@ -145,7 +149,7 @@ def main():
     # Exclude disputed fixtures entirely rather than trusting either inconsistent report.
     for key in disputed_keys:
         games.pop(key,None)
-    out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date'])}
+    out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date']),'upcoming':upcoming}
     # Avoid publishing partial or unreviewed initial datasets automatically.
     if not out['games']:raise RuntimeError('No verified parsable games; archive unchanged.')
     score_conflicts=[x for x in conflicts if 'reported' in x]
