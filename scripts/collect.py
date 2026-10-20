@@ -120,7 +120,7 @@ def main():
     for sid,t in teams.items():
         key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
         name_to_id[key]=sid
-    conflicts=[];unmatched=[];seen=0
+    conflicts=[];unmatched=[];seen=0; disputed_keys=set()
     for sid,team in discovered.items():
         if args.max_teams and seen>=args.max_teams:break
         url=BASE+f'{args.gender.title()}SchedulesByTeam.cfm?Class={team["classification"]}&SchoolSelect={sid}'
@@ -140,19 +140,22 @@ def main():
             key=(r['date'],*sorted([home,away]))
             new={'date':r['date'],'home':home,'away':away,'homeGoals':hg,'awayGoals':ag,'source':r['source']}
             if key in games and (games[key]['home'],games[key]['away'],games[key]['homeGoals'],games[key]['awayGoals']) != (home,away,hg,ag):
-                conflicts.append({'existing':games[key],'reported':new});continue
+                conflicts.append({'existing':games[key],'reported':new});disputed_keys.add(key);continue
             games.setdefault(key,new) # Never overwrite archived results automatically
+    # Exclude disputed fixtures entirely rather than trusting either inconsistent report.
+    for key in disputed_keys:
+        games.pop(key,None)
     out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date'])}
     # Avoid publishing partial or unreviewed initial datasets automatically.
     if not out['games']:raise RuntimeError('No verified parsable games; archive unchanged.')
     score_conflicts=[x for x in conflicts if 'reported' in x]
     fetch_errors=[x for x in conflicts if 'error' in x]
-    if score_conflicts or (not args.max_teams and seen < max(100, int(len(discovered)*0.95))):
+    if (not args.max_teams and seen < max(100, int(len(discovered)*0.95))):
         report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
         report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
         raise RuntimeError(f'{len(score_conflicts)} score conflicts, {len(fetch_errors)} fetch errors, {seen}/{len(discovered)} schedules collected. Archive unchanged.')
     path.write_text(json.dumps(out,indent=2)+'\n')
     report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
     report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
-    print(f'Wrote {path}: {len(out["games"])} games; {len(unmatched)} unmatched; {len(conflicts)} warnings. Review {report}.')
+    print(f'Wrote {path}: {len(out["games"])} games; {len(unmatched)} unmatched; {len(disputed_keys)} disputed fixtures excluded; {len(fetch_errors)} fetch warnings. Review {report}.')
 if __name__=='__main__':main()
