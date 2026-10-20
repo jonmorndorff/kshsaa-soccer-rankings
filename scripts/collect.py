@@ -195,6 +195,41 @@ def parse_page(soup, team, year, url):
 def args_gender_is_girls(url):
     return 'GirlsSchedulesByTeam' in url
 
+MSHSAA_RECORDS='https://www.mshsaa.org/Activities/SeasonRecords.aspx?alg=33'
+
+def collect_missouri_records(session, year):
+    """Official MSHSAA boys varsity records; keep this separate from Kansas teams."""
+    if year!=2026:
+        return []
+    try:
+        soup=get(session,MSHSAA_RECORDS)
+        records=[]
+        for tr in soup.select('tr'):
+            cells=tr.find_all(['td','th'],recursive=False)
+            if len(cells)<5:
+                continue
+            a=cells[0].find('a',href=True)
+            if not a:
+                continue
+            href=urljoin(MSHSAA_RECORDS,a['href'])
+            if not re.search(r'(?:[?&]s=|/Schedule)',href,re.I):
+                continue
+            name=a.get_text(' ',strip=True)
+            nums=[cell.get_text(' ',strip=True) for cell in cells[1:4]]
+            if not name or not all(re.fullmatch(r'\d{1,3}',n) for n in nums):
+                continue
+            w,l,t=map(int,nums)
+            if w+l+t>40:
+                continue
+            records.append({'name':name,'wins':w,'losses':l,'ties':t,'source':href})
+        if len(records)<30:
+            raise ValueError(f'Only {len(records)} valid Missouri records; expected >=30')
+        print(f'MSHSAA: collected {len(records)} Missouri varsity season records')
+        return records
+    except Exception as exc:
+        print(f'MSHSAA season records unavailable: {exc}; keeping last verified snapshot')
+        return []
+
 def main():
     p=argparse.ArgumentParser();p.add_argument('--gender',choices=['boys','girls'],required=True);p.add_argument('--year',type=int,required=True);p.add_argument('--max-teams',type=int,default=0);args=p.parse_args()
     path=ROOT/'data'/f'{args.gender}-{args.year}.json';path.parent.mkdir(exist_ok=True)
@@ -207,6 +242,7 @@ def main():
     # team entries from earlier failed collection attempts.
     teams=discovered.copy()
     assign_regions(session,teams,args.year)
+    missouri_records=collect_missouri_records(session,args.year) or old.get('missouriRecords',[])
     name_to_id={}
     for sid,t in teams.items():
         key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
@@ -246,7 +282,7 @@ def main():
     # Exclude disputed fixtures entirely rather than trusting either inconsistent report.
     for key in disputed_keys:
         games.pop(key,None)
-    out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date']),'upcoming':upcoming,'schedules':full_schedules,'externalGames':sorted(external_games.values(),key=lambda x:(x['date'],x['team']))}
+    out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date']),'upcoming':upcoming,'schedules':full_schedules,'externalGames':sorted(external_games.values(),key=lambda x:(x['date'],x['team'])),'missouriRecords':missouri_records}
     # Avoid publishing partial or unreviewed initial datasets automatically.
     if not out['games']:raise RuntimeError('No verified parsable games; archive unchanged.')
     score_conflicts=[x for x in conflicts if 'reported' in x]
