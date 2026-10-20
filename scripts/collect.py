@@ -145,12 +145,14 @@ def main():
     out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date'])}
     # Avoid publishing partial or unreviewed initial datasets automatically.
     if not out['games']:raise RuntimeError('No verified parsable games; archive unchanged.')
-    if conflicts:
+    score_conflicts=[x for x in conflicts if 'reported' in x]
+    fetch_errors=[x for x in conflicts if 'error' in x]
+    if score_conflicts or (not args.max_teams and seen < max(100, int(len(discovered)*0.95))):
         report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
-        report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
-        raise RuntimeError(f'{len(conflicts)} conflicts or fetch errors; review {report}. Archive unchanged.')
+        report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\\n')
+        raise RuntimeError(f'{len(score_conflicts)} score conflicts, {len(fetch_errors)} fetch errors, {seen}/{len(discovered)} schedules collected. Archive unchanged.')
     path.write_text(json.dumps(out,indent=2)+'\n')
     report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
     report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
-    print(f'Wrote {path}: {len(out["games"])} games; {len(unmatched)} unmatched; {len(conflicts)} conflicts. Review {report}.')
+    print(f'Wrote {path}: {len(out["games"])} games; {len(unmatched)} unmatched; {len(conflicts)} warnings. Review {report}.')
 if __name__=='__main__':main()
