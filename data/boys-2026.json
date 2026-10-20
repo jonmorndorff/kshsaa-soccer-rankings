@@ -23618,13 +23618,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=509&alg=33"
     },
     {
-      "name": "Northland Christian",
-      "wins": 1,
-      "losses": 8,
-      "ties": 19,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
-    },
-    {
       "name": "Iberia",
       "wins": 1,
       "losses": 4,
@@ -23644,6 +23637,13 @@
       "losses": 4,
       "ties": 10,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=775&alg=33"
+    },
+    {
+      "name": "Northland Christian",
+      "wins": 1,
+      "losses": 8,
+      "ties": 19,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
     },
     {
       "name": "Cameron",
