@@ -65,7 +65,7 @@ def assign_regions(session, teams, year):
     url=BASE+'BoysRegionalAssignments.cfm'
     try:
         soup=get(session,url)
-        lines=[re.sub(r'\\s+',' ',x).strip() for x in soup.stripped_strings]
+        lines=[re.sub(r'\s+',' ',x).strip() for x in soup.stripped_strings]
         lines=[x for x in lines if x]
         # The official assignment page may initially publish only some classes.
         # Match schools only inside the corresponding East/West 'Schools:' section.
@@ -78,7 +78,7 @@ def assign_regions(session, teams, year):
         in_schools=False
         matched=set()
         for line in lines:
-            heading=re.search(r'(6A|5A|4-1A|4-3-2-1A)\\s*[-–]+\\s*(East|West)\\s+Kansas\\s+Regional',line,re.I)
+            heading=re.search(r'(6A|5A|4-1A|4-3-2-1A)\s*[-–]+\s*(East|West)\s+Kansas\s+Regional',line,re.I)
             if heading:
                 cls='4-3-2-1A' if heading.group(1) in ('4-1A','4-3-2-1A') else heading.group(1)
                 active=(cls,heading.group(2).title())
