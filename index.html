@@ -7,7 +7,7 @@ let externalByTeam=new Map(teams.map(t=>[t.id,external.filter(g=>g.team===t.id)]
 let externalRatings={};
 for(let g of external){(externalRatings[g.opponentKey]??=[]).push(g)}
 const externalStrength={};
-const normExternal=s=>String(s||'').toLowerCase().replace(/\\b(high school|hs)\\b/g,'').replace(/[^a-z0-9]/g,'');
+const normExternal=s=>String(s||'').toLowerCase().replace(/\b(high school|hs)\b/g,'').replace(/[^a-z0-9]/g,'');
 const moRecords=new Map(missouriRecords.map(r=>[normExternal(r.name),r]));
 for(let [key,rows] of Object.entries(externalRatings)){
   const record=moRecords.get(normExternal(rows[0].opponent));
