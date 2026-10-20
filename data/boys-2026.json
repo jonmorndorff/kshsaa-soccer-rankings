@@ -1,0 +1,6502 @@
+{
+  "gender": "boys",
+  "year": 2026,
+  "teams": [
+    {
+      "id": "1229",
+      "name": "Andover Central HS",
+      "classification": "5A",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "goalsFor": 40,
+      "goalsAgainst": 27
+    },
+    {
+      "id": "465",
+      "name": "Andover HS",
+      "classification": "5A",
+      "wins": 7,
+      "losses": 6,
+      "ties": 1,
+      "goalsFor": 27,
+      "goalsAgainst": 23
+    },
+    {
+      "id": "468",
+      "name": "Arkansas City HS",
+      "classification": "5A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 22,
+      "goalsAgainst": 33
+    },
+    {
+      "id": "471",
+      "name": "Atchison HS",
+      "classification": "4-3-2-1A",
+      "wins": 1,
+      "losses": 14,
+      "ties": 0,
+      "goalsFor": 13,
+      "goalsAgainst": 76
+    },
+    {
+      "id": "475",
+      "name": "Augusta HS",
+      "classification": "4-3-2-1A",
+      "wins": 2,
+      "losses": 12,
+      "ties": 0,
+      "goalsFor": 11,
+      "goalsAgainst": 53
+    },
+    {
+      "id": "478",
+      "name": "Baldwin HS",
+      "classification": "4-3-2-1A",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "goalsFor": 18,
+      "goalsAgainst": 29
+    },
+    {
+      "id": "479",
+      "name": "Basehor-Linwood HS",
+      "classification": "5A",
+      "wins": 3,
+      "losses": 11,
+      "ties": 1,
+      "goalsFor": 13,
+      "goalsAgainst": 40
+    },
+    {
+      "id": "538",
+      "name": "Berean Academy",
+      "classification": "4-3-2-1A",
+      "wins": 11,
+      "losses": 3,
+      "ties": 1,
+      "goalsFor": 56,
+      "goalsAgainst": 28
+    },
+    {
+      "id": "785",
+      "name": "Bishop Carroll HS",
+      "classification": "5A",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "goalsFor": 68,
+      "goalsAgainst": 30
+    },
+    {
+      "id": "736",
+      "name": "Bishop Miege HS",
+      "classification": "4-3-2-1A",
+      "wins": 11,
+      "losses": 3,
+      "ties": 1,
+      "goalsFor": 49,
+      "goalsAgainst": 10
+    },
+    {
+      "id": "1205",
+      "name": "Bishop Seabury Academy",
+      "classification": "4-3-2-1A",
+      "wins": 1,
+      "losses": 11,
+      "ties": 1,
+      "goalsFor": 15,
+      "goalsAgainst": 53
+    },
+    {
+      "id": "612",
+      "name": "Bishop Ward HS",
+      "classification": "4-3-2-1A",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 40,
+      "goalsAgainst": 26
+    },
+    {
+      "id": "800",
+      "name": "Blue Valley North HS",
+      "classification": "6A",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 42,
+      "goalsAgainst": 21
+    },
+    {
+      "id": "1185",
+      "name": "Blue Valley Northwest HS",
+      "classification": "6A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 1,
+      "goalsFor": 27,
+      "goalsAgainst": 35
+    },
+    {
+      "id": "1823",
+      "name": "Blue Valley Southwest HS",
+      "classification": "5A",
+      "wins": 12,
+      "losses": 2,
+      "ties": 1,
+      "goalsFor": 48,
+      "goalsAgainst": 17
+    },
+    {
+      "id": "1221",
+      "name": "Blue Valley West HS",
+      "classification": "6A",
+      "wins": 13,
+      "losses": 1,
+      "ties": 1,
+      "goalsFor": 49,
+      "goalsAgainst": 13
+    },
+    {
+      "id": "489",
+      "name": "Bonner Springs HS",
+      "classification": "5A",
+      "wins": 6,
+      "losses": 4,
+      "ties": 4,
+      "goalsFor": 29,
+      "goalsAgainst": 17
+    },
+    {
+      "id": "494",
+      "name": "Buhler HS",
+      "classification": "4-3-2-1A",
+      "wins": 10,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 44,
+      "goalsAgainst": 23
+    },
+    {
+      "id": "1153",
+      "name": "Cair Paravel Latin School",
+      "classification": "4-3-2-1A",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 45,
+      "goalsAgainst": 27
+    },
+    {
+      "id": "787",
+      "name": "Campus HS",
+      "classification": "6A",
+      "wins": 2,
+      "losses": 12,
+      "ties": 0,
+      "goalsFor": 11,
+      "goalsAgainst": 67
+    },
+    {
+      "id": "506",
+      "name": "Chanute HS",
+      "classification": "4-3-2-1A",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "goalsFor": 42,
+      "goalsAgainst": 23
+    },
+    {
+      "id": "764",
+      "name": "Circle HS",
+      "classification": "4-3-2-1A",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 27,
+      "goalsAgainst": 73
+    },
+    {
+      "id": "1256",
+      "name": "Classical School Of Wichita",
+      "classification": "4-3-2-1A",
+      "wins": 5,
+      "losses": 8,
+      "ties": 1,
+      "goalsFor": 27,
+      "goalsAgainst": 35
+    },
+    {
+      "id": "530",
+      "name": "De Soto HS",
+      "classification": "5A",
+      "wins": 9,
+      "losses": 2,
+      "ties": 4,
+      "goalsFor": 33,
+      "goalsAgainst": 11
+    },
+    {
+      "id": "529",
+      "name": "Derby HS",
+      "classification": "6A",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "goalsFor": 51,
+      "goalsAgainst": 31
+    },
+    {
+      "id": "533",
+      "name": "Dodge City HS",
+      "classification": "6A",
+      "wins": 12,
+      "losses": 1,
+      "ties": 0,
+      "goalsFor": 57,
+      "goalsAgainst": 10
+    },
+    {
+      "id": "2174",
+      "name": "Eisenhower HS",
+      "classification": "5A",
+      "wins": 2,
+      "losses": 11,
+      "ties": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 43
+    },
+    {
+      "id": "539",
+      "name": "El Dorado HS",
+      "classification": "4-3-2-1A",
+      "wins": 0,
+      "losses": 13,
+      "ties": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 69
+    },
+    {
+      "id": "545",
+      "name": "Emporia HS",
+      "classification": "5A",
+      "wins": 11,
+      "losses": 3,
+      "ties": 1,
+      "goalsFor": 41,
+      "goalsAgainst": 22
+    },
+    {
+      "id": "548",
+      "name": "Eudora HS",
+      "classification": "4-3-2-1A",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 30,
+      "goalsAgainst": 22
+    },
+    {
+      "id": "609",
+      "name": "FL Schlagle HS",
+      "classification": "5A",
+      "wins": 4,
+      "losses": 10,
+      "ties": 1,
+      "goalsFor": 21,
+      "goalsAgainst": 55
+    },
+    {
+      "id": "518",
+      "name": "Field Kindley HS",
+      "classification": "4-3-2-1A",
+      "wins": 8,
+      "losses": 5,
+      "ties": 1,
+      "goalsFor": 54,
+      "goalsAgainst": 25
+    },
+    {
+      "id": "550",
+      "name": "Fort Scott HS",
+      "classification": "4-3-2-1A",
+      "wins": 0,
+      "losses": 13,
+      "ties": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 110
+    },
+    {
+      "id": "1204",
+      "name": "Free State HS",
+      "classification": "6A",
+      "wins": 9,
+      "losses": 4,
+      "ties": 1,
+      "goalsFor": 36,
+      "goalsAgainst": 25
+    },
+    {
+      "id": "556",
+      "name": "Garden City HS",
+      "classification": "6A",
+      "wins": 5,
+      "losses": 7,
+      "ties": 2,
+      "goalsFor": 29,
+      "goalsAgainst": 28
+    },
+    {
+      "id": "558",
+      "name": "Gardner Edgerton HS",
+      "classification": "6A",
+      "wins": 9,
+      "losses": 4,
+      "ties": 1,
+      "goalsFor": 36,
+      "goalsAgainst": 24
+    },
+    {
+      "id": "562",
+      "name": "Goddard HS",
+      "classification": "5A",
+      "wins": 5,
+      "losses": 6,
+      "ties": 2,
+      "goalsFor": 32,
+      "goalsAgainst": 42
+    },
+    {
+      "id": "566",
+      "name": "Great Bend HS",
+      "classification": "5A",
+      "wins": 2,
+      "losses": 11,
+      "ties": 1,
+      "goalsFor": 21,
+      "goalsAgainst": 55
+    },
+    {
+      "id": "759",
+      "name": "Hayden HS",
+      "classification": "4-3-2-1A",
+      "wins": 0,
+      "losses": 14,
+      "ties": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 56
+    },
+    {
+      "id": "575",
+      "name": "Hays HS",
+      "classification": "5A",
+      "wins": 10,
+      "losses": 3,
+      "ties": 2,
+      "goalsFor": 50,
+      "goalsAgainst": 22
+    },
+    {
+      "id": "1198",
+      "name": "Heritage Christian Academy",
+      "classification": "4-3-2-1A",
+      "wins": 10,
+      "losses": 3,
+      "ties": 1,
+      "goalsFor": 51,
+      "goalsAgainst": 11
+    },
+    {
+      "id": "579",
+      "name": "Hesston HS",
+      "classification": "4-3-2-1A",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "goalsFor": 45,
+      "goalsAgainst": 27
+    },
+    {
+      "id": "760",
+      "name": "Highland Park HS",
+      "classification": "5A",
+      "wins": 5,
+      "losses": 10,
+      "ties": 0,
+      "goalsFor": 25,
+      "goalsAgainst": 64
+    },
+    {
+      "id": "595",
+      "name": "Hutchinson HS",
+      "classification": "5A",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 40,
+      "goalsAgainst": 25
+    },
+    {
+      "id": "598",
+      "name": "Independence HS",
+      "classification": "4-3-2-1A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 38,
+      "goalsAgainst": 50
+    },
+    {
+      "id": "607",
+      "name": "JC Harmon HS",
+      "classification": "6A",
+      "wins": 12,
+      "losses": 3,
+      "ties": 0,
+      "goalsFor": 67,
+      "goalsAgainst": 16
+    },
+    {
+      "id": "605",
+      "name": "Junction City HS",
+      "classification": "6A",
+      "wins": 3,
+      "losses": 10,
+      "ties": 0,
+      "goalsFor": 19,
+      "goalsAgainst": 51
+    },
+    {
+      "id": "1075",
+      "name": "Kansas City Christian HS",
+      "classification": "4-3-2-1A",
+      "wins": 3,
+      "losses": 10,
+      "ties": 1,
+      "goalsFor": 28,
+      "goalsAgainst": 51
+    },
+    {
+      "id": "613",
+      "name": "Kansas City-Washington HS",
+      "classification": "5A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 1,
+      "goalsFor": 37,
+      "goalsAgainst": 37
+    },
+    {
+      "id": "789",
+      "name": "Kapaun Mt. Carmel HS",
+      "classification": "5A",
+      "wins": 12,
+      "losses": 1,
+      "ties": 0,
+      "goalsFor": 50,
+      "goalsAgainst": 9
+    },
+    {
+      "id": "624",
+      "name": "Lansing HS",
+      "classification": "5A",
+      "wins": 3,
+      "losses": 11,
+      "ties": 1,
+      "goalsFor": 18,
+      "goalsAgainst": 40
+    },
+    {
+      "id": "626",
+      "name": "Lawrence HS",
+      "classification": "6A",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "goalsFor": 24,
+      "goalsAgainst": 28
+    },
+    {
+      "id": "627",
+      "name": "Leavenworth HS",
+      "classification": "5A",
+      "wins": 1,
+      "losses": 13,
+      "ties": 0,
+      "goalsFor": 8,
+      "goalsAgainst": 63
+    },
+    {
+      "id": "633",
+      "name": "Liberal HS",
+      "classification": "6A",
+      "wins": 4,
+      "losses": 7,
+      "ties": 1,
+      "goalsFor": 13,
+      "goalsAgainst": 22
+    },
+    {
+      "id": "641",
+      "name": "Louisburg HS",
+      "classification": "4-3-2-1A",
+      "wins": 10,
+      "losses": 3,
+      "ties": 1,
+      "goalsFor": 44,
+      "goalsAgainst": 18
+    },
+    {
+      "id": "649",
+      "name": "Maize HS",
+      "classification": "6A",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "goalsFor": 49,
+      "goalsAgainst": 23
+    },
+    {
+      "id": "1665",
+      "name": "Maize South HS",
+      "classification": "5A",
+      "wins": 13,
+      "losses": 1,
+      "ties": 0,
+      "goalsFor": 66,
+      "goalsAgainst": 16
+    },
+    {
+      "id": "650",
+      "name": "Manhattan HS",
+      "classification": "6A",
+      "wins": 5,
+      "losses": 7,
+      "ties": 1,
+      "goalsFor": 27,
+      "goalsAgainst": 26
+    },
+    {
+      "id": "1074",
+      "name": "Maranatha Christian Academy",
+      "classification": "4-3-2-1A",
+      "wins": 10,
+      "losses": 2,
+      "ties": 2,
+      "goalsFor": 48,
+      "goalsAgainst": 15
+    },
+    {
+      "id": "472",
+      "name": "Maur Hill-Mount Academy",
+      "classification": "4-3-2-1A",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "goalsFor": 33,
+      "goalsAgainst": 33
+    },
+    {
+      "id": "646",
+      "name": "McPherson HS",
+      "classification": "4-3-2-1A",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 46,
+      "goalsAgainst": 30
+    },
+    {
+      "id": "1222",
+      "name": "Mill Valley HS",
+      "classification": "6A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 17,
+      "goalsAgainst": 22
+    },
+    {
+      "id": "667",
+      "name": "Mulvane HS",
+      "classification": "4-3-2-1A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 25,
+      "goalsAgainst": 38
+    },
+    {
+      "id": "671",
+      "name": "Newton HS",
+      "classification": "5A",
+      "wins": 12,
+      "losses": 2,
+      "ties": 0,
+      "goalsFor": 68,
+      "goalsAgainst": 14
+    },
+    {
+      "id": "1181",
+      "name": "Olathe East HS",
+      "classification": "6A",
+      "wins": 7,
+      "losses": 4,
+      "ties": 2,
+      "goalsFor": 38,
+      "goalsAgainst": 20
+    },
+    {
+      "id": "677",
+      "name": "Olathe North HS",
+      "classification": "6A",
+      "wins": 2,
+      "losses": 12,
+      "ties": 0,
+      "goalsFor": 11,
+      "goalsAgainst": 43
+    },
+    {
+      "id": "1240",
+      "name": "Olathe Northwest HS",
+      "classification": "6A",
+      "wins": 11,
+      "losses": 3,
+      "ties": 0,
+      "goalsFor": 50,
+      "goalsAgainst": 19
+    },
+    {
+      "id": "679",
+      "name": "Olathe South HS",
+      "classification": "6A",
+      "wins": 7,
+      "losses": 5,
+      "ties": 2,
+      "goalsFor": 34,
+      "goalsAgainst": 16
+    },
+    {
+      "id": "6770",
+      "name": "Olathe West HS",
+      "classification": "6A",
+      "wins": 9,
+      "losses": 2,
+      "ties": 3,
+      "goalsFor": 42,
+      "goalsAgainst": 15
+    },
+    {
+      "id": "688",
+      "name": "Ottawa HS",
+      "classification": "4-3-2-1A",
+      "wins": 10,
+      "losses": 4,
+      "ties": 1,
+      "goalsFor": 35,
+      "goalsAgainst": 7
+    },
+    {
+      "id": "748",
+      "name": "Overland Park-Blue Valley HS",
+      "classification": "6A",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "goalsFor": 24,
+      "goalsAgainst": 23
+    },
+    {
+      "id": "691",
+      "name": "Paola HS",
+      "classification": "4-3-2-1A",
+      "wins": 4,
+      "losses": 10,
+      "ties": 1,
+      "goalsFor": 39,
+      "goalsAgainst": 51
+    },
+    {
+      "id": "692",
+      "name": "Parsons HS",
+      "classification": "4-3-2-1A",
+      "wins": 4,
+      "losses": 11,
+      "ties": 0,
+      "goalsFor": 55,
+      "goalsAgainst": 67
+    },
+    {
+      "id": "608",
+      "name": "Piper HS",
+      "classification": "5A",
+      "wins": 8,
+      "losses": 5,
+      "ties": 1,
+      "goalsFor": 29,
+      "goalsAgainst": 16
+    },
+    {
+      "id": "696",
+      "name": "Pittsburg HS",
+      "classification": "5A",
+      "wins": 10,
+      "losses": 3,
+      "ties": 1,
+      "goalsFor": 70,
+      "goalsAgainst": 31
+    },
+    {
+      "id": "713",
+      "name": "Rose Hill HS",
+      "classification": "4-3-2-1A",
+      "wins": 14,
+      "losses": 1,
+      "ties": 0,
+      "goalsFor": 91,
+      "goalsAgainst": 8
+    },
+    {
+      "id": "723",
+      "name": "Salina-Central HS",
+      "classification": "5A",
+      "wins": 3,
+      "losses": 10,
+      "ties": 0,
+      "goalsFor": 18,
+      "goalsAgainst": 60
+    },
+    {
+      "id": "726",
+      "name": "Salina-South HS",
+      "classification": "5A",
+      "wins": 10,
+      "losses": 5,
+      "ties": 0,
+      "goalsFor": 55,
+      "goalsAgainst": 30
+    },
+    {
+      "id": "761",
+      "name": "Seaman HS",
+      "classification": "5A",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "goalsFor": 19,
+      "goalsAgainst": 36
+    },
+    {
+      "id": "754",
+      "name": "Shawnee Heights HS",
+      "classification": "5A",
+      "wins": 6,
+      "losses": 6,
+      "ties": 1,
+      "goalsFor": 28,
+      "goalsAgainst": 30
+    },
+    {
+      "id": "735",
+      "name": "Shawnee Mission East HS",
+      "classification": "6A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 30,
+      "goalsAgainst": 26
+    },
+    {
+      "id": "737",
+      "name": "Shawnee Mission North HS",
+      "classification": "6A",
+      "wins": 1,
+      "losses": 13,
+      "ties": 0,
+      "goalsFor": 10,
+      "goalsAgainst": 75
+    },
+    {
+      "id": "738",
+      "name": "Shawnee Mission Northwest HS",
+      "classification": "6A",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "goalsFor": 24,
+      "goalsAgainst": 38
+    },
+    {
+      "id": "739",
+      "name": "Shawnee Mission South HS",
+      "classification": "6A",
+      "wins": 10,
+      "losses": 3,
+      "ties": 1,
+      "goalsFor": 29,
+      "goalsAgainst": 10
+    },
+    {
+      "id": "740",
+      "name": "Shawnee Mission West HS",
+      "classification": "6A",
+      "wins": 12,
+      "losses": 2,
+      "ties": 0,
+      "goalsFor": 52,
+      "goalsAgainst": 16
+    },
+    {
+      "id": "746",
+      "name": "Spring Hill HS",
+      "classification": "5A",
+      "wins": 5,
+      "losses": 10,
+      "ties": 0,
+      "goalsFor": 17,
+      "goalsAgainst": 39
+    },
+    {
+      "id": "1249",
+      "name": "St. James Academy",
+      "classification": "5A",
+      "wins": 8,
+      "losses": 7,
+      "ties": 0,
+      "goalsFor": 38,
+      "goalsAgainst": 17
+    },
+    {
+      "id": "734",
+      "name": "St. Thomas Aquinas HS",
+      "classification": "5A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 27,
+      "goalsAgainst": 35
+    },
+    {
+      "id": "610",
+      "name": "Sumner Academy",
+      "classification": "5A",
+      "wins": 8,
+      "losses": 5,
+      "ties": 1,
+      "goalsFor": 51,
+      "goalsAgainst": 22
+    },
+    {
+      "id": "1189",
+      "name": "The Independent HS",
+      "classification": "4-3-2-1A",
+      "wins": 0,
+      "losses": 10,
+      "ties": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 52
+    },
+    {
+      "id": "757",
+      "name": "Tonganoxie HS",
+      "classification": "4-3-2-1A",
+      "wins": 5,
+      "losses": 9,
+      "ties": 1,
+      "goalsFor": 18,
+      "goalsAgainst": 41
+    },
+    {
+      "id": "758",
+      "name": "Topeka HS",
+      "classification": "6A",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "goalsFor": 47,
+      "goalsAgainst": 23
+    },
+    {
+      "id": "763",
+      "name": "Topeka West HS",
+      "classification": "5A",
+      "wins": 13,
+      "losses": 1,
+      "ties": 0,
+      "goalsFor": 75,
+      "goalsAgainst": 13
+    },
+    {
+      "id": "611",
+      "name": "Turner HS",
+      "classification": "5A",
+      "wins": 11,
+      "losses": 2,
+      "ties": 1,
+      "goalsFor": 38,
+      "goalsAgainst": 8
+    },
+    {
+      "id": "770",
+      "name": "Valley Center HS",
+      "classification": "5A",
+      "wins": 6,
+      "losses": 6,
+      "ties": 2,
+      "goalsFor": 32,
+      "goalsAgainst": 30
+    },
+    {
+      "id": "762",
+      "name": "Washburn Rural HS",
+      "classification": "6A",
+      "wins": 7,
+      "losses": 5,
+      "ties": 2,
+      "goalsFor": 46,
+      "goalsAgainst": 24
+    },
+    {
+      "id": "6664",
+      "name": "Wichita-Central Christian Academy",
+      "classification": "4-3-2-1A",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "goalsFor": 30,
+      "goalsAgainst": 47
+    },
+    {
+      "id": "786",
+      "name": "Wichita-East HS",
+      "classification": "6A",
+      "wins": 11,
+      "losses": 3,
+      "ties": 0,
+      "goalsFor": 42,
+      "goalsAgainst": 19
+    },
+    {
+      "id": "788",
+      "name": "Wichita-Heights HS",
+      "classification": "6A",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "goalsFor": 28,
+      "goalsAgainst": 44
+    },
+    {
+      "id": "790",
+      "name": "Wichita-North HS",
+      "classification": "6A",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "goalsFor": 32,
+      "goalsAgainst": 31
+    },
+    {
+      "id": "791",
+      "name": "Wichita-Northwest HS",
+      "classification": "6A",
+      "wins": 4,
+      "losses": 11,
+      "ties": 0,
+      "goalsFor": 14,
+      "goalsAgainst": 60
+    },
+    {
+      "id": "792",
+      "name": "Wichita-South HS",
+      "classification": "6A",
+      "wins": 3,
+      "losses": 11,
+      "ties": 0,
+      "goalsFor": 25,
+      "goalsAgainst": 72
+    },
+    {
+      "id": "793",
+      "name": "Wichita-Southeast HS",
+      "classification": "6A",
+      "wins": 12,
+      "losses": 3,
+      "ties": 0,
+      "goalsFor": 66,
+      "goalsAgainst": 15
+    },
+    {
+      "id": "1190",
+      "name": "Wichita-Trinity Academy",
+      "classification": "4-3-2-1A",
+      "wins": 7,
+      "losses": 6,
+      "ties": 1,
+      "goalsFor": 47,
+      "goalsAgainst": 36
+    },
+    {
+      "id": "794",
+      "name": "Wichita-West HS",
+      "classification": "5A",
+      "wins": 2,
+      "losses": 11,
+      "ties": 1,
+      "goalsFor": 20,
+      "goalsAgainst": 39
+    },
+    {
+      "id": "797",
+      "name": "Winfield HS",
+      "classification": "4-3-2-1A",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "goalsFor": 47,
+      "goalsAgainst": 32
+    },
+    {
+      "id": "614",
+      "name": "Wyandotte HS",
+      "classification": "6A",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "goalsFor": 21,
+      "goalsAgainst": 45
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-08-28",
+      "home": "748",
+      "away": "1221",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "735",
+      "away": "740",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "793",
+      "away": "786",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "607",
+      "away": "677",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "1240",
+      "away": "1204",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "649",
+      "away": "792",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "758",
+      "away": "650",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "800",
+      "away": "1185",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "613",
+      "away": "1181",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1181"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "614",
+      "away": "738",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "489",
+      "away": "611",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "608",
+      "away": "627",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "610",
+      "away": "612",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "734",
+      "away": "1249",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1249"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "479",
+      "away": "761",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=761"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "723",
+      "away": "579",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=723"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "646",
+      "away": "566",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=566"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "713",
+      "away": "548",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "764",
+      "away": "538",
+      "homeGoals": 1,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "1153",
+      "away": "1198",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "598",
+      "away": "506",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "1256",
+      "away": "6664",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1256"
+    },
+    {
+      "date": "2026-08-28",
+      "home": "757",
+      "away": "1075",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=757"
+    },
+    {
+      "date": "2026-08-29",
+      "home": "785",
+      "away": "790",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
+    },
+    {
+      "date": "2026-08-31",
+      "home": "605",
+      "away": "760",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "533",
+      "away": "790",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "1221",
+      "away": "650",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "762",
+      "away": "793",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "609",
+      "away": "607",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "786",
+      "away": "556",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "2174",
+      "away": "649",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "626",
+      "away": "758",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "558",
+      "away": "746",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "1204",
+      "away": "530",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "608",
+      "away": "800",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "529",
+      "away": "791",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "789",
+      "away": "788",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "614",
+      "away": "613",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "478",
+      "away": "677",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=677"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "518",
+      "away": "787",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=787"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "759",
+      "away": "763",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "1665",
+      "away": "671",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "506",
+      "away": "545",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "726",
+      "away": "575",
+      "homeGoals": 1,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=575"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "754",
+      "away": "785",
+      "homeGoals": 2,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=785"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "465",
+      "away": "1190",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=465"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "1249",
+      "away": "736",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1249"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "1229",
+      "away": "770",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "562",
+      "away": "475",
+      "homeGoals": 9,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=562"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "471",
+      "away": "760",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=760"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "479",
+      "away": "641",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=479"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "494",
+      "away": "723",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=723"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "566",
+      "away": "794",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "757",
+      "away": "1074",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "538",
+      "away": "6664",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "548",
+      "away": "691",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=548"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "667",
+      "away": "598",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=667"
+    },
+    {
+      "date": "2026-09-01",
+      "home": "550",
+      "away": "692",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=692"
+    },
+    {
+      "date": "2026-09-02",
+      "home": "1221",
+      "away": "1185",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-02",
+      "home": "1222",
+      "away": "748",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "1190",
+      "away": "793",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "6770",
+      "away": "607",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "626",
+      "away": "1240",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "575",
+      "away": "786",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "649",
+      "away": "562",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "790",
+      "away": "558",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "754",
+      "away": "1204",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "2174",
+      "away": "529",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "762",
+      "away": "791",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "1185",
+      "away": "650",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "792",
+      "away": "788",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "677",
+      "away": "735",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=735"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "566",
+      "away": "633",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "1249",
+      "away": "614",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "738",
+      "away": "1823",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=738"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "671",
+      "away": "787",
+      "homeGoals": 9,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=787"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "1665",
+      "away": "1229",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "789",
+      "away": "770",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=789"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "611",
+      "away": "609",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "761",
+      "away": "545",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "696",
+      "away": "692",
+      "homeGoals": 10,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "530",
+      "away": "610",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "726",
+      "away": "465",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "595",
+      "away": "468",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "627",
+      "away": "489",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "760",
+      "away": "723",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=760"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "691",
+      "away": "479",
+      "homeGoals": 2,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=479"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "624",
+      "away": "757",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=624"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "667",
+      "away": "713",
+      "homeGoals": 1,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "736",
+      "away": "612",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=736"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "598",
+      "away": "641",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "1205",
+      "away": "506",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "478",
+      "away": "688",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=688"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "494",
+      "away": "797",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-09-03",
+      "home": "518",
+      "away": "550",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-09-04",
+      "home": "1198",
+      "away": "538",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-09-04",
+      "home": "1153",
+      "away": "471",
+      "homeGoals": 8,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1153"
+    },
+    {
+      "date": "2026-09-04",
+      "home": "1075",
+      "away": "1256",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1256"
+    },
+    {
+      "date": "2026-09-05",
+      "home": "1221",
+      "away": "748",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-05",
+      "home": "1185",
+      "away": "1222",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-09-05",
+      "home": "1075",
+      "away": "538",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-09-05",
+      "home": "1198",
+      "away": "1256",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "533",
+      "away": "649",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "679",
+      "away": "800",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "735",
+      "away": "748",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "2174",
+      "away": "790",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "579",
+      "away": "788",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "556",
+      "away": "787",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "595",
+      "away": "633",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "1189",
+      "away": "792",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=792"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "770",
+      "away": "794",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "764",
+      "away": "562",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=562"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "471",
+      "away": "627",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
+    },
+    {
+      "date": "2026-09-07",
+      "home": "1074",
+      "away": "478",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "1221",
+      "away": "762",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "646",
+      "away": "793",
+      "homeGoals": 1,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "610",
+      "away": "607",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "746",
+      "away": "739",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "758",
+      "away": "1153",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "650",
+      "away": "1204",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "529",
+      "away": "788",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "626",
+      "away": "761",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=626"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "677",
+      "away": "614",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "1665",
+      "away": "791",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "1229",
+      "away": "605",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "723",
+      "away": "763",
+      "homeGoals": 0,
+      "awayGoals": 12,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "611",
+      "away": "608",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "641",
+      "away": "696",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "530",
+      "away": "688",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "1256",
+      "away": "785",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=785"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "489",
+      "away": "479",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "468",
+      "away": "539",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "471",
+      "away": "609",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=609"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "566",
+      "away": "494",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=566"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "1075",
+      "away": "1074",
+      "homeGoals": 2,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "757",
+      "away": "736",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=736"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "612",
+      "away": "1198",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "506",
+      "away": "550",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "759",
+      "away": "548",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=548"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "667",
+      "away": "518",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "475",
+      "away": "797",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "1189",
+      "away": "579",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=579"
+    },
+    {
+      "date": "2026-09-08",
+      "home": "692",
+      "away": "691",
+      "homeGoals": 6,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=691"
+    },
+    {
+      "date": "2026-09-09",
+      "home": "533",
+      "away": "787",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-09",
+      "home": "735",
+      "away": "800",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-09-09",
+      "home": "748",
+      "away": "679",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-09-09",
+      "home": "671",
+      "away": "790",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
+    },
+    {
+      "date": "2026-09-09",
+      "home": "2174",
+      "away": "556",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-09-09",
+      "home": "468",
+      "away": "475",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-09-09",
+      "home": "539",
+      "away": "797",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "740",
+      "away": "738",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "786",
+      "away": "793",
+      "homeGoals": 3,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "1249",
+      "away": "607",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "739",
+      "away": "1181",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "1222",
+      "away": "6770",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "754",
+      "away": "758",
+      "homeGoals": 4,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "737",
+      "away": "558",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "1204",
+      "away": "679",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "762",
+      "away": "530",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "650",
+      "away": "761",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=650"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "633",
+      "away": "770",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "1256",
+      "away": "791",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "723",
+      "away": "605",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "1229",
+      "away": "763",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "1665",
+      "away": "785",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "789",
+      "away": "1190",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=789"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "696",
+      "away": "550",
+      "homeGoals": 11,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "726",
+      "away": "575",
+      "homeGoals": 3,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=575"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "595",
+      "away": "764",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "759",
+      "away": "608",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "489",
+      "away": "641",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "465",
+      "away": "646",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=465"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "562",
+      "away": "794",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=562"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "760",
+      "away": "613",
+      "homeGoals": 1,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=613"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "609",
+      "away": "624",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=609"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "479",
+      "away": "478",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=479"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "627",
+      "away": "691",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "713",
+      "away": "494",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "506",
+      "away": "518",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "757",
+      "away": "548",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=548"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "472",
+      "away": "1153",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1153"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "6664",
+      "away": "667",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=667"
+    },
+    {
+      "date": "2026-09-10",
+      "home": "598",
+      "away": "692",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=598"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "2174",
+      "away": "533",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "1665",
+      "away": "793",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "748",
+      "away": "1240",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "649",
+      "away": "790",
+      "homeGoals": 5,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "1189",
+      "away": "529",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "556",
+      "away": "671",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "735",
+      "away": "1823",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=735"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "633",
+      "away": "562",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "465",
+      "away": "791",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "545",
+      "away": "605",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "792",
+      "away": "579",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=792"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "737",
+      "away": "611",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=737"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "575",
+      "away": "763",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "726",
+      "away": "1229",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "595",
+      "away": "794",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "608",
+      "away": "713",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "764",
+      "away": "770",
+      "homeGoals": 1,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "468",
+      "away": "797",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "1190",
+      "away": "566",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=566"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "1256",
+      "away": "646",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=646"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "475",
+      "away": "539",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=475"
+    },
+    {
+      "date": "2026-09-14",
+      "home": "758",
+      "away": "793",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-14",
+      "home": "789",
+      "away": "762",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-09-14",
+      "home": "624",
+      "away": "548",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=624"
+    },
+    {
+      "date": "2026-09-14",
+      "home": "688",
+      "away": "550",
+      "homeGoals": 9,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=688"
+    },
+    {
+      "date": "2026-09-14",
+      "home": "494",
+      "away": "579",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-09-14",
+      "home": "691",
+      "away": "478",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=691"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "633",
+      "away": "533",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "1221",
+      "away": "800",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "737",
+      "away": "740",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "607",
+      "away": "471",
+      "homeGoals": 10,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "739",
+      "away": "735",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "6770",
+      "away": "558",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "610",
+      "away": "614",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "1256",
+      "away": "787",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=787"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "746",
+      "away": "763",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "789",
+      "away": "794",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=789"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "1823",
+      "away": "734",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1823"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "761",
+      "away": "611",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "545",
+      "away": "759",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "696",
+      "away": "506",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "723",
+      "away": "726",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "479",
+      "away": "754",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=754"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "613",
+      "away": "609",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=613"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "797",
+      "away": "713",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "612",
+      "away": "1074",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "538",
+      "away": "1190",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "494",
+      "away": "667",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "539",
+      "away": "646",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=646"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "518",
+      "away": "598",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-09-15",
+      "home": "472",
+      "away": "757",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=472"
+    },
+    {
+      "date": "2026-09-16",
+      "home": "762",
+      "away": "605",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "575",
+      "away": "533",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "1221",
+      "away": "1823",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "740",
+      "away": "6770",
+      "homeGoals": 4,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "538",
+      "away": "793",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "1240",
+      "away": "739",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "786",
+      "away": "792",
+      "homeGoals": 9,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "649",
+      "away": "671",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "1222",
+      "away": "558",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "1204",
+      "away": "677",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "800",
+      "away": "1249",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "1181",
+      "away": "738",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1181"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "529",
+      "away": "465",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "734",
+      "away": "748",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "679",
+      "away": "737",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=679"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "759",
+      "away": "762",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "626",
+      "away": "735",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=626"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "788",
+      "away": "790",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "556",
+      "away": "633",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "791",
+      "away": "789",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "605",
+      "away": "688",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "763",
+      "away": "608",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "611",
+      "away": "624",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "545",
+      "away": "760",
+      "homeGoals": 9,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "518",
+      "away": "696",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "479",
+      "away": "530",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "646",
+      "away": "726",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "566",
+      "away": "595",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "785",
+      "away": "794",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=785"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "562",
+      "away": "770",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "754",
+      "away": "761",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=754"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "468",
+      "away": "494",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "627",
+      "away": "746",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=746"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "723",
+      "away": "797",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=723"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "713",
+      "away": "2174",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=2174"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "1074",
+      "away": "1205",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "1198",
+      "away": "691",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "548",
+      "away": "641",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "692",
+      "away": "506",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "612",
+      "away": "1075",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=612"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "471",
+      "away": "1153",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1153"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "667",
+      "away": "579",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=579"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "598",
+      "away": "1190",
+      "homeGoals": 0,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1190"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "757",
+      "away": "478",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=757"
+    },
+    {
+      "date": "2026-09-17",
+      "home": "475",
+      "away": "539",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=475"
+    },
+    {
+      "date": "2026-09-19",
+      "home": "748",
+      "away": "1181",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1181"
+    },
+    {
+      "date": "2026-09-19",
+      "home": "1185",
+      "away": "736",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-09-19",
+      "home": "713",
+      "away": "788",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "529",
+      "away": "595",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "1665",
+      "away": "562",
+      "homeGoals": 8,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "688",
+      "away": "545",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "624",
+      "away": "761",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=761"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "760",
+      "away": "1153",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=760"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "1074",
+      "away": "471",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "475",
+      "away": "579",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=579"
+    },
+    {
+      "date": "2026-09-21",
+      "home": "691",
+      "away": "472",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=472"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "533",
+      "away": "556",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "1249",
+      "away": "1221",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "740",
+      "away": "1204",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "789",
+      "away": "793",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "613",
+      "away": "607",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "1240",
+      "away": "677",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "790",
+      "away": "786",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "679",
+      "away": "739",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "6770",
+      "away": "738",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "605",
+      "away": "758",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "558",
+      "away": "1181",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "562",
+      "away": "529",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "748",
+      "away": "736",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "626",
+      "away": "1222",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=626"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "1185",
+      "away": "734",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "735",
+      "away": "737",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=735"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "579",
+      "away": "633",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "614",
+      "away": "760",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "785",
+      "away": "791",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "792",
+      "away": "794",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=792"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "1229",
+      "away": "787",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=787"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "611",
+      "away": "763",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "465",
+      "away": "1665",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "671",
+      "away": "770",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=671"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "550",
+      "away": "696",
+      "homeGoals": 0,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "566",
+      "away": "575",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=575"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "530",
+      "away": "754",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "468",
+      "away": "726",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "595",
+      "away": "2174",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "610",
+      "away": "471",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "624",
+      "away": "489",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "746",
+      "away": "479",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=746"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "713",
+      "away": "475",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "1198",
+      "away": "1074",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "538",
+      "away": "1256",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "641",
+      "away": "478",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "506",
+      "away": "692",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "646",
+      "away": "494",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "797",
+      "away": "764",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "667",
+      "away": "539",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=667"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "757",
+      "away": "759",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=757"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "1189",
+      "away": "6664",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=6664"
+    },
+    {
+      "date": "2026-09-22",
+      "home": "1205",
+      "away": "1075",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "566",
+      "away": "533",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "739",
+      "away": "740",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "793",
+      "away": "785",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "607",
+      "away": "1185",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "738",
+      "away": "1240",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "786",
+      "away": "788",
+      "homeGoals": 5,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "735",
+      "away": "6770",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "758",
+      "away": "545",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "558",
+      "away": "677",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "1181",
+      "away": "1204",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "800",
+      "away": "614",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "529",
+      "away": "713",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "1222",
+      "away": "679",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=679"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "737",
+      "away": "626",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=626"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "794",
+      "away": "790",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "575",
+      "away": "556",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "789",
+      "away": "650",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=650"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "791",
+      "away": "792",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "787",
+      "away": "2174",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=787"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "646",
+      "away": "671",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=671"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "627",
+      "away": "611",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "530",
+      "away": "746",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "726",
+      "away": "1256",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "595",
+      "away": "562",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "479",
+      "away": "608",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "641",
+      "away": "610",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "478",
+      "away": "489",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "1249",
+      "away": "613",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1249"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "770",
+      "away": "494",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "1190",
+      "away": "1229",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1229"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "754",
+      "away": "624",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=754"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "764",
+      "away": "468",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "539",
+      "away": "723",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=723"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "548",
+      "away": "736",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=736"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "538",
+      "away": "579",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "691",
+      "away": "506",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "688",
+      "away": "757",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=688"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "692",
+      "away": "518",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "797",
+      "away": "667",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "759",
+      "away": "472",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=472"
+    },
+    {
+      "date": "2026-09-24",
+      "home": "550",
+      "away": "598",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=598"
+    },
+    {
+      "date": "2026-09-25",
+      "home": "763",
+      "away": "761",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-25",
+      "home": "1075",
+      "away": "1198",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-09-26",
+      "home": "737",
+      "away": "1221",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-26",
+      "home": "556",
+      "away": "649",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "465",
+      "away": "649",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "792",
+      "away": "650",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=650"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "763",
+      "away": "760",
+      "homeGoals": 9,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "1665",
+      "away": "1190",
+      "homeGoals": 7,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "608",
+      "away": "530",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "688",
+      "away": "489",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "759",
+      "away": "761",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=761"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "1074",
+      "away": "627",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "612",
+      "away": "1205",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=612"
+    },
+    {
+      "date": "2026-09-28",
+      "home": "550",
+      "away": "518",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "786",
+      "away": "533",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "1221",
+      "away": "1185",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "740",
+      "away": "677",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "792",
+      "away": "793",
+      "homeGoals": 1,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "737",
+      "away": "1240",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "626",
+      "away": "739",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "6770",
+      "away": "1204",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "649",
+      "away": "787",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "548",
+      "away": "758",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "558",
+      "away": "738",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "800",
+      "away": "748",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "1181",
+      "away": "1222",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1181"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "529",
+      "away": "1665",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "735",
+      "away": "679",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=679"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "790",
+      "away": "791",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "788",
+      "away": "794",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "650",
+      "away": "605",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=650"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "609",
+      "away": "614",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "785",
+      "away": "789",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=789"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "671",
+      "away": "562",
+      "homeGoals": 8,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=671"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "1823",
+      "away": "1249",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1823"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "611",
+      "away": "479",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "598",
+      "away": "696",
+      "homeGoals": 3,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "726",
+      "away": "595",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "760",
+      "away": "610",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "489",
+      "away": "1205",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "465",
+      "away": "468",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=465"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "2174",
+      "away": "1229",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1229"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "746",
+      "away": "754",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=754"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "471",
+      "away": "613",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=613"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "734",
+      "away": "736",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=734"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "761",
+      "away": "627",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=761"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "646",
+      "away": "713",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "641",
+      "away": "506",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "688",
+      "away": "759",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=688"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "475",
+      "away": "494",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "757",
+      "away": "1153",
+      "homeGoals": 3,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1153"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "797",
+      "away": "539",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-09-29",
+      "home": "764",
+      "away": "667",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=667"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "679",
+      "away": "740",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "793",
+      "away": "790",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "794",
+      "away": "786",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "739",
+      "away": "737",
+      "homeGoals": 5,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "6770",
+      "away": "1181",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "649",
+      "away": "726",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "558",
+      "away": "735",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "1823",
+      "away": "800",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "677",
+      "away": "1222",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1222"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "633",
+      "away": "575",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "789",
+      "away": "792",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=792"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "787",
+      "away": "770",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=787"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "723",
+      "away": "671",
+      "homeGoals": 0,
+      "awayGoals": 10,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=671"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "530",
+      "away": "611",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "746",
+      "away": "608",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "757",
+      "away": "489",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "1229",
+      "away": "465",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=465"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "1249",
+      "away": "1074",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1249"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "613",
+      "away": "612",
+      "homeGoals": 3,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=613"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "2174",
+      "away": "468",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "759",
+      "away": "760",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=760"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "579",
+      "away": "566",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=566"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "736",
+      "away": "472",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=736"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "641",
+      "away": "688",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "667",
+      "away": "646",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=646"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "475",
+      "away": "797",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "539",
+      "away": "764",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=764"
+    },
+    {
+      "date": "2026-10-01",
+      "home": "691",
+      "away": "550",
+      "homeGoals": 11,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=691"
+    },
+    {
+      "date": "2026-10-02",
+      "home": "1185",
+      "away": "1665",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-10-02",
+      "home": "1256",
+      "away": "538",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-10-03",
+      "home": "713",
+      "away": "533",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-10-03",
+      "home": "1221",
+      "away": "739",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-10-03",
+      "home": "679",
+      "away": "1181",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1181"
+    },
+    {
+      "date": "2026-10-03",
+      "home": "738",
+      "away": "677",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=738"
+    },
+    {
+      "date": "2026-10-03",
+      "home": "518",
+      "away": "692",
+      "homeGoals": 7,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-10-03",
+      "home": "6664",
+      "away": "692",
+      "homeGoals": 6,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=6664"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "759",
+      "away": "758",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "529",
+      "away": "1229",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "791",
+      "away": "788",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "738",
+      "away": "746",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=738"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "763",
+      "away": "627",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "688",
+      "away": "608",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "691",
+      "away": "489",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "797",
+      "away": "562",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=562"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "472",
+      "away": "624",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=624"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "692",
+      "away": "641",
+      "homeGoals": 2,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "1075",
+      "away": "548",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=548"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "764",
+      "away": "475",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=764"
+    },
+    {
+      "date": "2026-10-05",
+      "home": "1205",
+      "away": "478",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=478"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "533",
+      "away": "575",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "734",
+      "away": "1221",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "558",
+      "away": "740",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "607",
+      "away": "614",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "1181",
+      "away": "1240",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "1204",
+      "away": "739",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "626",
+      "away": "6770",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "649",
+      "away": "529",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "800",
+      "away": "736",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "748",
+      "away": "1823",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "677",
+      "away": "679",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=679"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "785",
+      "away": "762",
+      "homeGoals": 5,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "1249",
+      "away": "1185",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "633",
+      "away": "556",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "1222",
+      "away": "737",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1222"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "738",
+      "away": "735",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=735"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "650",
+      "away": "759",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=650"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "791",
+      "away": "1190",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "794",
+      "away": "605",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "787",
+      "away": "726",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=787"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "770",
+      "away": "1665",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "465",
+      "away": "671",
+      "homeGoals": 1,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=671"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "611",
+      "away": "746",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "545",
+      "away": "608",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "761",
+      "away": "530",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "494",
+      "away": "595",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "613",
+      "away": "610",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "489",
+      "away": "688",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "723",
+      "away": "1229",
+      "homeGoals": 1,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1229"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "562",
+      "away": "2174",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=562"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "468",
+      "away": "667",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "760",
+      "away": "609",
+      "homeGoals": 3,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=760"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "624",
+      "away": "479",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=479"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "538",
+      "away": "713",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "548",
+      "away": "1198",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "518",
+      "away": "506",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "612",
+      "away": "478",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=612"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "646",
+      "away": "1256",
+      "homeGoals": 5,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=646"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "539",
+      "away": "797",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "6664",
+      "away": "579",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=579"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "598",
+      "away": "475",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=598"
+    },
+    {
+      "date": "2026-10-06",
+      "home": "692",
+      "away": "550",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=692"
+    },
+    {
+      "date": "2026-10-07",
+      "home": "614",
+      "away": "758",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-10-07",
+      "home": "608",
+      "away": "754",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-10-07",
+      "home": "627",
+      "away": "624",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=624"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "740",
+      "away": "760",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "788",
+      "away": "793",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "1240",
+      "away": "558",
+      "homeGoals": 3,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "677",
+      "away": "739",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "6770",
+      "away": "679",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "758",
+      "away": "472",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "1204",
+      "away": "1222",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "1181",
+      "away": "626",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1181"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "787",
+      "away": "529",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "762",
+      "away": "650",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "790",
+      "away": "789",
+      "homeGoals": 2,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "556",
+      "away": "566",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "738",
+      "away": "737",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=738"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "791",
+      "away": "794",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "605",
+      "away": "575",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "792",
+      "away": "785",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=792"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "479",
+      "away": "763",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "726",
+      "away": "1665",
+      "homeGoals": 3,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "671",
+      "away": "2174",
+      "homeGoals": 8,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=671"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "611",
+      "away": "612",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=611"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "545",
+      "away": "696",
+      "homeGoals": 4,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "530",
+      "away": "624",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "595",
+      "away": "770",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "548",
+      "away": "489",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "465",
+      "away": "562",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=465"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "754",
+      "away": "627",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=754"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "468",
+      "away": "723",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "746",
+      "away": "761",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=761"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "713",
+      "away": "539",
+      "homeGoals": 9,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "1074",
+      "away": "736",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "1205",
+      "away": "1198",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "641",
+      "away": "757",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "550",
+      "away": "506",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "688",
+      "away": "691",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=688"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "494",
+      "away": "764",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "797",
+      "away": "646",
+      "homeGoals": 2,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=646"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "518",
+      "away": "692",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "1256",
+      "away": "1190",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1190"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "475",
+      "away": "667",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=667"
+    },
+    {
+      "date": "2026-10-08",
+      "home": "1075",
+      "away": "478",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=478"
+    },
+    {
+      "date": "2026-10-09",
+      "home": "6664",
+      "away": "538",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+    },
+    {
+      "date": "2026-10-10",
+      "home": "1240",
+      "away": "1222",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-10-10",
+      "home": "1204",
+      "away": "626",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-10-10",
+      "home": "790",
+      "away": "800",
+      "homeGoals": 4,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=800"
+    },
+    {
+      "date": "2026-10-10",
+      "home": "737",
+      "away": "614",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-10-10",
+      "home": "671",
+      "away": "595",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=671"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "746",
+      "away": "607",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "1229",
+      "away": "786",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "566",
+      "away": "556",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "614",
+      "away": "471",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "754",
+      "away": "763",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "696",
+      "away": "518",
+      "homeGoals": 5,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "530",
+      "away": "627",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "624",
+      "away": "608",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "610",
+      "away": "609",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "759",
+      "away": "489",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=489"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "613",
+      "away": "760",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=613"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "1256",
+      "away": "494",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "692",
+      "away": "598",
+      "homeGoals": 4,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=598"
+    },
+    {
+      "date": "2026-10-12",
+      "home": "757",
+      "away": "691",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=757"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "533",
+      "away": "566",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "1221",
+      "away": "736",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "740",
+      "away": "1222",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "1240",
+      "away": "679",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "738",
+      "away": "739",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "6770",
+      "away": "737",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "770",
+      "away": "649",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "758",
+      "away": "761",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=758"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "626",
+      "away": "558",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=558"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "1181",
+      "away": "677",
+      "homeGoals": 6,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1181"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "529",
+      "away": "726",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "1249",
+      "away": "748",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "545",
+      "away": "762",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "1185",
+      "away": "1823",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "788",
+      "away": "556",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "791",
+      "away": "650",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=650"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "575",
+      "away": "633",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "605",
+      "away": "763",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "787",
+      "away": "792",
+      "homeGoals": 6,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=792"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "595",
+      "away": "1665",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "506",
+      "away": "696",
+      "homeGoals": 4,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=696"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "530",
+      "away": "548",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=530"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "785",
+      "away": "1190",
+      "homeGoals": 7,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=785"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "2174",
+      "away": "465",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=465"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "1229",
+      "away": "468",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1229"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "609",
+      "away": "760",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=760"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "479",
+      "away": "757",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=479"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "688",
+      "away": "627",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "764",
+      "away": "713",
+      "homeGoals": 1,
+      "awayGoals": 11,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "1074",
+      "away": "1205",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "691",
+      "away": "641",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "494",
+      "away": "539",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=494"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "612",
+      "away": "1075",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=612"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "667",
+      "away": "797",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=797"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "478",
+      "away": "472",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=472"
+    },
+    {
+      "date": "2026-10-13",
+      "home": "598",
+      "away": "550",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=598"
+    },
+    {
+      "date": "2026-10-14",
+      "home": "614",
+      "away": "610",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=614"
+    },
+    {
+      "date": "2026-10-14",
+      "home": "641",
+      "away": "624",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=624"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "785",
+      "away": "533",
+      "homeGoals": 3,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "1221",
+      "away": "758",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "1181",
+      "away": "740",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=740"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "607",
+      "away": "613",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "735",
+      "away": "1240",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1240"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "739",
+      "away": "558",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=739"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "6770",
+      "away": "677",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=6770"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "649",
+      "away": "791",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=649"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "1204",
+      "away": "737",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "792",
+      "away": "529",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=529"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "748",
+      "away": "530",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "679",
+      "away": "626",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=679"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "761",
+      "away": "762",
+      "homeGoals": 1,
+      "awayGoals": 9,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "788",
+      "away": "787",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=788"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "556",
+      "away": "575",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=556"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "1222",
+      "away": "738",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1222"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "545",
+      "away": "650",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=650"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "566",
+      "away": "605",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=605"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "624",
+      "away": "763",
+      "homeGoals": 2,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=763"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "1665",
+      "away": "2174",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1665"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "754",
+      "away": "1823",
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1823"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "494",
+      "away": "726",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=726"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "595",
+      "away": "646",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=595"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "489",
+      "away": "608",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=608"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "614",
+      "away": "610",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "770",
+      "away": "465",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=465"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "713",
+      "away": "1229",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1229"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "797",
+      "away": "468",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=468"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "746",
+      "away": "548",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=746"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "609",
+      "away": "471",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=609"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "688",
+      "away": "479",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=479"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "723",
+      "away": "667",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=723"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "538",
+      "away": "794",
+      "homeGoals": 7,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "627",
+      "away": "641",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "506",
+      "away": "598",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "759",
+      "away": "1153",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1153"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "518",
+      "away": "475",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "6664",
+      "away": "539",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=6664"
+    },
+    {
+      "date": "2026-10-15",
+      "home": "1205",
+      "away": "691",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=691"
+    },
+    {
+      "date": "2026-10-16",
+      "home": "579",
+      "away": "1256",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=579"
+    },
+    {
+      "date": "2026-10-16",
+      "home": "1075",
+      "away": "472",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=472"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "607",
+      "away": "614",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "785",
+      "away": "786",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "1204",
+      "away": "735",
+      "homeGoals": 5,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1204"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "1190",
+      "away": "633",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=633"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "671",
+      "away": "789",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=789"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "575",
+      "away": "757",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=575"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "610",
+      "away": "613",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "1249",
+      "away": "479",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=1249"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "760",
+      "away": "471",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=760"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "793",
+      "away": "791",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "626",
+      "away": "738",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=626"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "1185",
+      "away": "754",
+      "homeGoals": 4,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "545",
+      "away": "746",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=545"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "770",
+      "away": "468",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "566",
+      "away": "764",
+      "homeGoals": 8,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=566"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "472",
+      "away": "688",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=688"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "646",
+      "away": "475",
+      "homeGoals": 8,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=646"
+    },
+    {
+      "date": "2026-10-19",
+      "home": "691",
+      "away": "692",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=691"
+    }
+  ]
+}
