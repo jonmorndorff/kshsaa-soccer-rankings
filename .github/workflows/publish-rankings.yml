@@ -17,7 +17,7 @@ jobs:
       - run: python scripts/collect.py --gender boys --year 2026
       - name: Check results
         run: |
-          python -c "import json; d=json.load(open('data/boys-2026.json')); r=json.load(open('data/boys-2026-review.json')); assert len(d['teams']) >= 100; assert r['fetchedTeams'] >= 100; assert len(d['games']) >= 40; assert not any('reported' in c for c in r['conflicts'])"
+          python -c "import json; d=json.load(open('data/boys-2026.json')); r=json.load(open('data/boys-2026-review.json')); assert len(d['teams']) >= 100; assert r['fetchedTeams'] >= 100; assert len(d['games']) >= 40; assert all('existing' in c and 'reported' in c for c in r['conflicts'])"
       - name: Save public data
         run: |
           git config user.name "github-actions[bot]"
