@@ -211,7 +211,7 @@ def main():
     for sid,t in teams.items():
         key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
         name_to_id[key]=sid
-    conflicts=[];unmatched=[];seen=0; disputed_keys=set();upcoming={};full_schedules={}
+    conflicts=[];unmatched=[];seen=0; disputed_keys=set();upcoming={};full_schedules={};external_games={}
     for sid,team in discovered.items():
         if args.max_teams and seen>=args.max_teams:break
         url=BASE+f'{args.gender.title()}SchedulesByTeam.cfm?Class={team["classification"]}&SchoolSelect={sid}'
@@ -224,6 +224,14 @@ def main():
             opponent=re.sub(r'[^a-z0-9]','',r['opponent'].lower().replace(' hs',''))
             oid=r.get('opponent_id') if r.get('opponent_id') in teams else name_to_id.get(opponent)
             if not oid or oid==sid:
+                # Preserve verified final results against opponents outside our
+                # KSHSAA standings universe. Never invent opponent classifications.
+                if not oid:
+                    external_key=re.sub(r'[^a-z0-9]','',r['opponent'].lower())
+                    external_games[(sid,r['date'],external_key)]={
+                        'team':sid,'date':r['date'],'opponent':r['opponent'],
+                        'opponentKey':external_key,'gf':r['gf'],'ga':r['ga'],
+                        'source':r['source']}
                 unmatched.append({'team':team['name'],'opponent':r['opponent'],'date':r['date']});continue
             if r['location']=='V':home,away=oid,sid;hg,ag=r['ga'],r['gf']
             elif r['location']=='H':home,away=sid,oid;hg,ag=r['gf'],r['ga']
@@ -238,7 +246,7 @@ def main():
     # Exclude disputed fixtures entirely rather than trusting either inconsistent report.
     for key in disputed_keys:
         games.pop(key,None)
-    out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date']),'upcoming':upcoming,'schedules':full_schedules}
+    out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date']),'upcoming':upcoming,'schedules':full_schedules,'externalGames':sorted(external_games.values(),key=lambda x:(x['date'],x['team']))}
     # Avoid publishing partial or unreviewed initial datasets automatically.
     if not out['games']:raise RuntimeError('No verified parsable games; archive unchanged.')
     score_conflicts=[x for x in conflicts if 'reported' in x]
