@@ -268,9 +268,9 @@ def collect_missouri_games(session, records, year):
                 cells=tr.find_all('td',recursive=False)
                 if len(cells)<4:continue
                 values=[x.get_text(' ',strip=True) for x in cells]
-                date_text=next((v for v in values if re.fullmatch(r'(?:↳|⤷)?\\s*\\d{1,2}/\\d{1,2}',v)),None)
+                date_text=next((v for v in values if re.fullmatch(r'(?:↳|⤷)?\s*\d{1,2}/\d{1,2}',v)),None)
                 if not date_text:continue
-                mm=re.search(r'(\\d{1,2})/(\\d{1,2})',date_text)
+                mm=re.search(r'(\d{1,2})/(\d{1,2})',date_text)
                 if not mm:continue
                 month,day=map(int,mm.groups())
                 try:date=dt.date(year,month,day).isoformat()
@@ -279,7 +279,7 @@ def collect_missouri_games(session, records, year):
                 if result_index is None or result_index+1>=len(values):continue
                 outcome=values[result_index].strip().upper()
                 if outcome not in ('W','L','T'):continue
-                sm=re.match(r'^(\\d{1,2})\\s*[-–]\\s*(\\d{1,2})(?:\\s*\\(.*\\))?
+                sm=re.match(r'^(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*\(.*\))?
     p=argparse.ArgumentParser();p.add_argument('--gender',choices=['boys','girls'],required=True);p.add_argument('--year',type=int,required=True);p.add_argument('--max-teams',type=int,default=0);args=p.parse_args()
     path=ROOT/'data'/f'{args.gender}-{args.year}.json';path.parent.mkdir(exist_ok=True)
     old=json.loads(path.read_text()) if path.exists() else {'gender':args.gender,'year':args.year,'teams':[],'games':[]}
