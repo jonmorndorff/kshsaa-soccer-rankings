@@ -60,6 +60,48 @@ def discover(session,gender,year):
         time.sleep(1.5)
     return found
 
+def assign_regions(session, teams, year):
+    """Use published KSHSAA regional assignments; never infer regions geographically."""
+    url=BASE+'BoysRegionalAssignments.cfm'
+    try:
+        soup=get(session,url)
+        lines=[re.sub(r'\\s+',' ',x).strip() for x in soup.stripped_strings]
+        lines=[x for x in lines if x]
+        # The official assignment page may initially publish only some classes.
+        # Match schools only inside the corresponding East/West 'Schools:' section.
+        def norm(s):
+            return re.sub(r'[^a-z0-9]','',s.lower().replace(' high school',' hs').replace(' high',' hs'))
+        index={}
+        for sid,t in teams.items():
+            index.setdefault((t['classification'],norm(t['name'])),[]).append(sid)
+        active=None
+        in_schools=False
+        matched=set()
+        for line in lines:
+            heading=re.search(r'(6A|5A|4-1A|4-3-2-1A)\\s*[-–]+\\s*(East|West)\\s+Kansas\\s+Regional',line,re.I)
+            if heading:
+                cls='4-3-2-1A' if heading.group(1) in ('4-1A','4-3-2-1A') else heading.group(1)
+                active=(cls,heading.group(2).title())
+                in_schools=False
+                continue
+            if line.startswith('Schools:'):
+                in_schools=True
+                line=line[len('Schools:'):].strip()
+            if not in_schools or not active:
+                continue
+            if 'No Pets Permitted' in line or line=='Bracket':
+                in_schools=False
+                continue
+            for name in line.split(';'):
+                name=name.strip()
+                if not name:continue
+                for sid in index.get((active[0],norm(name)),[]):
+                    teams[sid]['region']=active[1]
+                    matched.add(sid)
+        print(f'Official regional assignments: {len(matched)} schools matched from {url}')
+    except Exception as exc:
+        print(f'Official regional assignments unavailable: {exc}; leaving regions unassigned.')
+
 def parse_page(soup, team, year, url):
     """Parse the six DIV columns in KSHSAA's regular-season schedule."""
     heading=soup.find(string=re.compile(r'(BOYS|GIRLS) SOCCER SEASON SCHEDULE', re.I))
@@ -119,6 +161,7 @@ def main():
     # Retain archived game records, but do not keep stale or misclassified
     # team entries from earlier failed collection attempts.
     teams=discovered.copy()
+    assign_regions(session,teams,args.year)
     name_to_id={}
     for sid,t in teams.items():
         key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
