@@ -135,7 +135,9 @@ def parse_page(soup, team, year, url):
         outcome=cols[4].get_text(' ',strip=True).upper()
         score_text=cols[5].get_text(' ',strip=True)
         score=re.match(r'^(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*\(.*\))?$',score_text)
-        if opponent and not score and outcome not in ('W','L','T'):
+        # KSHSAA displays unplayed fixtures as a blank W/L/T with 0-0 score.
+        # The placeholder 0-0 is NOT a completed draw.
+        if opponent and not outcome and location in ('H','V','N') and (not score or (score.group(1)=='0' and score.group(2)=='0')):
             schedule.append({'date':date,'opponent':opponent,'location':location if location in ('H','V','N') else '', 'source':url})
         if not opponent or not score or outcome not in ('W','L','T') or location not in ('H','V','N'):
             continue
