@@ -2,7 +2,7 @@ name: Publish Soccer Results
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 11,23 * * *"
+    - cron: "20 * * * *"
 permissions:
   contents: write
   pages: write
