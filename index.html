@@ -8,9 +8,23 @@ let externalRatings={};
 for(let g of external){(externalRatings[g.opponentKey]??=[]).push(g)}
 const externalStrength={};
 const normExternal=s=>String(s||'').toLowerCase().replace(/\b(high school|hs)\b/g,'').replace(/[^a-z0-9]/g,'');
-const moRecords=new Map(); // MSHSAA W-L-T scraper is not validated; don't weight rankings with its records.
+const moRecords=new Map(missouriRecords.filter(r=>r.wins+r.losses+r.ties>0&&r.wins+r.losses+r.ties<=40).map(r=>[normExternal(r.name),r]));
+// Explicit school-name crosswalk; never merge the two St. Pius X schools
+// or confuse KC East Christian with East (Kansas City).
+const moAliases={
+  stpiusxhsnorthkansascity:'St. Pius X (Kansas City)',
+  lincolncollegeprepkc:'Lincoln College Prep',
+  pembrokehillhskansascity:'Pembroke Hill',
+  rockhursthskansascity:'Rockhurst',
+  parkhillsouthhsriverside:'Park Hill South',
+  stmichaelthearchangelcatholichsleessummit:'St. Michael the Archangel',
+  leesummitwesthsleessummit:'Lee\'s Summit West',
+  leesummitnorthhsleessummit:'Lee\'s Summit North',
+  kceasthskansascity:null
+};
 for(let [key,rows] of Object.entries(externalRatings)){
-  const record=moRecords.get(normExternal(rows[0].opponent));
+  const alias=Object.prototype.hasOwnProperty.call(moAliases,key)?moAliases[key]:null;
+  const record=alias?moRecords.get(normExternal(alias)):null;
   // Missouri record establishes a shrunk prior; Kansas crossover results
   // calibrate it. No Missouri classification is inferred from the name.
   let prior=.5;
