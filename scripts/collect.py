@@ -149,7 +149,7 @@ def main():
     fetch_errors=[x for x in conflicts if 'error' in x]
     if score_conflicts or (not args.max_teams and seen < max(100, int(len(discovered)*0.95))):
         report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
-        report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\\n')
+        report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
         raise RuntimeError(f'{len(score_conflicts)} score conflicts, {len(fetch_errors)} fetch errors, {seen}/{len(discovered)} schedules collected. Archive unchanged.')
     path.write_text(json.dumps(out,indent=2)+'\n')
     report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
