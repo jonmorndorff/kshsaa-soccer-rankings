@@ -215,12 +215,25 @@ def collect_missouri_records(session, year):
             if not re.search(r'(?:[?&]s=|/Schedule)',href,re.I):
                 continue
             name=a.get_text(' ',strip=True)
-            nums=[cell.get_text(' ',strip=True) for cell in cells[1:4]]
-            if not name or not all(re.fullmatch(r'\d{1,3}',n) for n in nums):
+            # Read the *rightmost* W/L/T/% columns; leading columns may
+            # contain classification, district, or hidden responsive cells.
+            values=[cell.get_text(' ',strip=True) for cell in cells]
+            candidates=[]
+            for j in range(1,len(values)-3):
+                trio=values[j:j+3]
+                pct=values[j+3].replace('%','').strip()
+                if not all(re.fullmatch(r'\\d{1,3}',n) for n in trio):
+                    continue
+                if not re.fullmatch(r'\\d{1,3}(?:\\.\\d+)?',pct):
+                    continue
+                w,l,t=map(int,trio)
+                total=w+l+t
+                expected=100*(w+.5*t)/total if total else 0
+                if total<=40 and abs(expected-float(pct))<.15:
+                    candidates.append((w,l,t))
+            if len(candidates)!=1:
                 continue
-            w,l,t=map(int,nums)
-            if w+l+t>40:
-                continue
+            w,l,t=candidates[0]
             records.append({'name':name,'wins':w,'losses':l,'ties':t,'source':href})
         if len(records)<30:
             raise ValueError(f'Only {len(records)} valid Missouri records; expected >=30')
@@ -242,7 +255,7 @@ def main():
     # team entries from earlier failed collection attempts.
     teams=discovered.copy()
     assign_regions(session,teams,args.year)
-    missouri_records=collect_missouri_records(session,args.year) or old.get('missouriRecords',[])
+    missouri_records=collect_missouri_records(session,args.year)
     name_to_id={}
     for sid,t in teams.items():
         key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
