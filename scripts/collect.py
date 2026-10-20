@@ -116,7 +116,7 @@ def parse_page(soup, team, year, url):
     full_schedule=[]
     for container in soup.find_all('div'):
         cols=container.find_all('div',recursive=False)
-        if len(cols)!=6:continue
+        if len(cols) not in (5,6):continue
         date_text=cols[0].get_text(' ',strip=True)
         dm=re.fullmatch(r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+([A-Za-z]{3})\s+(\d{1,2})',date_text)
         if not dm:continue
@@ -133,14 +133,14 @@ def parse_page(soup, team, year, url):
         opponent_link=cols[2].find('a',href=True)
         opponent_id=parse_qs(urlparse(opponent_link['href']).query).get('SchoolSelect',[''])[0] if opponent_link else ''
         location=cols[3].get_text(' ',strip=True).upper()
-        outcome=cols[4].get_text(' ',strip=True).upper()
-        score_text=cols[5].get_text(' ',strip=True)
+        outcome=cols[4].get_text(' ',strip=True).upper() if len(cols)==6 else ''
+        score_text=cols[5].get_text(' ',strip=True) if len(cols)==6 else cols[4].get_text(' ',strip=True)
         score=re.match(r'^(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*\(.*\))?$',score_text)
         if opponent and location in ('H','V','N'):
             full_schedule.append({'date':date,'opponent':opponent,'location':location,'result':outcome if outcome in ('W','L','T') else '', 'score':score_text if outcome in ('W','L','T') else '', 'source':url})
         # KSHSAA displays unplayed fixtures as a blank W/L/T with 0-0 score.
         # The placeholder 0-0 is NOT a completed draw.
-        if opponent and not outcome and location in ('H','V','N') and (not score or (score.group(1)=='0' and score.group(2)=='0')):
+        if opponent and outcome not in ('W','L','T') and location in ('H','V','N') and (not score or (score.group(1)=='0' and score.group(2)=='0')):
             schedule.append({'date':date,'opponent':opponent,'location':location if location in ('H','V','N') else '', 'source':url})
         if not opponent or not score or outcome not in ('W','L','T') or location not in ('H','V','N'):
             continue
