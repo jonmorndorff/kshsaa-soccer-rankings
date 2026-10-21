@@ -279,74 +279,7 @@ def collect_missouri_games(session, records, year):
                 if result_index is None or result_index+1>=len(values):continue
                 outcome=values[result_index].strip().upper()
                 if outcome not in ('W','L','T'):continue
-                sm=re.match(r'^(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*\(.*\))?
-    p=argparse.ArgumentParser();p.add_argument('--gender',choices=['boys','girls'],required=True);p.add_argument('--year',type=int,required=True);p.add_argument('--max-teams',type=int,default=0);args=p.parse_args()
-    path=ROOT/'data'/f'{args.gender}-{args.year}.json';path.parent.mkdir(exist_ok=True)
-    old=json.loads(path.read_text()) if path.exists() else {'gender':args.gender,'year':args.year,'teams':[],'games':[]}
-    teams={t['id']:t for t in old['teams']};games={ (g['date'],*sorted([g['home'],g['away']])):g for g in old['games']}
-    session=requests.Session();session.headers.update(HEADERS)
-    discovered=discover(session,args.gender,args.year)
-    if not discovered:raise RuntimeError('No team selectors discovered; site markup requires review. Archive unchanged.')
-    # Retain archived game records, but do not keep stale or misclassified
-    # team entries from earlier failed collection attempts.
-    teams=discovered.copy()
-    assign_regions(session,teams,args.year)
-    missouri_records=collect_missouri_records(session,args.year)
-    missouri_games=collect_missouri_games(session,missouri_records,args.year) if missouri_records else []
-    name_to_id={}
-    for sid,t in teams.items():
-        key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
-        name_to_id[key]=sid
-    conflicts=[];unmatched=[];seen=0; disputed_keys=set();upcoming={};full_schedules={};external_games={}
-    for sid,team in discovered.items():
-        if args.max_teams and seen>=args.max_teams:break
-        url=BASE+f'{args.gender.title()}SchedulesByTeam.cfm?Class={team["classification"]}&SchoolSelect={sid}'
-        try:rows,fixtures,full=parse_page(get(session,url),team,args.year,url)
-        except Exception as e:conflicts.append({'url':url,'error':str(e)});continue
-        seen+=1
-        upcoming[sid]=fixtures
-        full_schedules[sid]=full
-        for r in rows:
-            opponent=re.sub(r'[^a-z0-9]','',r['opponent'].lower().replace(' hs',''))
-            oid=r.get('opponent_id') if r.get('opponent_id') in teams else name_to_id.get(opponent)
-            if not oid or oid==sid:
-                # Preserve verified final results against opponents outside our
-                # KSHSAA standings universe. Never invent opponent classifications.
-                if not oid:
-                    external_key=re.sub(r'[^a-z0-9]','',r['opponent'].lower())
-                    external_games[(sid,r['date'],external_key)]={
-                        'team':sid,'date':r['date'],'opponent':r['opponent'],
-                        'opponentKey':external_key,'gf':r['gf'],'ga':r['ga'],
-                        'source':r['source']}
-                unmatched.append({'team':team['name'],'opponent':r['opponent'],'date':r['date']});continue
-            if r['location']=='V':home,away=oid,sid;hg,ag=r['ga'],r['gf']
-            elif r['location']=='H':home,away=sid,oid;hg,ag=r['gf'],r['ga']
-            else:
-                # Neutral sites do not identify a home team; use stable ID ordering.
-                home,away=sorted((sid,oid));hg,ag=(r['gf'],r['ga']) if home==sid else (r['ga'],r['gf'])
-            key=(r['date'],*sorted([home,away]))
-            new={'date':r['date'],'home':home,'away':away,'homeGoals':hg,'awayGoals':ag,'source':r['source']}
-            if key in games and (games[key]['home'],games[key]['away'],games[key]['homeGoals'],games[key]['awayGoals']) != (home,away,hg,ag):
-                conflicts.append({'existing':games[key],'reported':new});disputed_keys.add(key);continue
-            games.setdefault(key,new) # Never overwrite archived results automatically
-    # Exclude disputed fixtures entirely rather than trusting either inconsistent report.
-    for key in disputed_keys:
-        games.pop(key,None)
-    out={'gender':args.gender,'year':args.year,'teams':sorted(teams.values(),key=lambda x:x['name']),'games':sorted(games.values(),key=lambda x:x['date']),'upcoming':upcoming,'schedules':full_schedules,'externalGames':sorted(external_games.values(),key=lambda x:(x['date'],x['team'])),'missouriRecords':missouri_records,'missouriGames':missouri_games}
-    # Avoid publishing partial or unreviewed initial datasets automatically.
-    if not out['games']:raise RuntimeError('No verified parsable games; archive unchanged.')
-    score_conflicts=[x for x in conflicts if 'reported' in x]
-    fetch_errors=[x for x in conflicts if 'error' in x]
-    if (not args.max_teams and seen < max(100, int(len(discovered)*0.95))):
-        report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
-        report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
-        raise RuntimeError(f'{len(score_conflicts)} score conflicts, {len(fetch_errors)} fetch errors, {seen}/{len(discovered)} schedules collected. Archive unchanged.')
-    path.write_text(json.dumps(out,indent=2)+'\n')
-    report=ROOT/'data'/f'{args.gender}-{args.year}-review.json'
-    report.write_text(json.dumps({'fetchedTeams':seen,'games':len(out['games']),'unmatched':unmatched,'conflicts':conflicts},indent=2)+'\n')
-    print(f'Wrote {path}: {len(out["games"])} games; {len(unmatched)} unmatched; {len(disputed_keys)} disputed fixtures excluded; {len(fetch_errors)} fetch warnings. Review {report}.')
-if __name__=='__main__':main()
-,values[result_index+1])
+                sm=re.match(r'^(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*\(.*\))?$', values[result_index+1])
                 if not sm:continue
                 gf,ga=map(int,sm.groups())
                 if (gf>ga and outcome!='W') or (gf<ga and outcome!='L') or (gf==ga and outcome!='T'):continue
