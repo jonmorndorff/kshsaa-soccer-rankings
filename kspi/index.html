@@ -40,7 +40,11 @@ function compute(d){
    return false;
   });
   if(candidates.length===1)return candidates[0];
-  if(city){const local=candidates.filter(r=>norm(r.name).includes(city));if(local.length===1)return local[0]}
+  if(candidates.length>1){
+   const location=city==="northkansascity"?"kansascity":city;
+   const local=candidates.filter(r=>norm(r.name).includes(location));
+   if(local.length===1)return local[0];
+  }
   return null;
  };
  const moGames=new Map(teams.map(t=>[String(t.id),[]]));
