@@ -12,15 +12,15 @@ from bs4 import BeautifulSoup
 ROOT=Path(__file__).resolve().parents[1]
 BASE="https://www.ihsa.org"
 INDEX=BASE+"/sports/boys-soccer"
-PROFILE=re.compile(r"/sports/boys-soccer/maxpreps-schools/SOB/\\d+/20\\d\\d-\\d\\d",re.I)
-RECORD=re.compile(r"\\b(\\d{1,2})\\s*[-–]\\s*(\\d{1,2})(?:\\s*[-–]\\s*(\\d{1,2}))?\\b")
+PROFILE=re.compile(r"/sports/boys-soccer/maxpreps-schools/SOB/\d+/20\d\d-\d\d",re.I)
+RECORD=re.compile(r"\b(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*[-–]\s*(\d{1,2}))?\b")
 ALIASES={
  "normalcommunitywest":"normalwest",
  "normalwest":"normalwest",
  "normalcommunitywesths":"normalwest",
 }
 def norm(s):
- s=re.sub(r"\\b(high school|hs|school)\\b","",str(s).lower())
+ s=re.sub(r"\b(high school|hs|school)\b","",str(s).lower())
  return re.sub(r"[^a-z0-9]","",s)
 def canonical(s):
  key=norm(s)
@@ -52,7 +52,7 @@ def parse(soup,url,year):
  if not name or len(name)>110:return None
  # Require current season and an explicit Overall W-L[-T] record.
  if f"{year}-{str(year+1)[-2:]}" not in text:return None
- m=re.search(r"\\bOverall\\s+(\\d{1,2})\\s*[-–]\\s*(\\d{1,2})(?:\\s*[-–]\\s*(\\d{1,2}))?\\b",text,re.I)
+ m=re.search(r"\bOverall\s+(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*[-–]\s*(\d{1,2}))?\b",text,re.I)
  if not m:return None
  w,l,t=(int(m.group(1)),int(m.group(2)),int(m.group(3) or 0))
  if not 1<=w+l+t<=35:return None
@@ -84,9 +84,9 @@ def main():
  old.update(records)
  if len(old)<args.min_records:raise SystemExit(f"Only {len(old)} Illinois records found; preserving existing data")
  data["illinoisRecords"]=sorted(old.values(),key=lambda r:r["name"])
- path.write_text(json.dumps(data,indent=2,ensure_ascii=False)+"\\n",encoding="utf-8")
+ path.write_text(json.dumps(data,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
  review={"fetchedProfiles":len(urls),"freshRecords":len(records),"totalRecords":len(old),
          "externalOpponentNames":[g.get("opponent") for g in data.get("externalGames",[]) if "normal community west" in g.get("opponent","").lower()]}
- (ROOT/"data"/f"boys-{args.year}-illinois-review.json").write_text(json.dumps(review,indent=2)+"\\n",encoding="utf-8")
+ (ROOT/"data"/f"boys-{args.year}-illinois-review.json").write_text(json.dumps(review,indent=2)+"\n",encoding="utf-8")
  print(f"Illinois: {len(records)} current records fetched, {len(old)} retained total")
 if __name__=="__main__":main()
