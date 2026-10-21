@@ -328,6 +328,8 @@ def main():
     teams=discovered.copy()
     assign_regions(session,teams,args.year)
     missouri_records=collect_missouri_records(session,args.year)
+    if not missouri_records:
+        missouri_records=old.get('missouriRecords',[])
     name_to_id={}
     for sid,t in teams.items():
         key=re.sub(r'[^a-z0-9]','',t['name'].lower().replace(' hs',''))
