@@ -1,0 +1,26 @@
+name: Update Missouri Soccer Records
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 13 * * *'
+permissions:
+  contents: write
+jobs:
+  collect-missouri:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/collect_missouri.py --year 2026
+      - name: Commit Missouri records
+        run: |
+          if ! git diff --quiet -- data/boys-2026.json data/boys-2026-missouri-review.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/boys-2026.json data/boys-2026-missouri-review.json
+            git commit -m 'Refresh official Missouri soccer records'
+            git push
+          fi
