@@ -71,11 +71,11 @@ def main():
  session=requests.Session()
  session.headers.update({"User-Agent":"KansasSoccerPowerIndex/1.0 (educational research; low-rate requests)"})
  urls=discover(session,args.year)
+ print(f"IHSA directory yielded {len(urls)} season profile links",flush=True)
  # No fabricated profile identifiers. A stable seed can be extended with verified IHSA links.
  urls=sorted(set(urls+[
   f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/0425/{args.year}-{str(args.year+1)[-2:]}",
-  f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/0209/{args.year}-{str(args.year+1)[-2:]}",
-  f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/2328/{args.year}-{str(args.year+1)[-2:]}"
+  f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/0209/{args.year}-{str(args.year+1)[-2:]}"
  ]))
  records={}
  for url in urls:
@@ -83,10 +83,11 @@ def main():
   except (requests.RequestException,ValueError) as exc:
    print(f"Skipping {url}: {exc}");continue
   if r:records[canonical(r["name"])]=r
+  else:print(f"No valid current-season record at {url}",flush=True)
  # Keep previous records if discovery is incomplete.
  old={canonical(r["name"]):r for r in data.get("illinoisRecords",[]) if r.get("name")}
  old.update(records)
- if len(old)<args.min_records:raise SystemExit(f"Only {len(old)} Illinois records found; preserving existing data")
+ if len(old)<args.min_records:raise SystemExit(f"Only {len(old)} Illinois records found; preserving existing data. Inspect per-URL diagnostics above.")
  data["illinoisRecords"]=sorted(old.values(),key=lambda r:r["name"])
  path.write_text(json.dumps(data,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
  review={"fetchedProfiles":len(urls),"freshRecords":len(records),"totalRecords":len(old),
