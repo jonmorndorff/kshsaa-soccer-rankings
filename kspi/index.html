@@ -36,6 +36,7 @@ function compute(d){
   const candidates=moRecords.filter(r=>{
    const school=norm(r.name.split("(")[0]),qualifier=norm((r.name.match(/\(([^)]*)\)/)||[])[1]||"");
    if(school===base)return true;
+   if(base.startsWith(school)&&school.length>=12&&(base.slice(school.length)==="catholic"||base.slice(school.length)==="academy"))return true;
    if(base==="kceast"&&school==="east"&&qualifier==="kansascity")return true;
    return false;
   });
