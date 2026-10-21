@@ -7478,7 +7478,14 @@
       }
     ],
     "713": [],
-    "1074": [],
+    "1074": [
+      {
+        "date": "2026-10-22",
+        "opponent": "Heritage Christian Academy",
+        "location": "H",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+      }
+    ],
     "1198": [
       {
         "date": "2026-10-22",
@@ -17262,6 +17269,14 @@
         "location": "H",
         "result": "W",
         "score": "6-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
+      },
+      {
+        "date": "2026-10-22",
+        "opponent": "Heritage Christian Academy",
+        "location": "H",
+        "result": "",
+        "score": "",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
       }
     ],
