@@ -33,7 +33,7 @@ def fetch(session,url):
 def discover(session,year):
  """Discover profile links from IHSA boys-soccer pages, not guessed school IDs."""
  season=f"{year}-{str(year+1)[-2:]}"
- seeds=[INDEX,INDEX+"/regular-season",INDEX+"/maxpreps-schools"]
+ seeds=[INDEX,INDEX+"/regular-season",INDEX+"/maxpreps-schools",BASE+"/sports/boys-soccer/maxpreps-schools/SOB"]
  found=set()
  for url in seeds:
   try:soup=fetch(session,url)
@@ -44,17 +44,20 @@ def discover(session,year):
    if PROFILE.search(u) and u.endswith("/"+season):found.add(u)
  return sorted(found)
 def parse(soup,url,year):
+ """Read the actual IHSA team header and the Overall record.
+
+ IHSA page headings are 'Dunlap', 'Belleville East', etc. The season appears
+ as 2026-27, and the record appears on the following line as 14-4-1.
+ """
  text=soup.get_text(" ",strip=True)
- if "We couldn't load this team" in text:return None
+ if f"{year}-{str(year+1)[-2:]}" not in text:return None
  h=soup.find("h1")
  if not h:return None
  name=h.get_text(" ",strip=True)
  if not name or len(name)>110:return None
- # Require current season and an explicit Overall W-L[-T] record.
- if f"{year}-{str(year+1)[-2:]}" not in text:return None
- m=re.search(r"\bOverall\s+(\d{1,2})\s*[-–]\s*(\d{1,2})(?:\s*[-–]\s*(\d{1,2}))?\b",text,re.I)
+ m=re.search(r"\\bOverall\\s+(\\d{1,2})\\s*[-–]\\s*(\\d{1,2})(?:\\s*[-–]\\s*(\\d{1,2}))?\\b",text,re.I)
  if not m:return None
- w,l,t=(int(m.group(1)),int(m.group(2)),int(m.group(3) or 0))
+ w,l,t=int(m.group(1)),int(m.group(2)),int(m.group(3) or 0)
  if not 1<=w+l+t<=35:return None
  return dict(name=name,wins=w,losses=l,ties=t,source=url,provider="IHSA / MaxPreps")
 def main():
@@ -71,7 +74,8 @@ def main():
  # No fabricated profile identifiers. A stable seed can be extended with verified IHSA links.
  urls=sorted(set(urls+[
   f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/0425/{args.year}-{str(args.year+1)[-2:]}",
-  f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/0209/{args.year}-{str(args.year+1)[-2:]}"
+  f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/0209/{args.year}-{str(args.year+1)[-2:]}",
+  f"{BASE}/sports/boys-soccer/maxpreps-schools/SOB/2328/{args.year}-{str(args.year+1)[-2:]}"
  ]))
  records={}
  for url in urls:
