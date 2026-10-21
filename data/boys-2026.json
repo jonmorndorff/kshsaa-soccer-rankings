@@ -425,10 +425,10 @@
       "name": "Hayden HS",
       "classification": "4-3-2-1A",
       "wins": 0,
-      "losses": 15,
+      "losses": 16,
       "ties": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 58,
+      "goalsFor": 7,
+      "goalsAgainst": 60,
       "region": "West"
     },
     {
@@ -578,11 +578,11 @@
       "id": "627",
       "name": "Leavenworth HS",
       "classification": "5A",
-      "wins": 1,
+      "wins": 2,
       "losses": 14,
       "ties": 0,
-      "goalsFor": 9,
-      "goalsAgainst": 68,
+      "goalsFor": 11,
+      "goalsAgainst": 69,
       "region": "East"
     },
     {
@@ -6972,6 +6972,14 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+    },
+    {
+      "date": "2026-10-21",
+      "home": "759",
+      "away": "627",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
     }
   ],
   "upcoming": {
@@ -7473,12 +7481,6 @@
         "opponent": "Lansing HS",
         "location": "H",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
-      },
-      {
-        "date": "2026-10-21",
-        "opponent": "Hayden HS",
-        "location": "V",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
       }
     ],
     "713": [],
@@ -7680,14 +7682,7 @@
     ],
     "471": [],
     "1189": [],
-    "759": [
-      {
-        "date": "2026-10-21",
-        "opponent": "Leavenworth HS",
-        "location": "H",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=759"
-      }
-    ],
+    "759": [],
     "539": [
       {
         "date": "2026-10-22",
@@ -17013,8 +17008,8 @@
         "date": "2026-10-21",
         "opponent": "Hayden HS",
         "location": "V",
-        "result": "",
-        "score": "",
+        "result": "W",
+        "score": "2-1",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=627"
       }
     ],
@@ -21247,8 +21242,8 @@
         "date": "2026-10-21",
         "opponent": "Leavenworth HS",
         "location": "H",
-        "result": "",
-        "score": "",
+        "result": "L",
+        "score": "1-2",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=759"
       }
     ],
@@ -23258,13 +23253,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
     },
     {
-      "name": "Perryville",
-      "wins": 12,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
-    },
-    {
       "name": "University City",
       "wins": 12,
       "losses": 6,
@@ -23347,6 +23335,13 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
+    },
+    {
+      "name": "Perryville",
+      "wins": 12,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
     },
     {
       "name": "MICDS",
@@ -24042,6 +24037,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=237&alg=33"
     },
     {
+      "name": "Seckman",
+      "wins": 6,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=184&alg=33"
+    },
+    {
       "name": "Rolla",
       "wins": 6,
       "losses": 12,
@@ -24159,13 +24161,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=209&alg=33"
-    },
-    {
-      "name": "Seckman",
-      "wins": 3,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=184&alg=33"
     },
     {
       "name": "Green Ridge with Cole Camp",
