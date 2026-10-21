@@ -1,0 +1,393 @@
+{
+  "records": 226,
+  "matchedExternalGames": 60,
+  "matches": [
+    {
+      "team": "6770",
+      "date": "2026-08-28",
+      "opponent": "Pembroke Hill HS, Kansas City",
+      "missouriSchoolId": "570"
+    },
+    {
+      "team": "736",
+      "date": "2026-08-28",
+      "opponent": "Barstow HS, Kansas City",
+      "missouriSchoolId": "508"
+    },
+    {
+      "team": "1823",
+      "date": "2026-09-01",
+      "opponent": "Blue Springs HS, Blue Springs",
+      "missouriSchoolId": "14"
+    },
+    {
+      "team": "6770",
+      "date": "2026-09-01",
+      "opponent": "Park Hill HS, Kansas City",
+      "missouriSchoolId": "157"
+    },
+    {
+      "team": "696",
+      "date": "2026-09-01",
+      "opponent": "Joplin HS, Joplin",
+      "missouriSchoolId": "87"
+    },
+    {
+      "team": "748",
+      "date": "2026-09-01",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
+      "missouriSchoolId": "115"
+    },
+    {
+      "team": "1074",
+      "date": "2026-09-03",
+      "opponent": "Northland Christian HS, Kansas City",
+      "missouriSchoolId": "1022"
+    },
+    {
+      "team": "1222",
+      "date": "2026-09-03",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
+      "missouriSchoolId": "115"
+    },
+    {
+      "team": "650",
+      "date": "2026-09-05",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
+      "missouriSchoolId": "115"
+    },
+    {
+      "team": "1240",
+      "date": "2026-09-07",
+      "opponent": "Rockhurst HS, Kansas City",
+      "missouriSchoolId": "540"
+    },
+    {
+      "team": "1823",
+      "date": "2026-09-07",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
+      "missouriSchoolId": "115"
+    },
+    {
+      "team": "1205",
+      "date": "2026-09-08",
+      "opponent": "Faith Christian Academy, Kansas City",
+      "missouriSchoolId": "1660"
+    },
+    {
+      "team": "734",
+      "date": "2026-09-08",
+      "opponent": "Lincoln College Prep, KC",
+      "missouriSchoolId": "123"
+    },
+    {
+      "team": "1823",
+      "date": "2026-09-09",
+      "opponent": "Rockhurst HS, Kansas City",
+      "missouriSchoolId": "540"
+    },
+    {
+      "team": "472",
+      "date": "2026-09-09",
+      "opponent": "Benton HS, St. Joseph",
+      "missouriSchoolId": "236"
+    },
+    {
+      "team": "1185",
+      "date": "2026-09-10",
+      "opponent": "Raymore-Peculiar HS, Peculiar",
+      "missouriSchoolId": "176"
+    },
+    {
+      "team": "1240",
+      "date": "2026-09-10",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
+      "missouriSchoolId": "115"
+    },
+    {
+      "team": "610",
+      "date": "2026-09-10",
+      "opponent": "Raytown HS, Raytown",
+      "missouriSchoolId": "178"
+    },
+    {
+      "team": "612",
+      "date": "2026-09-10",
+      "opponent": "Lutheran HS, Kansas City",
+      "missouriSchoolId": "527"
+    },
+    {
+      "team": "734",
+      "date": "2026-09-10",
+      "opponent": "Pembroke Hill HS, Kansas City",
+      "missouriSchoolId": "570"
+    },
+    {
+      "team": "1075",
+      "date": "2026-09-11",
+      "opponent": "Faith Christian Academy, Kansas City",
+      "missouriSchoolId": "1660"
+    },
+    {
+      "team": "679",
+      "date": "2026-09-12",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
+      "missouriSchoolId": "115"
+    },
+    {
+      "team": "800",
+      "date": "2026-09-12",
+      "opponent": "Rockhurst HS, Kansas City",
+      "missouriSchoolId": "540"
+    },
+    {
+      "team": "471",
+      "date": "2026-09-14",
+      "opponent": "Benton HS, St. Joseph",
+      "missouriSchoolId": "236"
+    },
+    {
+      "team": "607",
+      "date": "2026-09-14",
+      "opponent": "Raytown South HS, Raytown",
+      "missouriSchoolId": "179"
+    },
+    {
+      "team": "1075",
+      "date": "2026-09-15",
+      "opponent": "Northland Christian HS, Kansas City",
+      "missouriSchoolId": "1022"
+    },
+    {
+      "team": "1205",
+      "date": "2026-09-15",
+      "opponent": "Lutheran HS, Kansas City",
+      "missouriSchoolId": "527"
+    },
+    {
+      "team": "613",
+      "date": "2026-09-17",
+      "opponent": "Cristo Rey HS, Kansas City",
+      "missouriSchoolId": "915"
+    },
+    {
+      "team": "1221",
+      "date": "2026-09-19",
+      "opponent": "Marquette HS, Chesterfield",
+      "missouriSchoolId": "109"
+    },
+    {
+      "team": "558",
+      "date": "2026-09-19",
+      "opponent": "Liberty North HS, Liberty",
+      "missouriSchoolId": "907"
+    },
+    {
+      "team": "1198",
+      "date": "2026-09-21",
+      "opponent": "Faith Christian Academy, Kansas City",
+      "missouriSchoolId": "1660"
+    },
+    {
+      "team": "612",
+      "date": "2026-09-22",
+      "opponent": "Northland Christian HS, Kansas City",
+      "missouriSchoolId": "1022"
+    },
+    {
+      "team": "548",
+      "date": "2026-09-23",
+      "opponent": "Barstow HS, Kansas City",
+      "missouriSchoolId": "508"
+    },
+    {
+      "team": "1074",
+      "date": "2026-09-24",
+      "opponent": "Lutheran HS, Kansas City",
+      "missouriSchoolId": "527"
+    },
+    {
+      "team": "1205",
+      "date": "2026-09-24",
+      "opponent": "Northland Christian HS, Kansas City",
+      "missouriSchoolId": "1022"
+    },
+    {
+      "team": "612",
+      "date": "2026-09-24",
+      "opponent": "Faith Christian Academy, Kansas City",
+      "missouriSchoolId": "1660"
+    },
+    {
+      "team": "1823",
+      "date": "2026-09-26",
+      "opponent": "Rock Bridge HS, Columbia",
+      "missouriSchoolId": "578"
+    },
+    {
+      "team": "472",
+      "date": "2026-09-28",
+      "opponent": "Benton HS, St. Joseph",
+      "missouriSchoolId": "236"
+    },
+    {
+      "team": "696",
+      "date": "2026-09-28",
+      "opponent": "Carl Junction HS, Carl Junction",
+      "missouriSchoolId": "34"
+    },
+    {
+      "team": "1074",
+      "date": "2026-09-29",
+      "opponent": "Faith Christian Academy, Kansas City",
+      "missouriSchoolId": "1660"
+    },
+    {
+      "team": "1075",
+      "date": "2026-09-29",
+      "opponent": "Lutheran HS, Kansas City",
+      "missouriSchoolId": "527"
+    },
+    {
+      "team": "1198",
+      "date": "2026-09-29",
+      "opponent": "Northland Christian HS, Kansas City",
+      "missouriSchoolId": "1022"
+    },
+    {
+      "team": "471",
+      "date": "2026-10-01",
+      "opponent": "Savannah HS, Savannah",
+      "missouriSchoolId": "177"
+    },
+    {
+      "team": "696",
+      "date": "2026-10-01",
+      "opponent": "Webb City HS, Webb City",
+      "missouriSchoolId": "227"
+    },
+    {
+      "team": "734",
+      "date": "2026-10-03",
+      "opponent": "Rockhurst HS, Kansas City",
+      "missouriSchoolId": "540"
+    },
+    {
+      "team": "1198",
+      "date": "2026-10-05",
+      "opponent": "Lutheran HS, Kansas City",
+      "missouriSchoolId": "527"
+    },
+    {
+      "team": "1823",
+      "date": "2026-10-05",
+      "opponent": "Park Hill South HS, Riverside",
+      "missouriSchoolId": "158"
+    },
+    {
+      "team": "472",
+      "date": "2026-10-06",
+      "opponent": "Bishop LeBlond HS, St. Joseph",
+      "missouriSchoolId": "510"
+    },
+    {
+      "team": "610",
+      "date": "2026-10-07",
+      "opponent": "Moberly HS, Moberly",
+      "missouriSchoolId": "132"
+    },
+    {
+      "team": "1249",
+      "date": "2026-10-09",
+      "opponent": "Chaminade College Prep, Creve Coeur",
+      "missouriSchoolId": "512"
+    },
+    {
+      "team": "1185",
+      "date": "2026-10-10",
+      "opponent": "Chaminade College Prep, Creve Coeur",
+      "missouriSchoolId": "512"
+    },
+    {
+      "team": "545",
+      "date": "2026-10-10",
+      "opponent": "Republic HS, Republic",
+      "missouriSchoolId": "423"
+    },
+    {
+      "team": "1198",
+      "date": "2026-10-13",
+      "opponent": "Lutheran HS, Kansas City",
+      "missouriSchoolId": "527"
+    },
+    {
+      "team": "611",
+      "date": "2026-10-13",
+      "opponent": "Barstow HS, Kansas City",
+      "missouriSchoolId": "508"
+    },
+    {
+      "team": "612",
+      "date": "2026-10-15",
+      "opponent": "Cristo Rey HS, Kansas City",
+      "missouriSchoolId": "915"
+    },
+    {
+      "team": "800",
+      "date": "2026-10-16",
+      "opponent": "Ozark HS, Ozark",
+      "missouriSchoolId": "154"
+    },
+    {
+      "team": "800",
+      "date": "2026-10-17",
+      "opponent": "Glendale HS, Springfield",
+      "missouriSchoolId": "28"
+    },
+    {
+      "team": "734",
+      "date": "2026-10-19",
+      "opponent": "Park Hill South HS, Riverside",
+      "missouriSchoolId": "158"
+    },
+    {
+      "team": "1198",
+      "date": "2026-10-20",
+      "opponent": "Faith Christian Academy, Kansas City",
+      "missouriSchoolId": "1660"
+    },
+    {
+      "team": "1249",
+      "date": "2026-10-20",
+      "opponent": "Rockhurst HS, Kansas City",
+      "missouriSchoolId": "540"
+    }
+  ],
+  "unmatchedOpponentNames": [
+    "Bruce Randolph HS, Denver",
+    "Guadalupe Centers HS, KC",
+    "KC-Central HS, Kansas City",
+    "KC-East HS, Kansas City",
+    "KC-Lincoln College Prep HS",
+    "KC-Northeast HS, Kansas City",
+    "Kansas City East Christian Academy",
+    "Lenexa-Christ Preparatory Academy",
+    "Liberty Homeschool Alliance",
+    "Manhattan C.H.I.E.F.",
+    "Naperville Central HS, Naperville",
+    "Naperville North HS, Naperville",
+    "New Heights Christian, Joplin",
+    "Normal Community West HS, Normal",
+    "St Pius X HS, North Kansas City",
+    "St. Laurence HS, Burbank",
+    "St. Louis University HS, St. Louis",
+    "St. Mary's Academy",
+    "St. Michael the Archangel Catholic HS, Lee's Summit",
+    "TBD",
+    "Thomas Jefferson HS, Joplin",
+    "Topeka-Northeast Kansas Homeschool",
+    "Wichita Defenders Homeschool Sports",
+    "Wichita Homeschool Warriors",
+    "Wichita-Life Preparatory Academy"
+  ]
+}
