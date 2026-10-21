@@ -1,0 +1,26 @@
+name: Update Illinois Soccer Records
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '45 13 * * *'
+permissions:
+  contents: write
+jobs:
+  collect-illinois:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/collect_illinois.py --year 2026
+      - name: Commit Illinois records
+        run: |
+          if ! git diff --quiet -- data/boys-2026.json data/boys-2026-illinois-review.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/boys-2026.json data/boys-2026-illinois-review.json
+            git commit -m 'Refresh Illinois soccer records'
+            git push
+          fi
