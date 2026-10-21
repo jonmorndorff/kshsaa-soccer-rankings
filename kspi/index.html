@@ -26,9 +26,8 @@ function compute(d){
  const scheduleStrength=id=>{const opponents=opponentLists.get(id)||[];if(!opponents.length)return percentage(id);return opponents.reduce((sum,opp)=>sum+percentage(opp),0)/opponents.length};
  const adjustedStrength=id=>.75*percentage(id)+.25*scheduleStrength(id);
  const moRecords=Array.isArray(d.missouriRecords)?d.missouriRecords:[],external=Array.isArray(d.externalGames)?d.externalGames:[];
- const norm=name=>String(name||"").toLowerCase().replace(/\\b(high school|hs|school)\\b/g,"").replace(/[^a-z0-9]/g,"");
+ const norm=name=>String(name||"").toLowerCase().replace(/\b(high school|hs|school)\b/g,"").replace(/[^a-z0-9]/g,"");
  const moByKey=new Map(moRecords.map(r=>[norm(r.name),r]));
- const moAliases={"st michael the archangel catholic":"stmichaelthearchangel","raytown":"raytown","raytown south":"raytownsouth"};
  const matchMissouri=name=>{const key=norm(name);if(moByKey.has(key))return moByKey.get(key);const matches=moRecords.filter(r=>norm(r.name)===key||norm(r.name).startsWith(key)&&key.length>=8);return matches.length===1?matches[0]:null};
  const moGames=new Map(teams.map(t=>[String(t.id),[]]));
  for(const g of external){const record=matchMissouri(g.opponent);if(!record||!moGames.has(String(g.team)))continue;const gf=Number(g.gf),ga=Number(g.ga);if(!Number.isFinite(gf)||!Number.isFinite(ga))continue;const total=Number(record.wins)+Number(record.losses)+Number(record.ties);if(!total)continue;moGames.get(String(g.team)).push({date:g.date,opp:{name:record.name},oppId:null,gf,ga,venue:"N",result:gf>ga?"W":gf<ga?"L":"T",moPct:(Number(record.wins)+.5*Number(record.ties))/total,missouri:true})}
