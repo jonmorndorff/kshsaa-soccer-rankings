@@ -222,9 +222,9 @@ def collect_missouri_records(session, year):
             for j in range(1,len(values)-3):
                 trio=values[j:j+3]
                 pct=values[j+3].replace('%','').strip()
-                if not all(re.fullmatch(r'\\d{1,3}',n) for n in trio):
+                if not all(re.fullmatch(r'\d{1,3}',n) for n in trio):
                     continue
-                if not re.fullmatch(r'\\d{1,3}(?:\\.\\d+)?',pct):
+                if not re.fullmatch(r'\d{1,3}(?:\.\d+)?',pct):
                     continue
                 w,l,t=map(int,trio)
                 total=w+l+t
