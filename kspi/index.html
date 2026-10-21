@@ -34,7 +34,7 @@ function compute(d){
   const exact=moByKey.get(full)||moByKey.get(base);
   if(exact?.length===1)return exact[0];
   const candidates=moRecords.filter(r=>{
-   const school=norm(r.name.split("(")[0]),qualifier=norm((r.name.match(/\\(([^)]*)\\)/)||[])[1]||"");
+   const school=norm(r.name.split("(")[0]),qualifier=norm((r.name.match(/\(([^)]*)\)/)||[])[1]||"");
    if(school===base)return true;
    if(base==="kceast"&&school==="east"&&qualifier==="kansascity")return true;
    return false;
