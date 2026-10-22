@@ -23912,13 +23912,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=176&alg=33"
     },
     {
-      "name": "Lone Jack",
-      "wins": 7,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
-    },
-    {
       "name": "Carl Junction",
       "wins": 7,
       "losses": 10,
@@ -23959,6 +23952,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=63&alg=33"
+    },
+    {
+      "name": "Lone Jack",
+      "wins": 7,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
     },
     {
       "name": "Kearney",
