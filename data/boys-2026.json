@@ -23009,6 +23009,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=465&alg=33"
     },
     {
+      "name": "Belton",
+      "wins": 13,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=12&alg=33"
+    },
+    {
       "name": "Francis Howell Central",
       "wins": 14,
       "losses": 3,
@@ -23021,13 +23028,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
-    },
-    {
-      "name": "Belton",
-      "wins": 12,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=12&alg=33"
     },
     {
       "name": "Central (Kansas City)",
@@ -23779,13 +23779,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
-      "name": "Platte County",
-      "wins": 7,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=166&alg=33"
-    },
-    {
       "name": "Lebanon",
       "wins": 10,
       "losses": 12,
@@ -23854,6 +23847,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=491&alg=33"
+    },
+    {
+      "name": "Platte County",
+      "wins": 7,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=166&alg=33"
     },
     {
       "name": "Neosho",
