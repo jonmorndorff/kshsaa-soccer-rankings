@@ -23793,6 +23793,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=528&alg=33"
     },
     {
+      "name": "Smithville",
+      "wins": 9,
+      "losses": 11,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=445&alg=33"
+    },
+    {
       "name": "St. Mary's South Side",
       "wins": 9,
       "losses": 11,
@@ -23889,13 +23896,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=178&alg=33"
-    },
-    {
-      "name": "Smithville",
-      "wins": 8,
-      "losses": 11,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=445&alg=33"
     },
     {
       "name": "Raymore-Peculiar",
@@ -24425,7 +24425,7 @@
     {
       "name": "Raytown South",
       "wins": 1,
-      "losses": 15,
+      "losses": 16,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=179&alg=33"
     },
