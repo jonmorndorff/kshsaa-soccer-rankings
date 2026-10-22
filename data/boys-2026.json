@@ -23100,6 +23100,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=578&alg=33"
     },
     {
+      "name": "Glendale",
+      "wins": 15,
+      "losses": 5,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=28&alg=33"
+    },
+    {
       "name": "Fair Grove",
       "wins": 14,
       "losses": 5,
@@ -23133,13 +23140,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=571&alg=33"
-    },
-    {
-      "name": "Glendale",
-      "wins": 14,
-      "losses": 5,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=28&alg=33"
     },
     {
       "name": "Pattonville",
@@ -23261,6 +23261,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=103&alg=33"
     },
     {
+      "name": "St. Paul Lutheran (Concordia)",
+      "wins": 10,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
+    },
+    {
       "name": "Lincoln College Prep",
       "wins": 10,
       "losses": 5,
@@ -23315,13 +23322,6 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
-    },
-    {
-      "name": "St. Paul Lutheran (Concordia)",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
     },
     {
       "name": "Savannah",
@@ -23982,13 +23982,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=529&alg=33"
     },
     {
-      "name": "Odessa",
-      "wins": 6,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=151&alg=33"
-    },
-    {
       "name": "Rockwood Summit",
       "wins": 5,
       "losses": 9,
@@ -24015,6 +24008,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=285&alg=33"
+    },
+    {
+      "name": "Odessa",
+      "wins": 6,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=151&alg=33"
     },
     {
       "name": "Webster Groves",
@@ -24108,6 +24108,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=809&alg=33"
     },
     {
+      "name": "Parkway North",
+      "wins": 6,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=161&alg=33"
+    },
+    {
       "name": "Hannibal",
       "wins": 5,
       "losses": 13,
@@ -24143,13 +24150,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=192&alg=33"
     },
     {
-      "name": "Kickapoo",
-      "wins": 6,
-      "losses": 16,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=90&alg=33"
-    },
-    {
       "name": "Winnetonka",
       "wins": 3,
       "losses": 8,
@@ -24178,11 +24178,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=115&alg=33"
     },
     {
-      "name": "Parkway North",
-      "wins": 5,
-      "losses": 14,
+      "name": "Kickapoo",
+      "wins": 6,
+      "losses": 17,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=161&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=90&alg=33"
     },
     {
       "name": "Hillsboro",
@@ -24395,18 +24395,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=128&alg=33"
     },
     {
-      "name": "Ritenour",
-      "wins": 1,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=182&alg=33"
-    },
-    {
       "name": "Calvary Lutheran",
       "wins": 1,
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=769&alg=33"
+    },
+    {
+      "name": "Ritenour",
+      "wins": 1,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=182&alg=33"
     },
     {
       "name": "North County",
@@ -24446,7 +24446,7 @@
     {
       "name": "Jennings",
       "wins": 0,
-      "losses": 12,
+      "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=86&alg=33"
     },
