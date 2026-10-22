@@ -24010,6 +24010,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
     },
     {
+      "name": "East (Kansas City)",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=809&alg=33"
+    },
+    {
       "name": "Eugene",
       "wins": 6,
       "losses": 11,
@@ -24101,13 +24108,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=13&alg=33"
     },
     {
-      "name": "East (Kansas City)",
-      "wins": 4,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=809&alg=33"
-    },
-    {
       "name": "Parkway North",
       "wins": 6,
       "losses": 14,
@@ -24150,11 +24150,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
     },
     {
-      "name": "Winnetonka",
-      "wins": 3,
-      "losses": 8,
+      "name": "William Chrisman",
+      "wins": 5,
+      "losses": 13,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=209&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
     },
     {
       "name": "Green Ridge with Cole Camp",
@@ -24220,18 +24220,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=111&alg=33"
     },
     {
+      "name": "Winnetonka",
+      "wins": 3,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=209&alg=33"
+    },
+    {
       "name": "Jefferson City",
       "wins": 4,
       "losses": 14,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
-    },
-    {
-      "name": "William Chrisman",
-      "wins": 4,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
     },
     {
       "name": "North Kansas City",
@@ -24253,13 +24253,6 @@
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=169&alg=33"
-    },
-    {
-      "name": "Ewing Marion Kauffman with University Academy Charter",
-      "wins": 2,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1206&alg=33"
     },
     {
       "name": "Canton",
@@ -24288,6 +24281,13 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=52&alg=33"
+    },
+    {
+      "name": "Ewing Marion Kauffman with University Academy Charter",
+      "wins": 2,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1206&alg=33"
     },
     {
       "name": "La Monte",
