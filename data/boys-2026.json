@@ -23275,6 +23275,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
     },
     {
+      "name": "Savannah",
+      "wins": 10,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
+    },
+    {
       "name": "Lincoln College Prep",
       "wins": 10,
       "losses": 5,
@@ -23322,13 +23329,6 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
-    },
-    {
-      "name": "Savannah",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
     },
     {
       "name": "Perryville",
@@ -24432,7 +24432,7 @@
     {
       "name": "Bishop LeBlond",
       "wins": 0,
-      "losses": 10,
+      "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=510&alg=33"
     },
