@@ -51,10 +51,10 @@
       "name": "Augusta HS",
       "classification": "4-3-2-1A",
       "wins": 2,
-      "losses": 13,
+      "losses": 14,
       "ties": 0,
       "goalsFor": 11,
-      "goalsAgainst": 56,
+      "goalsAgainst": 61,
       "region": "West"
     },
     {
@@ -62,10 +62,10 @@
       "name": "Baldwin HS",
       "classification": "4-3-2-1A",
       "wins": 4,
-      "losses": 11,
+      "losses": 12,
       "ties": 0,
       "goalsFor": 18,
-      "goalsAgainst": 30,
+      "goalsAgainst": 38,
       "region": "East"
     },
     {
@@ -359,10 +359,10 @@
       "name": "Fort Scott HS",
       "classification": "4-3-2-1A",
       "wins": 0,
-      "losses": 15,
+      "losses": 16,
       "ties": 0,
       "goalsFor": 3,
-      "goalsAgainst": 128,
+      "goalsAgainst": 136,
       "region": "East"
     },
     {
@@ -523,11 +523,11 @@
       "id": "1075",
       "name": "Kansas City Christian HS",
       "classification": "4-3-2-1A",
-      "wins": 3,
+      "wins": 4,
       "losses": 11,
       "ties": 1,
-      "goalsFor": 28,
-      "goalsAgainst": 53,
+      "goalsFor": 34,
+      "goalsAgainst": 55,
       "region": "East"
     },
     {
@@ -600,10 +600,10 @@
       "id": "641",
       "name": "Louisburg HS",
       "classification": "4-3-2-1A",
-      "wins": 10,
+      "wins": 11,
       "losses": 4,
       "ties": 1,
-      "goalsFor": 45,
+      "goalsFor": 53,
       "goalsAgainst": 20,
       "region": "East"
     },
@@ -776,10 +776,10 @@
       "id": "748",
       "name": "Overland Park-Blue Valley HS",
       "classification": "6A",
-      "wins": 8,
+      "wins": 9,
       "losses": 7,
       "ties": 0,
-      "goalsFor": 26,
+      "goalsFor": 34,
       "goalsAgainst": 26,
       "region": "East"
     },
@@ -1073,11 +1073,11 @@
       "id": "786",
       "name": "Wichita-East HS",
       "classification": "6A",
-      "wins": 12,
+      "wins": 13,
       "losses": 3,
       "ties": 0,
-      "goalsFor": 45,
-      "goalsAgainst": 21,
+      "goalsFor": 48,
+      "goalsAgainst": 22,
       "region": "West"
     },
     {
@@ -1107,10 +1107,10 @@
       "name": "Wichita-Northwest HS",
       "classification": "6A",
       "wins": 4,
-      "losses": 11,
+      "losses": 12,
       "ties": 0,
-      "goalsFor": 14,
-      "goalsAgainst": 60,
+      "goalsFor": 15,
+      "goalsAgainst": 63,
       "region": "West"
     },
     {
@@ -1150,10 +1150,10 @@
       "id": "794",
       "name": "Wichita-West HS",
       "classification": "5A",
-      "wins": 2,
+      "wins": 3,
       "losses": 12,
       "ties": 1,
-      "goalsFor": 20,
+      "goalsFor": 25,
       "goalsAgainst": 46,
       "region": "West"
     },
@@ -7004,6 +7004,38 @@
       "homeGoals": 6,
       "awayGoals": 0,
       "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=579"
+    },
+    {
+      "date": "2026-10-22",
+      "home": "786",
+      "away": "791",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-10-22",
+      "home": "478",
+      "away": "748",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
+    },
+    {
+      "date": "2026-10-22",
+      "home": "794",
+      "away": "475",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+    },
+    {
+      "date": "2026-10-22",
+      "home": "550",
+      "away": "641",
+      "homeGoals": 0,
+      "awayGoals": 8,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
     }
   ],
   "upcoming": {
@@ -7025,15 +7057,8 @@
       }
     ],
     "793": [],
+    "786": [],
     "607": [],
-    "786": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Wichita-Northwest HS",
-        "location": "H",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      }
-    ],
     "6770": [
       {
         "date": "2026-10-22",
@@ -7123,14 +7148,7 @@
       }
     ],
     "529": [],
-    "748": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Baldwin HS",
-        "location": "V",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
-      }
-    ],
+    "748": [],
     "790": [
       {
         "date": "2026-10-22",
@@ -7226,14 +7244,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=738"
       }
     ],
-    "791": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Wichita-East HS",
-        "location": "V",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
-      }
-    ],
+    "791": [],
     "677": [
       {
         "date": "2026-10-22",
@@ -7450,20 +7461,13 @@
       }
     ],
     "624": [],
+    "794": [],
     "723": [
       {
         "date": "2026-10-22",
         "opponent": "Andover HS",
         "location": "V",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=723"
-      }
-    ],
-    "794": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Augusta HS",
-        "location": "H",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
       }
     ],
     "566": [
@@ -7508,15 +7512,8 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
       }
     ],
+    "641": [],
     "538": [],
-    "641": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Fort Scott HS",
-        "location": "V",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      }
-    ],
     "688": [
       {
         "date": "2026-10-22",
@@ -7627,22 +7624,8 @@
     "691": [],
     "6664": [],
     "692": [],
-    "478": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Overland Park-Blue Valley HS",
-        "location": "H",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=478"
-      }
-    ],
-    "1075": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Tournament #3",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      }
-    ],
+    "1075": [],
+    "478": [],
     "1205": [
       {
         "date": "2026-10-22",
@@ -7651,14 +7634,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1205"
       }
     ],
-    "475": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Wichita-West HS",
-        "location": "V",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=475"
-      }
-    ],
+    "475": [],
     "471": [],
     "1189": [],
     "759": [],
@@ -7670,14 +7646,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=539"
       }
     ],
-    "550": [
-      {
-        "date": "2026-10-22",
-        "opponent": "Louisburg HS",
-        "location": "H",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=550"
-      }
-    ]
+    "550": []
   },
   "schedules": {
     "533": [
@@ -8192,6 +8161,136 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=793"
       }
     ],
+    "786": [
+      {
+        "date": "2026-08-28",
+        "opponent": "Wichita-Southeast HS",
+        "location": "V",
+        "result": "L",
+        "score": "0-4",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-01",
+        "opponent": "Garden City HS",
+        "location": "H",
+        "result": "W",
+        "score": "4-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-03",
+        "opponent": "Hays HS",
+        "location": "V",
+        "result": "L",
+        "score": "0-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-08",
+        "opponent": "Andover HS",
+        "location": "N",
+        "result": "W",
+        "score": "3-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-10",
+        "opponent": "Wichita-Southeast HS",
+        "location": "N",
+        "result": "L",
+        "score": "3-4 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-12",
+        "opponent": "Bishop Carroll HS",
+        "location": "N",
+        "result": "W",
+        "score": "3-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-17",
+        "opponent": "Wichita-South HS",
+        "location": "H",
+        "result": "W",
+        "score": "9-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-18",
+        "opponent": "Wichita-Life Preparatory Academy",
+        "location": "H",
+        "result": "W",
+        "score": "2-1 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-22",
+        "opponent": "Wichita-North HS",
+        "location": "V",
+        "result": "W",
+        "score": "5-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-24",
+        "opponent": "Wichita-Heights HS",
+        "location": "H",
+        "result": "W",
+        "score": "5-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-09-29",
+        "opponent": "Dodge City HS",
+        "location": "H",
+        "result": "W",
+        "score": "2-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-10-01",
+        "opponent": "Wichita-West HS",
+        "location": "V",
+        "result": "W",
+        "score": "3-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-10-12",
+        "opponent": "Andover Central HS",
+        "location": "V",
+        "result": "W",
+        "score": "2-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-10-17",
+        "opponent": "Bishop Carroll HS",
+        "location": "V",
+        "result": "W",
+        "score": "1-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-10-20",
+        "opponent": "Kapaun Mt. Carmel HS",
+        "location": "H",
+        "result": "W",
+        "score": "3-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      },
+      {
+        "date": "2026-10-22",
+        "opponent": "Wichita-Northwest HS",
+        "location": "H",
+        "result": "W",
+        "score": "3-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+      }
+    ],
     "607": [
       {
         "date": "2026-08-28",
@@ -8320,136 +8419,6 @@
         "result": "W",
         "score": "8-0",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=607"
-      }
-    ],
-    "786": [
-      {
-        "date": "2026-08-28",
-        "opponent": "Wichita-Southeast HS",
-        "location": "V",
-        "result": "L",
-        "score": "0-4",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-01",
-        "opponent": "Garden City HS",
-        "location": "H",
-        "result": "W",
-        "score": "4-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-03",
-        "opponent": "Hays HS",
-        "location": "V",
-        "result": "L",
-        "score": "0-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-08",
-        "opponent": "Andover HS",
-        "location": "N",
-        "result": "W",
-        "score": "3-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-10",
-        "opponent": "Wichita-Southeast HS",
-        "location": "N",
-        "result": "L",
-        "score": "3-4 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-12",
-        "opponent": "Bishop Carroll HS",
-        "location": "N",
-        "result": "W",
-        "score": "3-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-17",
-        "opponent": "Wichita-South HS",
-        "location": "H",
-        "result": "W",
-        "score": "9-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-18",
-        "opponent": "Wichita-Life Preparatory Academy",
-        "location": "H",
-        "result": "W",
-        "score": "2-1 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-22",
-        "opponent": "Wichita-North HS",
-        "location": "V",
-        "result": "W",
-        "score": "5-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-24",
-        "opponent": "Wichita-Heights HS",
-        "location": "H",
-        "result": "W",
-        "score": "5-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-09-29",
-        "opponent": "Dodge City HS",
-        "location": "H",
-        "result": "W",
-        "score": "2-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-10-01",
-        "opponent": "Wichita-West HS",
-        "location": "V",
-        "result": "W",
-        "score": "3-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-10-12",
-        "opponent": "Andover Central HS",
-        "location": "V",
-        "result": "W",
-        "score": "2-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-10-17",
-        "opponent": "Bishop Carroll HS",
-        "location": "V",
-        "result": "W",
-        "score": "1-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-10-20",
-        "opponent": "Kapaun Mt. Carmel HS",
-        "location": "H",
-        "result": "W",
-        "score": "3-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
-      },
-      {
-        "date": "2026-10-22",
-        "opponent": "Wichita-Northwest HS",
-        "location": "H",
-        "result": "",
-        "score": "",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
       }
     ],
     "6770": [
@@ -10129,8 +10098,8 @@
         "date": "2026-10-22",
         "opponent": "Baldwin HS",
         "location": "V",
-        "result": "",
-        "score": "",
+        "result": "W",
+        "score": "8-0",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
       }
     ],
@@ -11787,8 +11756,8 @@
         "date": "2026-10-22",
         "opponent": "Wichita-East HS",
         "location": "V",
-        "result": "",
-        "score": "",
+        "result": "L",
+        "score": "1-3",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=791"
       }
     ],
@@ -16464,6 +16433,136 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=624"
       }
     ],
+    "794": [
+      {
+        "date": "2026-09-01",
+        "opponent": "Great Bend HS",
+        "location": "V",
+        "result": "W",
+        "score": "3-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-07",
+        "opponent": "Valley Center HS",
+        "location": "N",
+        "result": "L",
+        "score": "2-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-10",
+        "opponent": "Goddard HS",
+        "location": "N",
+        "result": "T",
+        "score": "3-3 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-12",
+        "opponent": "Hutchinson HS",
+        "location": "N",
+        "result": "L",
+        "score": "0-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-15",
+        "opponent": "Kapaun Mt. Carmel HS",
+        "location": "V",
+        "result": "L",
+        "score": "0-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-17",
+        "opponent": "Bishop Carroll HS",
+        "location": "V",
+        "result": "L",
+        "score": "1-7",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-22",
+        "opponent": "Wichita-South HS",
+        "location": "V",
+        "result": "L",
+        "score": "2-3 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-24",
+        "opponent": "Wichita-North HS",
+        "location": "H",
+        "result": "L",
+        "score": "0-1 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-09-29",
+        "opponent": "Wichita-Heights HS",
+        "location": "V",
+        "result": "L",
+        "score": "0-1 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-10-01",
+        "opponent": "Wichita-East HS",
+        "location": "H",
+        "result": "L",
+        "score": "0-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-10-06",
+        "opponent": "Junction City HS",
+        "location": "H",
+        "result": "W",
+        "score": "2-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-10-08",
+        "opponent": "Wichita-Northwest HS",
+        "location": "V",
+        "result": "L",
+        "score": "1-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-10-13",
+        "opponent": "Wichita-Life Preparatory Academy",
+        "location": "H",
+        "result": "L",
+        "score": "2-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-10-15",
+        "opponent": "Berean Academy",
+        "location": "V",
+        "result": "L",
+        "score": "4-7",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-10-20",
+        "opponent": "Wichita-Southeast HS",
+        "location": "H",
+        "result": "L",
+        "score": "0-7",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      },
+      {
+        "date": "2026-10-22",
+        "opponent": "Augusta HS",
+        "location": "H",
+        "result": "W",
+        "score": "5-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
+      }
+    ],
     "723": [
       {
         "date": "2026-08-28",
@@ -16592,136 +16691,6 @@
         "result": "",
         "score": "",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=723"
-      }
-    ],
-    "794": [
-      {
-        "date": "2026-09-01",
-        "opponent": "Great Bend HS",
-        "location": "V",
-        "result": "W",
-        "score": "3-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-07",
-        "opponent": "Valley Center HS",
-        "location": "N",
-        "result": "L",
-        "score": "2-3",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-10",
-        "opponent": "Goddard HS",
-        "location": "N",
-        "result": "T",
-        "score": "3-3 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-12",
-        "opponent": "Hutchinson HS",
-        "location": "N",
-        "result": "L",
-        "score": "0-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-15",
-        "opponent": "Kapaun Mt. Carmel HS",
-        "location": "V",
-        "result": "L",
-        "score": "0-3",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-17",
-        "opponent": "Bishop Carroll HS",
-        "location": "V",
-        "result": "L",
-        "score": "1-7",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-22",
-        "opponent": "Wichita-South HS",
-        "location": "V",
-        "result": "L",
-        "score": "2-3 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-24",
-        "opponent": "Wichita-North HS",
-        "location": "H",
-        "result": "L",
-        "score": "0-1 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-09-29",
-        "opponent": "Wichita-Heights HS",
-        "location": "V",
-        "result": "L",
-        "score": "0-1 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-10-01",
-        "opponent": "Wichita-East HS",
-        "location": "H",
-        "result": "L",
-        "score": "0-3",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-10-06",
-        "opponent": "Junction City HS",
-        "location": "H",
-        "result": "W",
-        "score": "2-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-10-08",
-        "opponent": "Wichita-Northwest HS",
-        "location": "V",
-        "result": "L",
-        "score": "1-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-10-13",
-        "opponent": "Wichita-Life Preparatory Academy",
-        "location": "H",
-        "result": "L",
-        "score": "2-3",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-10-15",
-        "opponent": "Berean Academy",
-        "location": "V",
-        "result": "L",
-        "score": "4-7",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-10-20",
-        "opponent": "Wichita-Southeast HS",
-        "location": "H",
-        "result": "L",
-        "score": "0-7",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
-      },
-      {
-        "date": "2026-10-22",
-        "opponent": "Augusta HS",
-        "location": "H",
-        "result": "",
-        "score": "",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=794"
       }
     ],
     "566": [
@@ -17642,6 +17611,136 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=506"
       }
     ],
+    "641": [
+      {
+        "date": "2026-09-01",
+        "opponent": "Basehor-Linwood HS",
+        "location": "V",
+        "result": "W",
+        "score": "2-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-03",
+        "opponent": "Independence HS",
+        "location": "V",
+        "result": "W",
+        "score": "8-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-08",
+        "opponent": "Pittsburg HS",
+        "location": "H",
+        "result": "W",
+        "score": "3-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-10",
+        "opponent": "Bonner Springs HS",
+        "location": "V",
+        "result": "T",
+        "score": "2-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-17",
+        "opponent": "Eudora HS",
+        "location": "V",
+        "result": "L",
+        "score": "1-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-22",
+        "opponent": "Baldwin HS",
+        "location": "H",
+        "result": "W",
+        "score": "4-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-24",
+        "opponent": "Sumner Academy",
+        "location": "H",
+        "result": "L",
+        "score": "1-4",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-29",
+        "opponent": "Chanute HS",
+        "location": "H",
+        "result": "W",
+        "score": "3-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-01",
+        "opponent": "Ottawa HS",
+        "location": "H",
+        "result": "W",
+        "score": "1-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-05",
+        "opponent": "Parsons HS",
+        "location": "V",
+        "result": "W",
+        "score": "6-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-08",
+        "opponent": "Tonganoxie HS",
+        "location": "H",
+        "result": "W",
+        "score": "2-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-13",
+        "opponent": "Paola HS",
+        "location": "V",
+        "result": "W",
+        "score": "4-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-14",
+        "opponent": "Lansing HS",
+        "location": "H",
+        "result": "L",
+        "score": "1-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-15",
+        "opponent": "Leavenworth HS",
+        "location": "V",
+        "result": "W",
+        "score": "6-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-20",
+        "opponent": "Kansas City-Washington HS",
+        "location": "H",
+        "result": "L",
+        "score": "1-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-22",
+        "opponent": "Fort Scott HS",
+        "location": "V",
+        "result": "W",
+        "score": "8-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      }
+    ],
     "538": [
       {
         "date": "2026-08-28",
@@ -17770,136 +17869,6 @@
         "result": "L",
         "score": "1-2",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
-      }
-    ],
-    "641": [
-      {
-        "date": "2026-09-01",
-        "opponent": "Basehor-Linwood HS",
-        "location": "V",
-        "result": "W",
-        "score": "2-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-03",
-        "opponent": "Independence HS",
-        "location": "V",
-        "result": "W",
-        "score": "8-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-08",
-        "opponent": "Pittsburg HS",
-        "location": "H",
-        "result": "W",
-        "score": "3-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-10",
-        "opponent": "Bonner Springs HS",
-        "location": "V",
-        "result": "T",
-        "score": "2-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-17",
-        "opponent": "Eudora HS",
-        "location": "V",
-        "result": "L",
-        "score": "1-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-22",
-        "opponent": "Baldwin HS",
-        "location": "H",
-        "result": "W",
-        "score": "4-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-24",
-        "opponent": "Sumner Academy",
-        "location": "H",
-        "result": "L",
-        "score": "1-4",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-29",
-        "opponent": "Chanute HS",
-        "location": "H",
-        "result": "W",
-        "score": "3-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-01",
-        "opponent": "Ottawa HS",
-        "location": "H",
-        "result": "W",
-        "score": "1-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-05",
-        "opponent": "Parsons HS",
-        "location": "V",
-        "result": "W",
-        "score": "6-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-08",
-        "opponent": "Tonganoxie HS",
-        "location": "H",
-        "result": "W",
-        "score": "2-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-13",
-        "opponent": "Paola HS",
-        "location": "V",
-        "result": "W",
-        "score": "4-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-14",
-        "opponent": "Lansing HS",
-        "location": "H",
-        "result": "L",
-        "score": "1-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-15",
-        "opponent": "Leavenworth HS",
-        "location": "V",
-        "result": "W",
-        "score": "6-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-20",
-        "opponent": "Kansas City-Washington HS",
-        "location": "H",
-        "result": "L",
-        "score": "1-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-22",
-        "opponent": "Fort Scott HS",
-        "location": "V",
-        "result": "",
-        "score": "",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
       }
     ],
     "688": [
@@ -20364,6 +20333,136 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=692"
       }
     ],
+    "1075": [
+      {
+        "date": "2026-08-28",
+        "opponent": "Tonganoxie HS",
+        "location": "V",
+        "result": "T",
+        "score": "2-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-04",
+        "opponent": "Classical School Of Wichita",
+        "location": "H",
+        "result": "L",
+        "score": "1-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-05",
+        "opponent": "Berean Academy",
+        "location": "H",
+        "result": "L",
+        "score": "0-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-08",
+        "opponent": "Maranatha Christian Academy",
+        "location": "H",
+        "result": "L",
+        "score": "2-6",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-11",
+        "opponent": "Faith Christian Academy, Kansas City",
+        "location": "H",
+        "result": "L",
+        "score": "1-5",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-15",
+        "opponent": "Northland Christian HS, Kansas City",
+        "location": "V",
+        "result": "W",
+        "score": "5-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-17",
+        "opponent": "Bishop Ward HS",
+        "location": "V",
+        "result": "L",
+        "score": "2-4",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-22",
+        "opponent": "Bishop Seabury Academy",
+        "location": "V",
+        "result": "W",
+        "score": "4-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-25",
+        "opponent": "Heritage Christian Academy",
+        "location": "H",
+        "result": "L",
+        "score": "1-6",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-09-29",
+        "opponent": "Lutheran HS, Kansas City",
+        "location": "V",
+        "result": "W",
+        "score": "7-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-10-05",
+        "opponent": "Eudora HS",
+        "location": "H",
+        "result": "L",
+        "score": "0-7",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-10-08",
+        "opponent": "Baldwin HS",
+        "location": "H",
+        "result": "L",
+        "score": "1-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-10-13",
+        "opponent": "Bishop Ward HS",
+        "location": "V",
+        "result": "L",
+        "score": "0-8",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-10-16",
+        "opponent": "Maur Hill-Mount Academy",
+        "location": "H",
+        "result": "L",
+        "score": "2-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-10-20",
+        "opponent": "Bishop Seabury Academy",
+        "location": "H",
+        "result": "L",
+        "score": "0-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      },
+      {
+        "date": "2026-10-22",
+        "opponent": "Northland Christian HS, Kansas City",
+        "location": "H",
+        "result": "W",
+        "score": "6-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+      }
+    ],
     "478": [
       {
         "date": "2026-09-01",
@@ -20489,139 +20588,9 @@
         "date": "2026-10-22",
         "opponent": "Overland Park-Blue Valley HS",
         "location": "H",
-        "result": "",
-        "score": "",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=478"
-      }
-    ],
-    "1075": [
-      {
-        "date": "2026-08-28",
-        "opponent": "Tonganoxie HS",
-        "location": "V",
-        "result": "T",
-        "score": "2-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-04",
-        "opponent": "Classical School Of Wichita",
-        "location": "H",
-        "result": "L",
-        "score": "1-3",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-05",
-        "opponent": "Berean Academy",
-        "location": "H",
-        "result": "L",
-        "score": "0-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-08",
-        "opponent": "Maranatha Christian Academy",
-        "location": "H",
-        "result": "L",
-        "score": "2-6",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-11",
-        "opponent": "Faith Christian Academy, Kansas City",
-        "location": "H",
-        "result": "L",
-        "score": "1-5",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-15",
-        "opponent": "Northland Christian HS, Kansas City",
-        "location": "V",
-        "result": "W",
-        "score": "5-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-17",
-        "opponent": "Bishop Ward HS",
-        "location": "V",
-        "result": "L",
-        "score": "2-4",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-22",
-        "opponent": "Bishop Seabury Academy",
-        "location": "V",
-        "result": "W",
-        "score": "4-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-25",
-        "opponent": "Heritage Christian Academy",
-        "location": "H",
-        "result": "L",
-        "score": "1-6",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-09-29",
-        "opponent": "Lutheran HS, Kansas City",
-        "location": "V",
-        "result": "W",
-        "score": "7-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-10-05",
-        "opponent": "Eudora HS",
-        "location": "H",
-        "result": "L",
-        "score": "0-7",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-10-08",
-        "opponent": "Baldwin HS",
-        "location": "H",
-        "result": "L",
-        "score": "1-3",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-10-13",
-        "opponent": "Bishop Ward HS",
-        "location": "V",
         "result": "L",
         "score": "0-8",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-10-16",
-        "opponent": "Maur Hill-Mount Academy",
-        "location": "H",
-        "result": "L",
-        "score": "2-3",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-10-20",
-        "opponent": "Bishop Seabury Academy",
-        "location": "H",
-        "result": "L",
-        "score": "0-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
-      },
-      {
-        "date": "2026-10-22",
-        "opponent": "Tournament #3",
-        "location": "N",
-        "result": "",
-        "score": "",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=478"
       }
     ],
     "1205": [
@@ -20871,8 +20840,8 @@
         "date": "2026-10-22",
         "opponent": "Wichita-West HS",
         "location": "V",
-        "result": "",
-        "score": "",
+        "result": "L",
+        "score": "0-5",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=475"
       }
     ],
@@ -21465,8 +21434,8 @@
         "date": "2026-10-22",
         "opponent": "Louisburg HS",
         "location": "H",
-        "result": "",
-        "score": "",
+        "result": "L",
+        "score": "0-8",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=550"
       }
     ]
@@ -22866,6 +22835,15 @@
       "gf": 4,
       "ga": 1,
       "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=610"
+    },
+    {
+      "team": "1075",
+      "date": "2026-10-22",
+      "opponent": "Northland Christian HS, Kansas City",
+      "opponentKey": "northlandchristianhskansascity",
+      "gf": 6,
+      "ga": 2,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1075"
     }
   ],
   "missouriRecords": [
@@ -23059,13 +23037,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=85&alg=33"
     },
     {
-      "name": "St. Charles",
-      "wins": 13,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=168&alg=33"
-    },
-    {
       "name": "Christian Brothers College",
       "wins": 13,
       "losses": 3,
@@ -23134,6 +23105,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=571&alg=33"
+    },
+    {
+      "name": "St. Charles",
+      "wins": 13,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=168&alg=33"
     },
     {
       "name": "Monett",
@@ -23920,13 +23898,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=423&alg=33"
     },
     {
-      "name": "Wright City",
-      "wins": 8,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=506&alg=33"
-    },
-    {
       "name": "DeSoto",
       "wins": 6,
       "losses": 9,
@@ -23974,6 +23945,13 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=529&alg=33"
+    },
+    {
+      "name": "Wright City",
+      "wins": 8,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=506&alg=33"
     },
     {
       "name": "Rockwood Summit",
@@ -24172,6 +24150,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=115&alg=33"
     },
     {
+      "name": "St. Charles West",
+      "wins": 5,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=169&alg=33"
+    },
+    {
       "name": "Kickapoo",
       "wins": 6,
       "losses": 17,
@@ -24240,13 +24225,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=580&alg=33"
-    },
-    {
-      "name": "St. Charles West",
-      "wins": 4,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=169&alg=33"
     },
     {
       "name": "Canton",
@@ -24433,7 +24411,7 @@
     {
       "name": "Roosevelt",
       "wins": 0,
-      "losses": 9,
+      "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=189&alg=33"
     },
