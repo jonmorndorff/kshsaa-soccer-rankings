@@ -22923,6 +22923,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=232&alg=33"
     },
     {
+      "name": "Liberty",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=121&alg=33"
+    },
+    {
       "name": "St. Dominic",
       "wins": 11,
       "losses": 4,
@@ -22949,13 +22956,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
-    },
-    {
-      "name": "Liberty",
-      "wins": 9,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=121&alg=33"
     },
     {
       "name": "Priory",
@@ -23098,18 +23098,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
-      "name": "Fulton",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
-    },
-    {
       "name": "Boonville",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
+    },
+    {
+      "name": "Fulton",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
       "name": "MICDS",
@@ -23378,6 +23378,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1540&alg=33"
     },
     {
+      "name": "Barstow",
+      "wins": 10,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
+    },
+    {
       "name": "Brentwood",
       "wins": 9,
       "losses": 9,
@@ -23502,13 +23509,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
-    },
-    {
-      "name": "Barstow",
-      "wins": 9,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
       "name": "Francis Howell North",
@@ -23707,13 +23707,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=569&alg=33"
     },
     {
-      "name": "St. Michael the Archangel",
-      "wins": 6,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
-    },
-    {
       "name": "Republic",
       "wins": 9,
       "losses": 14,
@@ -23754,6 +23747,13 @@
       "losses": 12,
       "ties": 2,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=188&alg=33"
+    },
+    {
+      "name": "St. Michael the Archangel",
+      "wins": 6,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
     },
     {
       "name": "Ft. Zumwalt North",
