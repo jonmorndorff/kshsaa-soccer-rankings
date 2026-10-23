@@ -1,6 +1,6 @@
 {
   "records": 226,
-  "matchedExternalGames": 60,
+  "matchedExternalGames": 63,
   "matches": [
     {
       "team": "6770",
@@ -361,6 +361,24 @@
       "date": "2026-10-20",
       "opponent": "Rockhurst HS, Kansas City",
       "missouriSchoolId": "540"
+    },
+    {
+      "team": "1075",
+      "date": "2026-10-22",
+      "opponent": "Northland Christian HS, Kansas City",
+      "missouriSchoolId": "1022"
+    },
+    {
+      "team": "609",
+      "date": "2026-10-22",
+      "opponent": "Paseo Academy HS, Kansas City",
+      "missouriSchoolId": "164"
+    },
+    {
+      "team": "612",
+      "date": "2026-10-22",
+      "opponent": "Faith Christian Academy, Kansas City",
+      "missouriSchoolId": "1660"
     }
   ],
   "unmatchedOpponentNames": [
