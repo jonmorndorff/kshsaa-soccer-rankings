@@ -23128,18 +23128,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
-      "name": "Boonville",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
-    },
-    {
       "name": "Fulton",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
+    },
+    {
+      "name": "Boonville",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
     },
     {
       "name": "McDonald County",
