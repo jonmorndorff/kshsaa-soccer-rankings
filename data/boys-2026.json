@@ -23511,6 +23511,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=399&alg=33"
     },
     {
+      "name": "Lutheran St. Charles",
+      "wins": 10,
+      "losses": 11,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=528&alg=33"
+    },
+    {
       "name": "St. Mary's South Side",
       "wins": 10,
       "losses": 11,
@@ -23600,13 +23607,6 @@
       "losses": 12,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=234&alg=33"
-    },
-    {
-      "name": "Lutheran St. Charles",
-      "wins": 9,
-      "losses": 11,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=528&alg=33"
     },
     {
       "name": "Smithville",
@@ -23959,13 +23959,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=149&alg=33"
     },
     {
-      "name": "Holt",
-      "wins": 4,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 13,
@@ -23978,6 +23971,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=306&alg=33"
+    },
+    {
+      "name": "Holt",
+      "wins": 4,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
     },
     {
       "name": "Ruskin",
