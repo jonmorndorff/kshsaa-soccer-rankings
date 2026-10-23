@@ -22853,18 +22853,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=812&alg=33"
     },
     {
-      "name": "North Point",
-      "wins": 15,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
-    },
-    {
       "name": "Troy Buchanan",
       "wins": 15,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
+    },
+    {
+      "name": "North Point",
+      "wins": 15,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
     },
     {
       "name": "Rock Bridge",
@@ -23091,18 +23091,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
-      "name": "Boonville",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
-    },
-    {
       "name": "Fulton",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
+    },
+    {
+      "name": "Boonville",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
     },
     {
       "name": "MICDS",
@@ -23147,18 +23147,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
     },
     {
+      "name": "Marquette",
+      "wins": 13,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
+    },
+    {
       "name": "McDonald County",
       "wins": 8,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
-    },
-    {
-      "name": "Joplin",
-      "wins": 11,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
     },
     {
       "name": "Lee's Summit West",
@@ -23180,13 +23180,6 @@
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=69&alg=33"
-    },
-    {
-      "name": "Marquette",
-      "wins": 12,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
     },
     {
       "name": "Saxony Lutheran with St. Vincent",
@@ -23252,11 +23245,25 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
+      "name": "Joplin",
+      "wins": 11,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
+    },
+    {
       "name": "Sullivan",
       "wins": 12,
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
+    },
+    {
+      "name": "Carthage",
+      "wins": 12,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=38&alg=33"
     },
     {
       "name": "Ft. Zumwalt South",
@@ -23299,13 +23306,6 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
-    },
-    {
-      "name": "Carthage",
-      "wins": 11,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=38&alg=33"
     },
     {
       "name": "Bayless",
@@ -23784,13 +23784,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=157&alg=33"
     },
     {
-      "name": "Liberty (Wentzville)",
-      "wins": 4,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=965&alg=33"
-    },
-    {
       "name": "Odessa",
       "wins": 6,
       "losses": 11,
@@ -23840,6 +23833,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=809&alg=33"
     },
     {
+      "name": "Liberty (Wentzville)",
+      "wins": 4,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=965&alg=33"
+    },
+    {
       "name": "Cardinal Ritter",
       "wins": 2,
       "losses": 4,
@@ -23861,18 +23861,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=60&alg=33"
     },
     {
-      "name": "Westminster Christian Academy",
-      "wins": 5,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
-    },
-    {
       "name": "Parkway Central",
       "wins": 5,
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
+    },
+    {
+      "name": "Westminster Christian Academy",
+      "wins": 5,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
     },
     {
       "name": "Fox",
