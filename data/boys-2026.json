@@ -23447,13 +23447,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=953&alg=33"
     },
     {
-      "name": "Crocker",
-      "wins": 8,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=288&alg=33"
-    },
-    {
       "name": "Fredericktown",
       "wins": 8,
       "losses": 8,
@@ -23564,6 +23557,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
+    },
+    {
+      "name": "Crocker",
+      "wins": 8,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=288&alg=33"
     },
     {
       "name": "Neosho",
@@ -23867,6 +23867,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=533&alg=33"
     },
     {
+      "name": "Marshfield",
+      "wins": 6,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=107&alg=33"
+    },
+    {
       "name": "Festus",
       "wins": 5,
       "losses": 10,
@@ -23935,13 +23942,6 @@
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=161&alg=33"
-    },
-    {
-      "name": "Marshfield",
-      "wins": 5,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=107&alg=33"
     },
     {
       "name": "Truman",
