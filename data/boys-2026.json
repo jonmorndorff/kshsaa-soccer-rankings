@@ -15356,7 +15356,7 @@
       },
       {
         "date": "2026-09-24",
-        "opponent": "TBD",
+        "opponent": "Lincoln-Way East HS, Frankfort",
         "location": "N",
         "result": "W",
         "score": "3-0",
@@ -21912,8 +21912,8 @@
     {
       "team": "734",
       "date": "2026-09-24",
-      "opponent": "TBD",
-      "opponentKey": "tbd",
+      "opponent": "Lincoln-Way East HS, Frankfort",
+      "opponentKey": "lincolnwayeasthsfrankfort",
       "gf": 3,
       "ga": 0,
       "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=734"
@@ -22944,13 +22944,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=144&alg=33"
     },
     {
-      "name": "Parkway West",
-      "wins": 12,
-      "losses": 5,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
-    },
-    {
       "name": "Lee's Summit",
       "wins": 9,
       "losses": 4,
@@ -23056,6 +23049,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
     },
     {
+      "name": "Parkway West",
+      "wins": 12,
+      "losses": 6,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
+    },
+    {
       "name": "Park Hill South",
       "wins": 10,
       "losses": 5,
@@ -23082,6 +23082,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=567&alg=33"
+    },
+    {
+      "name": "Clayton",
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
     },
     {
       "name": "Laquey with Richland",
@@ -23133,13 +23140,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
     },
     {
-      "name": "Clayton",
-      "wins": 10,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
-    },
-    {
       "name": "Jackson",
       "wins": 10,
       "losses": 6,
@@ -23182,18 +23182,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=69&alg=33"
     },
     {
-      "name": "Saxony Lutheran with St. Vincent",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
-    },
-    {
       "name": "St. Pius X (Festus)",
       "wins": 9,
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
+    },
+    {
+      "name": "Saxony Lutheran with St. Vincent",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
       "name": "Warrenton",
@@ -23208,6 +23208,13 @@
       "losses": 6,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=4&alg=33"
+    },
+    {
+      "name": "Sullivan",
+      "wins": 13,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
       "name": "Principia",
@@ -23250,13 +23257,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
-    },
-    {
-      "name": "Sullivan",
-      "wins": 12,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
       "name": "Carthage",
@@ -23413,18 +23413,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 8,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
-    },
-    {
       "name": "Guadalupe Centers Charter",
       "wins": 8,
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
+    },
+    {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 8,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
       "name": "Benton",
@@ -23595,13 +23595,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
     },
     {
-      "name": "Valley Park",
-      "wins": 8,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=481&alg=33"
-    },
-    {
       "name": "Paseo Academy",
       "wins": 7,
       "losses": 9,
@@ -23656,6 +23649,13 @@
       "losses": 11,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=40&alg=33"
+    },
+    {
+      "name": "Valley Park",
+      "wins": 8,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=481&alg=33"
     },
     {
       "name": "Raymore-Peculiar",
@@ -23861,18 +23861,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=60&alg=33"
     },
     {
-      "name": "Parkway Central",
-      "wins": 5,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
-    },
-    {
       "name": "Westminster Christian Academy",
       "wins": 5,
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
+    },
+    {
+      "name": "Parkway Central",
+      "wins": 5,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
     },
     {
       "name": "Fox",
