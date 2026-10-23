@@ -23128,6 +23128,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
+      "name": "Boonville",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
+    },
+    {
       "name": "Fulton",
       "wins": 9,
       "losses": 5,
@@ -23135,11 +23142,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
-      "name": "Boonville",
+      "name": "McDonald County",
       "wins": 9,
       "losses": 5,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
     },
     {
       "name": "MICDS",
@@ -23182,13 +23189,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
-    },
-    {
-      "name": "McDonald County",
-      "wins": 8,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
     },
     {
       "name": "Lee's Summit West",
@@ -24257,7 +24257,7 @@
     {
       "name": "Aurora",
       "wins": 0,
-      "losses": 18,
+      "losses": 19,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=30&alg=33"
     }
