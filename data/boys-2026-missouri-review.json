@@ -1,6 +1,6 @@
 {
-  "records": 226,
-  "matchedExternalGames": 63,
+  "records": 225,
+  "matchedExternalGames": 64,
   "matches": [
     {
       "team": "6770",
@@ -369,6 +369,12 @@
       "missouriSchoolId": "1022"
     },
     {
+      "team": "1205",
+      "date": "2026-10-22",
+      "opponent": "Lutheran HS, Kansas City",
+      "missouriSchoolId": "527"
+    },
+    {
       "team": "609",
       "date": "2026-10-22",
       "opponent": "Paseo Academy HS, Kansas City",
@@ -391,6 +397,7 @@
     "Kansas City East Christian Academy",
     "Lenexa-Christ Preparatory Academy",
     "Liberty Homeschool Alliance",
+    "Lincoln-Way East HS, Frankfort",
     "Manhattan C.H.I.E.F.",
     "Naperville Central HS, Naperville",
     "Naperville North HS, Naperville",
