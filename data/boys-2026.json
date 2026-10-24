@@ -7575,7 +7575,7 @@
     ],
     "789": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Valley Center HS",
         "location": "N",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=789"
@@ -7705,7 +7705,7 @@
     "613": [],
     "770": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Kapaun Mt. Carmel HS",
         "location": "N",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
@@ -7970,7 +7970,7 @@
     ],
     "518": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Maur Hill-Mount Academy",
         "location": "N",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
@@ -7992,7 +7992,7 @@
     ],
     "472": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Field Kindley HS",
         "location": "N",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=472"
@@ -13523,7 +13523,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=789"
       },
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Valley Center HS",
         "location": "N",
         "result": "",
@@ -15983,7 +15983,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=5A&SchoolSelect=770"
       },
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Kapaun Mt. Carmel HS",
         "location": "N",
         "result": "",
@@ -20285,7 +20285,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=518"
       },
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Maur Hill-Mount Academy",
         "location": "N",
         "result": "",
@@ -20569,7 +20569,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=472"
       },
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "opponent": "Field Kindley HS",
         "location": "N",
         "result": "",
@@ -24199,18 +24199,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=191&alg=33"
     },
     {
+      "name": "Chaminade College Prep",
+      "wins": 19,
+      "losses": 2,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
+    },
+    {
       "name": "SLUH",
       "wins": 15,
       "losses": 1,
       "ties": 4,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
-    },
-    {
-      "name": "Chaminade College Prep",
-      "wins": 18,
-      "losses": 2,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
     },
     {
       "name": "Notre Dame (Cape Girardeau)",
@@ -24458,13 +24458,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
     },
     {
-      "name": "Priory",
-      "wins": 14,
-      "losses": 6,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
-    },
-    {
       "name": "Savannah",
       "wins": 11,
       "losses": 5,
@@ -24535,18 +24528,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
     },
     {
+      "name": "Priory",
+      "wins": 14,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
+    },
+    {
       "name": "Collegiate School of Med-Bio Science with McKinley Classical Leadership",
       "wins": 12,
       "losses": 6,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
-    },
-    {
-      "name": "Parkway West",
-      "wins": 12,
-      "losses": 6,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
     },
     {
       "name": "Perryville",
@@ -24605,18 +24598,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
-      "name": "Fulton",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
-    },
-    {
       "name": "Boonville",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
+    },
+    {
+      "name": "Fulton",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
       "name": "McDonald County",
@@ -24638,6 +24631,13 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=472&alg=33"
+    },
+    {
+      "name": "Parkway West",
+      "wins": 12,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
     },
     {
       "name": "St. Paul Lutheran (Concordia)",
@@ -24675,6 +24675,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
+      "name": "Oak Grove",
+      "wins": 11,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
+    },
+    {
       "name": "Eureka",
       "wins": 11,
       "losses": 7,
@@ -24689,18 +24696,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=69&alg=33"
     },
     {
-      "name": "St. Pius X (Festus)",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
-    },
-    {
       "name": "Saxony Lutheran with St. Vincent",
       "wins": 9,
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
+    },
+    {
+      "name": "St. Pius X (Festus)",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
     },
     {
       "name": "Warrenton",
@@ -24722,13 +24729,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
-    },
-    {
-      "name": "Oak Grove",
-      "wins": 10,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
     },
     {
       "name": "Lutheran South",
@@ -24757,6 +24757,13 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
+    },
+    {
+      "name": "Ladue Horton Watkins",
+      "wins": 12,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
     },
     {
       "name": "Carthage",
@@ -24799,13 +24806,6 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=124&alg=33"
-    },
-    {
-      "name": "Ladue Horton Watkins",
-      "wins": 11,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
     },
     {
       "name": "Bayless",
@@ -24962,13 +24962,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=961&alg=33"
     },
     {
-      "name": "Harrisonville",
-      "wins": 7,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=73&alg=33"
-    },
-    {
       "name": "Kirkwood",
       "wins": 7,
       "losses": 7,
@@ -25058,6 +25051,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=304&alg=33"
+    },
+    {
+      "name": "Harrisonville",
+      "wins": 7,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=73&alg=33"
     },
     {
       "name": "Francis Howell",
