@@ -24199,6 +24199,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=191&alg=33"
     },
     {
+      "name": "SLUH",
+      "wins": 15,
+      "losses": 1,
+      "ties": 4,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
+    },
+    {
       "name": "Chaminade College Prep",
       "wins": 18,
       "losses": 2,
@@ -24218,13 +24225,6 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
-    },
-    {
-      "name": "SLUH",
-      "wins": 14,
-      "losses": 1,
-      "ties": 4,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
     },
     {
       "name": "John Burroughs",
