@@ -22752,18 +22752,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
-      "name": "Excelsior Springs",
-      "wins": 14,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
-    },
-    {
       "name": "Kirksville",
       "wins": 14,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
+    },
+    {
+      "name": "Excelsior Springs",
+      "wins": 14,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
     },
     {
       "name": "Northeast (Kansas City)",
@@ -22923,7 +22923,7 @@
       "name": "Fair Grove",
       "wins": 14,
       "losses": 5,
-      "ties": 0,
+      "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
     },
     {
@@ -23116,18 +23116,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
-      "name": "Fulton",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
-    },
-    {
       "name": "Boonville",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
+    },
+    {
+      "name": "Fulton",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
       "name": "McDonald County",
@@ -23186,6 +23186,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
     },
     {
+      "name": "Sullivan",
+      "wins": 14,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
+    },
+    {
       "name": "Eureka",
       "wins": 11,
       "losses": 7,
@@ -23226,13 +23233,6 @@
       "losses": 6,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=4&alg=33"
-    },
-    {
-      "name": "Sullivan",
-      "wins": 13,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
       "name": "Principia",
@@ -23431,6 +23431,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=953&alg=33"
     },
     {
+      "name": "Smithton",
+      "wins": 8,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=444&alg=33"
+    },
+    {
       "name": "Fredericktown",
       "wins": 8,
       "losses": 8,
@@ -23438,18 +23445,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 8,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
-    },
-    {
       "name": "Guadalupe Centers Charter",
       "wins": 8,
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
+    },
+    {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 8,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
       "name": "Benton",
@@ -23569,13 +23576,6 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=304&alg=33"
-    },
-    {
-      "name": "Smithton",
-      "wins": 7,
-      "losses": 8,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=444&alg=33"
     },
     {
       "name": "Francis Howell",
@@ -23823,13 +23823,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
     },
     {
-      "name": "New Covenant Academy",
-      "wins": 6,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=533&alg=33"
-    },
-    {
       "name": "Marshfield",
       "wins": 6,
       "losses": 12,
@@ -24026,13 +24019,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
     },
     {
-      "name": "Jefferson City",
-      "wins": 4,
-      "losses": 14,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
-    },
-    {
       "name": "Central (Cape Girardeau)",
       "wins": 4,
       "losses": 13,
@@ -24052,6 +24038,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=580&alg=33"
+    },
+    {
+      "name": "Jefferson City",
+      "wins": 4,
+      "losses": 15,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
     },
     {
       "name": "Osage",
@@ -24096,13 +24089,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=334&alg=33"
     },
     {
-      "name": "Iberia",
-      "wins": 3,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=325&alg=33"
-    },
-    {
       "name": "Bishop DuBourg",
       "wins": 3,
       "losses": 14,
@@ -24115,6 +24101,13 @@
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=91&alg=33"
+    },
+    {
+      "name": "Iberia",
+      "wins": 3,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=325&alg=33"
     },
     {
       "name": "Webb City",
