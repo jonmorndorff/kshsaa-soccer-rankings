@@ -24234,18 +24234,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
-      "name": "Kirksville",
-      "wins": 14,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
-    },
-    {
       "name": "Excelsior Springs",
       "wins": 14,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
+    },
+    {
+      "name": "Kirksville",
+      "wins": 14,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
     },
     {
       "name": "Northeast (Kansas City)",
