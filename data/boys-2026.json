@@ -22709,13 +22709,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=106&alg=33"
     },
     {
-      "name": "John Burroughs",
-      "wins": 14,
-      "losses": 2,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
-    },
-    {
       "name": "Nixa",
       "wins": 19,
       "losses": 3,
@@ -22756,6 +22749,13 @@
       "losses": 1,
       "ties": 4,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
+    },
+    {
+      "name": "John Burroughs",
+      "wins": 14,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
       "name": "Kirksville",
@@ -22863,6 +22863,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=514&alg=33"
     },
     {
+      "name": "Rock Bridge",
+      "wins": 14,
+      "losses": 4,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=578&alg=33"
+    },
+    {
       "name": "Logan-Rogersville",
       "wins": 16,
       "losses": 5,
@@ -22877,13 +22884,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=812&alg=33"
     },
     {
-      "name": "Troy Buchanan",
-      "wins": 15,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
-    },
-    {
       "name": "North Point",
       "wins": 15,
       "losses": 5,
@@ -22891,11 +22891,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
     },
     {
-      "name": "Rock Bridge",
-      "wins": 13,
-      "losses": 4,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=578&alg=33"
+      "name": "Troy Buchanan",
+      "wins": 15,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
     },
     {
       "name": "Center",
@@ -22954,6 +22954,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=121&alg=33"
     },
     {
+      "name": "Northwest (Cedar Hill)",
+      "wins": 17,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=144&alg=33"
+    },
+    {
       "name": "St. Dominic",
       "wins": 11,
       "losses": 4,
@@ -22966,13 +22973,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=194&alg=33"
-    },
-    {
-      "name": "Northwest (Cedar Hill)",
-      "wins": 16,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=144&alg=33"
     },
     {
       "name": "Lee's Summit",
@@ -23080,13 +23080,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
     },
     {
-      "name": "Park Hill South",
-      "wins": 10,
-      "losses": 5,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=158&alg=33"
-    },
-    {
       "name": "Perryville",
       "wins": 13,
       "losses": 7,
@@ -23185,6 +23178,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
     },
     {
+      "name": "Park Hill South",
+      "wins": 10,
+      "losses": 6,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=158&alg=33"
+    },
+    {
       "name": "Lee's Summit West",
       "wins": 11,
       "losses": 7,
@@ -23206,18 +23206,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=69&alg=33"
     },
     {
-      "name": "Saxony Lutheran with St. Vincent",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
-    },
-    {
       "name": "St. Pius X (Festus)",
       "wins": 9,
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
+    },
+    {
+      "name": "Saxony Lutheran with St. Vincent",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
       "name": "Warrenton",
@@ -23444,18 +23444,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 8,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
-    },
-    {
       "name": "Guadalupe Centers Charter",
       "wins": 8,
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
+    },
+    {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 8,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
       "name": "Benton",
@@ -23675,6 +23675,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=481&alg=33"
     },
     {
+      "name": "Webster Groves",
+      "wins": 8,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
+    },
+    {
       "name": "Raymore-Peculiar",
       "wins": 8,
       "losses": 11,
@@ -23743,13 +23750,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=285&alg=33"
-    },
-    {
-      "name": "Webster Groves",
-      "wins": 7,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
     },
     {
       "name": "Lutheran North",
@@ -23822,13 +23822,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
     },
     {
-      "name": "Seckman",
-      "wins": 6,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=184&alg=33"
-    },
-    {
       "name": "Sacred Heart",
       "wins": 5,
       "losses": 10,
@@ -23855,6 +23848,13 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=237&alg=33"
+    },
+    {
+      "name": "Seckman",
+      "wins": 6,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=184&alg=33"
     },
     {
       "name": "East (Kansas City)",
@@ -23997,6 +23997,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=90&alg=33"
     },
     {
+      "name": "McCluer North",
+      "wins": 4,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
+    },
+    {
       "name": "Mehlville",
       "wins": 4,
       "losses": 13,
@@ -24065,13 +24072,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=254&alg=33"
-    },
-    {
-      "name": "McCluer North",
-      "wins": 3,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
     },
     {
       "name": "Ft. Zumwalt East",
