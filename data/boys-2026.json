@@ -24598,18 +24598,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
-      "name": "Boonville",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
-    },
-    {
       "name": "Fulton",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
+    },
+    {
+      "name": "Boonville",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
     },
     {
       "name": "McDonald County",
@@ -24703,18 +24703,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
-      "name": "Saxony Lutheran with St. Vincent",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
-    },
-    {
       "name": "St. Pius X (Festus)",
       "wins": 9,
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
+    },
+    {
+      "name": "Saxony Lutheran with St. Vincent",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
       "name": "Warrenton",
@@ -25102,11 +25102,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=273&alg=33"
     },
     {
-      "name": "DeSoto",
+      "name": "Missouri Military Academy",
       "wins": 7,
       "losses": 9,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=35&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=569&alg=33"
     },
     {
       "name": "Platte County",
@@ -25172,6 +25172,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=518&alg=33"
     },
     {
+      "name": "DeSoto",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=35&alg=33"
+    },
+    {
       "name": "Washington",
       "wins": 7,
       "losses": 10,
@@ -25198,13 +25205,6 @@
       "losses": 9,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=805&alg=33"
-    },
-    {
-      "name": "Missouri Military Academy",
-      "wins": 6,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=569&alg=33"
     },
     {
       "name": "Republic",
@@ -25438,6 +25438,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
     },
     {
+      "name": "Hillsboro",
+      "wins": 6,
+      "losses": 16,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
+    },
+    {
       "name": "Holt",
       "wins": 4,
       "losses": 11,
@@ -25492,13 +25499,6 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=209&alg=33"
-    },
-    {
-      "name": "Hillsboro",
-      "wins": 5,
-      "losses": 16,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
     },
     {
       "name": "Central (Cape Girardeau)",
@@ -25655,18 +25655,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=96&alg=33"
     },
     {
-      "name": "Mexico",
-      "wins": 2,
-      "losses": 18,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=128&alg=33"
-    },
-    {
       "name": "Warrensburg",
       "wins": 1,
       "losses": 13,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=218&alg=33"
+    },
+    {
+      "name": "Mexico",
+      "wins": 2,
+      "losses": 19,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=128&alg=33"
     },
     {
       "name": "Ritenour",
