@@ -24255,6 +24255,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=143&alg=33"
     },
     {
+      "name": "Father Tolton",
+      "wins": 18,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
+    },
+    {
       "name": "Stover",
       "wins": 13,
       "losses": 3,
@@ -24281,13 +24288,6 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
-    },
-    {
-      "name": "Father Tolton",
-      "wins": 17,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
     },
     {
       "name": "Van Horn",
@@ -24332,13 +24332,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=514&alg=33"
     },
     {
-      "name": "Hickman",
-      "wins": 17,
-      "losses": 4,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=85&alg=33"
-    },
-    {
       "name": "Logan-Rogersville",
       "wins": 16,
       "losses": 5,
@@ -24353,18 +24346,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=812&alg=33"
     },
     {
-      "name": "North Point",
-      "wins": 15,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
-    },
-    {
       "name": "Troy Buchanan",
       "wins": 15,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
+    },
+    {
+      "name": "North Point",
+      "wins": 15,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
     },
     {
       "name": "Center",
@@ -24379,6 +24372,13 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=916&alg=33"
+    },
+    {
+      "name": "Hickman",
+      "wins": 17,
+      "losses": 5,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=85&alg=33"
     },
     {
       "name": "Springfield Catholic",
@@ -24479,13 +24479,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=165&alg=33"
     },
     {
-      "name": "Moberly",
-      "wins": 15,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
-    },
-    {
       "name": "Pleasant Hill",
       "wins": 9,
       "losses": 4,
@@ -24540,6 +24533,13 @@
       "losses": 6,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
+    },
+    {
+      "name": "Moberly",
+      "wins": 15,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
     },
     {
       "name": "Perryville",
@@ -24598,13 +24598,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
-      "name": "Fulton",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
-    },
-    {
       "name": "Boonville",
       "wins": 9,
       "losses": 5,
@@ -24612,11 +24605,25 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
     },
     {
+      "name": "Fulton",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
+    },
+    {
       "name": "McDonald County",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
+    },
+    {
+      "name": "Park Hill South",
+      "wins": 11,
+      "losses": 6,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=158&alg=33"
     },
     {
       "name": "Bolivar",
@@ -24654,13 +24661,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
     },
     {
-      "name": "Park Hill South",
-      "wins": 10,
-      "losses": 6,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=158&alg=33"
-    },
-    {
       "name": "Lee's Summit West",
       "wins": 11,
       "losses": 7,
@@ -24694,6 +24694,13 @@
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=69&alg=33"
+    },
+    {
+      "name": "Marshall",
+      "wins": 12,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
       "name": "Saxony Lutheran with St. Vincent",
@@ -24743,13 +24750,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=159&alg=33"
-    },
-    {
-      "name": "Marshall",
-      "wins": 11,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
       "name": "Joplin",
@@ -24934,18 +24934,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 8,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
-    },
-    {
       "name": "Guadalupe Centers Charter",
       "wins": 8,
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
+    },
+    {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 8,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
       "name": "Benton",
@@ -25095,13 +25095,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
     },
     {
-      "name": "Paseo Academy",
-      "wins": 7,
-      "losses": 9,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=164&alg=33"
-    },
-    {
       "name": "Dixon",
       "wins": 7,
       "losses": 9,
@@ -25163,6 +25156,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=176&alg=33"
+    },
+    {
+      "name": "Paseo Academy",
+      "wins": 7,
+      "losses": 10,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=164&alg=33"
     },
     {
       "name": "Duchesne",
