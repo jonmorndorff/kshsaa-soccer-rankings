@@ -24395,6 +24395,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=28&alg=33"
     },
     {
+      "name": "Central (Springfield)",
+      "wins": 16,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=232&alg=33"
+    },
+    {
       "name": "Fair Grove",
       "wins": 14,
       "losses": 5,
@@ -24414,13 +24421,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=133&alg=33"
-    },
-    {
-      "name": "Central (Springfield)",
-      "wins": 15,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=232&alg=33"
     },
     {
       "name": "Liberty",
@@ -24591,11 +24591,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
     },
     {
-      "name": "Laquey with Richland",
+      "name": "Fulton",
       "wins": 9,
       "losses": 5,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
       "name": "Boonville",
@@ -24603,13 +24603,6 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
-    },
-    {
-      "name": "Fulton",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
       "name": "McDonald County",
@@ -24703,6 +24696,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
+      "name": "St. Pius X (Festus)",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
+    },
+    {
       "name": "Saxony Lutheran with St. Vincent",
       "wins": 9,
       "losses": 6,
@@ -24710,11 +24710,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
-      "name": "St. Pius X (Festus)",
+      "name": "Laquey with Richland",
       "wins": 9,
       "losses": 6,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
       "name": "Warrenton",
