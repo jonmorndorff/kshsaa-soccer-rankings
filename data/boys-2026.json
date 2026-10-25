@@ -24276,6 +24276,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
     },
     {
+      "name": "Metro",
+      "wins": 10,
+      "losses": 2,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=125&alg=33"
+    },
+    {
       "name": "Van Horn",
       "wins": 14,
       "losses": 3,
@@ -24295,13 +24302,6 @@
       "losses": 2,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=46&alg=33"
-    },
-    {
-      "name": "Metro",
-      "wins": 9,
-      "losses": 2,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=125&alg=33"
     },
     {
       "name": "St. Charles",
@@ -24871,13 +24871,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
-      "name": "Brentwood",
-      "wins": 9,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=19&alg=33"
-    },
-    {
       "name": "STEAM Academy",
       "wins": 9,
       "losses": 9,
@@ -24920,18 +24913,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
-      "name": "Guadalupe Centers Charter",
-      "wins": 8,
-      "losses": 8,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
-    },
-    {
       "name": "St. Pius X (Kansas City)",
       "wins": 8,
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
+    },
+    {
+      "name": "Guadalupe Centers Charter",
+      "wins": 8,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
     },
     {
       "name": "Benton",
@@ -25410,18 +25403,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=149&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "Hillsboro",
