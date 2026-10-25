@@ -24682,18 +24682,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
-      "name": "St. Pius X (Festus)",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
-    },
-    {
       "name": "Saxony Lutheran with St. Vincent",
       "wins": 9,
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
+    },
+    {
+      "name": "St. Pius X (Festus)",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
     },
     {
       "name": "Laquey with Richland",
