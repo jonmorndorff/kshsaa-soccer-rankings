@@ -24220,18 +24220,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
-      "name": "Excelsior Springs",
-      "wins": 14,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
-    },
-    {
       "name": "Kirksville",
       "wins": 14,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
+    },
+    {
+      "name": "Excelsior Springs",
+      "wins": 14,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
     },
     {
       "name": "Northeast (Kansas City)",
@@ -24654,13 +24654,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
     },
     {
-      "name": "Eureka",
-      "wins": 11,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
-    },
-    {
       "name": "Ft. Zumwalt West",
       "wins": 11,
       "losses": 7,
@@ -24745,6 +24738,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
     },
     {
+      "name": "Eureka",
+      "wins": 11,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
+    },
+    {
       "name": "Ladue Horton Watkins",
       "wins": 12,
       "losses": 9,
@@ -24813,6 +24813,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=55&alg=33"
+    },
+    {
+      "name": "Parkway South",
+      "wins": 7,
+      "losses": 6,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=162&alg=33"
     },
     {
       "name": "Pembroke Hill",
@@ -24953,13 +24960,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1030&alg=33"
-    },
-    {
-      "name": "Parkway South",
-      "wins": 6,
-      "losses": 6,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=162&alg=33"
     },
     {
       "name": "Thomas Jefferson Independent Day",
@@ -25403,18 +25403,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=149&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "Hillsboro",
