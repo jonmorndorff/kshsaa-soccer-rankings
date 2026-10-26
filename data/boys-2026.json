@@ -40,10 +40,10 @@
       "name": "Atchison HS",
       "classification": "4-3-2-1A",
       "wins": 1,
-      "losses": 15,
+      "losses": 16,
       "ties": 0,
-      "goalsFor": 13,
-      "goalsAgainst": 82,
+      "goalsFor": 14,
+      "goalsAgainst": 88,
       "region": "East"
     },
     {
@@ -51,10 +51,10 @@
       "name": "Augusta HS",
       "classification": "4-3-2-1A",
       "wins": 2,
-      "losses": 14,
+      "losses": 15,
       "ties": 0,
       "goalsFor": 11,
-      "goalsAgainst": 61,
+      "goalsAgainst": 66,
       "region": "West"
     },
     {
@@ -83,10 +83,10 @@
       "id": "538",
       "name": "Berean Academy",
       "classification": "4-3-2-1A",
-      "wins": 11,
+      "wins": 12,
       "losses": 4,
       "ties": 1,
-      "goalsFor": 57,
+      "goalsFor": 62,
       "goalsAgainst": 30,
       "region": "West"
     },
@@ -446,11 +446,11 @@
       "id": "1198",
       "name": "Heritage Christian Academy",
       "classification": "4-3-2-1A",
-      "wins": 12,
+      "wins": 13,
       "losses": 3,
       "ties": 1,
-      "goalsFor": 57,
-      "goalsAgainst": 12,
+      "goalsFor": 63,
+      "goalsAgainst": 13,
       "region": "East"
     },
     {
@@ -7308,6 +7308,22 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=786"
+    },
+    {
+      "date": "2026-10-26",
+      "home": "1198",
+      "away": "471",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
+    },
+    {
+      "date": "2026-10-26",
+      "home": "475",
+      "away": "538",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
     }
   ],
   "upcoming": {
@@ -7810,14 +7826,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=713"
       }
     ],
-    "1198": [
-      {
-        "date": "2026-10-26",
-        "opponent": "Atchison HS",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
-      }
-    ],
+    "1198": [],
     "736": [
       {
         "date": "2026-10-27",
@@ -7827,14 +7836,7 @@
       }
     ],
     "1074": [],
-    "641": [],
     "538": [
-      {
-        "date": "2026-10-26",
-        "opponent": "Augusta HS",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
-      },
       {
         "date": "2026-10-26",
         "opponent": "Augusta HS",
@@ -7842,6 +7844,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
       }
     ],
+    "641": [],
     "494": [
       {
         "date": "2026-10-26",
@@ -8068,22 +8071,9 @@
         "opponent": "Berean Academy",
         "location": "N",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=475"
-      },
-      {
-        "date": "2026-10-26",
-        "opponent": "Berean Academy",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=475"
       }
     ],
-    "471": [
-      {
-        "date": "2026-10-26",
-        "opponent": "Heritage Christian Academy",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=471"
-      }
-    ],
+    "471": [],
     "1189": [
       {
         "date": "2026-10-26",
@@ -18158,8 +18148,8 @@
         "date": "2026-10-26",
         "opponent": "Atchison HS",
         "location": "N",
-        "result": "",
-        "score": "",
+        "result": "W",
+        "score": "6-1",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1198"
       }
     ],
@@ -18431,136 +18421,6 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1074"
       }
     ],
-    "641": [
-      {
-        "date": "2026-09-01",
-        "opponent": "Basehor-Linwood HS",
-        "location": "V",
-        "result": "W",
-        "score": "2-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-03",
-        "opponent": "Independence HS",
-        "location": "V",
-        "result": "W",
-        "score": "8-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-08",
-        "opponent": "Pittsburg HS",
-        "location": "H",
-        "result": "W",
-        "score": "3-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-10",
-        "opponent": "Bonner Springs HS",
-        "location": "V",
-        "result": "T",
-        "score": "2-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-17",
-        "opponent": "Eudora HS",
-        "location": "V",
-        "result": "L",
-        "score": "1-2 \r\n                                            (OT)",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-22",
-        "opponent": "Baldwin HS",
-        "location": "H",
-        "result": "W",
-        "score": "4-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-24",
-        "opponent": "Sumner Academy",
-        "location": "H",
-        "result": "L",
-        "score": "1-4",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-09-29",
-        "opponent": "Chanute HS",
-        "location": "H",
-        "result": "W",
-        "score": "3-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-01",
-        "opponent": "Ottawa HS",
-        "location": "H",
-        "result": "W",
-        "score": "1-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-05",
-        "opponent": "Parsons HS",
-        "location": "V",
-        "result": "W",
-        "score": "6-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-08",
-        "opponent": "Tonganoxie HS",
-        "location": "H",
-        "result": "W",
-        "score": "2-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-13",
-        "opponent": "Paola HS",
-        "location": "V",
-        "result": "W",
-        "score": "4-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-14",
-        "opponent": "Lansing HS",
-        "location": "H",
-        "result": "L",
-        "score": "1-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-15",
-        "opponent": "Leavenworth HS",
-        "location": "V",
-        "result": "W",
-        "score": "6-1",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-20",
-        "opponent": "Kansas City-Washington HS",
-        "location": "H",
-        "result": "L",
-        "score": "1-2",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      },
-      {
-        "date": "2026-10-22",
-        "opponent": "Fort Scott HS",
-        "location": "V",
-        "result": "W",
-        "score": "8-0",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
-      }
-    ],
     "538": [
       {
         "date": "2026-08-28",
@@ -18702,9 +18562,139 @@
         "date": "2026-10-26",
         "opponent": "Augusta HS",
         "location": "N",
-        "result": "",
-        "score": "",
+        "result": "W",
+        "score": "5-0",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=538"
+      }
+    ],
+    "641": [
+      {
+        "date": "2026-09-01",
+        "opponent": "Basehor-Linwood HS",
+        "location": "V",
+        "result": "W",
+        "score": "2-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-03",
+        "opponent": "Independence HS",
+        "location": "V",
+        "result": "W",
+        "score": "8-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-08",
+        "opponent": "Pittsburg HS",
+        "location": "H",
+        "result": "W",
+        "score": "3-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-10",
+        "opponent": "Bonner Springs HS",
+        "location": "V",
+        "result": "T",
+        "score": "2-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-17",
+        "opponent": "Eudora HS",
+        "location": "V",
+        "result": "L",
+        "score": "1-2 \r\n                                            (OT)",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-22",
+        "opponent": "Baldwin HS",
+        "location": "H",
+        "result": "W",
+        "score": "4-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-24",
+        "opponent": "Sumner Academy",
+        "location": "H",
+        "result": "L",
+        "score": "1-4",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-09-29",
+        "opponent": "Chanute HS",
+        "location": "H",
+        "result": "W",
+        "score": "3-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-01",
+        "opponent": "Ottawa HS",
+        "location": "H",
+        "result": "W",
+        "score": "1-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-05",
+        "opponent": "Parsons HS",
+        "location": "V",
+        "result": "W",
+        "score": "6-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-08",
+        "opponent": "Tonganoxie HS",
+        "location": "H",
+        "result": "W",
+        "score": "2-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-13",
+        "opponent": "Paola HS",
+        "location": "V",
+        "result": "W",
+        "score": "4-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-14",
+        "opponent": "Lansing HS",
+        "location": "H",
+        "result": "L",
+        "score": "1-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-15",
+        "opponent": "Leavenworth HS",
+        "location": "V",
+        "result": "W",
+        "score": "6-1",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-20",
+        "opponent": "Kansas City-Washington HS",
+        "location": "H",
+        "result": "L",
+        "score": "1-2",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
+      },
+      {
+        "date": "2026-10-22",
+        "opponent": "Fort Scott HS",
+        "location": "V",
+        "result": "W",
+        "score": "8-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=641"
       }
     ],
     "494": [
@@ -22062,8 +22052,8 @@
         "date": "2026-10-26",
         "opponent": "Berean Academy",
         "location": "N",
-        "result": "",
-        "score": "",
+        "result": "L",
+        "score": "0-5",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=475"
       }
     ],
@@ -22200,8 +22190,8 @@
         "date": "2026-10-26",
         "opponent": "Heritage Christian Academy",
         "location": "N",
-        "result": "",
-        "score": "",
+        "result": "L",
+        "score": "1-6",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=471"
       }
     ],
@@ -24207,6 +24197,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
     },
     {
+      "name": "Stover",
+      "wins": 14,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=465&alg=33"
+    },
+    {
       "name": "John Burroughs",
       "wins": 14,
       "losses": 3,
@@ -24214,18 +24211,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
-      "name": "Kirksville",
-      "wins": 14,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
-    },
-    {
       "name": "Excelsior Springs",
       "wins": 14,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
+    },
+    {
+      "name": "Kirksville",
+      "wins": 14,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
     },
     {
       "name": "Northeast (Kansas City)",
@@ -24240,13 +24237,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
-    },
-    {
-      "name": "Stover",
-      "wins": 13,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=465&alg=33"
     },
     {
       "name": "Belton",
@@ -24907,18 +24897,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 8,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
-    },
-    {
       "name": "Guadalupe Centers Charter",
       "wins": 8,
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
+    },
+    {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 8,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
       "name": "Benton",
@@ -25005,13 +24995,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
     },
     {
-      "name": "Crocker",
-      "wins": 8,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=288&alg=33"
-    },
-    {
       "name": "Neosho",
       "wins": 8,
       "losses": 9,
@@ -25068,11 +25051,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
     },
     {
-      "name": "Dixon",
-      "wins": 7,
-      "losses": 9,
+      "name": "Crocker",
+      "wins": 8,
+      "losses": 10,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=273&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=288&alg=33"
     },
     {
       "name": "Missouri Military Academy",
@@ -25136,6 +25119,13 @@
       "losses": 10,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=164&alg=33"
+    },
+    {
+      "name": "Dixon",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=273&alg=33"
     },
     {
       "name": "Duchesne",
@@ -25227,6 +25217,13 @@
       "losses": 12,
       "ties": 2,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=188&alg=33"
+    },
+    {
+      "name": "New Covenant Academy",
+      "wins": 7,
+      "losses": 12,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=533&alg=33"
     },
     {
       "name": "St. Michael the Archangel",
@@ -25397,18 +25394,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=149&alg=33"
     },
     {
-      "name": "William Chrisman",
-      "wins": 5,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
-    },
-    {
       "name": "Truman",
       "wins": 5,
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
+    },
+    {
+      "name": "William Chrisman",
+      "wins": 5,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
     },
     {
       "name": "Hillsboro",
