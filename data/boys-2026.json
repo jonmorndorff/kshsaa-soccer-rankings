@@ -24332,18 +24332,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=812&alg=33"
     },
     {
-      "name": "Troy Buchanan",
-      "wins": 15,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
-    },
-    {
       "name": "North Point",
       "wins": 15,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
+    },
+    {
+      "name": "Troy Buchanan",
+      "wins": 15,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
     },
     {
       "name": "Center",
@@ -24577,18 +24577,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
     },
     {
-      "name": "Fulton",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
-    },
-    {
       "name": "Boonville",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
+    },
+    {
+      "name": "Fulton",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
       "name": "McDonald County",
