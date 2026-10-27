@@ -7428,10 +7428,25 @@
       "homeGoals": 3,
       "awayGoals": 2,
       "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=4-3-2-1A&SchoolSelect=1153"
+    },
+    {
+      "date": "2026-10-27",
+      "home": "762",
+      "away": "790",
+      "homeGoals": 5,
+      "awayGoals": 3,
+      "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
     }
   ],
   "upcoming": {
-    "533": [],
+    "533": [
+      {
+        "date": "2026-10-29",
+        "opponent": "Washburn Rural HS",
+        "location": "N",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+      }
+    ],
     "1221": [
       {
         "date": "2026-10-29",
@@ -7539,18 +7554,11 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=748"
       }
     ],
-    "790": [
-      {
-        "date": "2026-10-27",
-        "opponent": "Washburn Rural HS",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
-      }
-    ],
+    "790": [],
     "762": [
       {
-        "date": "2026-10-27",
-        "opponent": "Wichita-North HS",
+        "date": "2026-10-29",
+        "opponent": "Dodge City HS",
         "location": "N",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
       }
@@ -8178,6 +8186,14 @@
         "location": "N",
         "result": "W",
         "score": "8-0",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
+      },
+      {
+        "date": "2026-10-29",
+        "opponent": "Washburn Rural HS",
+        "location": "N",
+        "result": "",
+        "score": "",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
       }
     ],
@@ -10530,8 +10546,8 @@
         "date": "2026-10-27",
         "opponent": "Washburn Rural HS",
         "location": "N",
-        "result": "",
-        "score": "",
+        "result": "L",
+        "score": "3-5",
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=790"
       }
     ],
@@ -10667,6 +10683,14 @@
       {
         "date": "2026-10-27",
         "opponent": "Wichita-North HS",
+        "location": "N",
+        "result": "W",
+        "score": "5-3",
+        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=762"
+      },
+      {
+        "date": "2026-10-29",
+        "opponent": "Dodge City HS",
         "location": "N",
         "result": "",
         "score": "",
@@ -24565,18 +24589,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
     },
     {
-      "name": "Boonville",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
-    },
-    {
       "name": "Fulton",
       "wins": 9,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
+    },
+    {
+      "name": "Boonville",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
     },
     {
       "name": "McDonald County",
