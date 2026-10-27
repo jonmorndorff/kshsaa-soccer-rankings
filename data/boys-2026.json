@@ -24376,13 +24376,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=578&alg=33"
     },
     {
-      "name": "Monett",
-      "wins": 15,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=133&alg=33"
-    },
-    {
       "name": "Lee's Summit",
       "wins": 10,
       "losses": 4,
@@ -24432,6 +24425,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
     },
     {
+      "name": "Lincoln College Prep",
+      "wins": 11,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
+    },
+    {
       "name": "Summit Christian Academy",
       "wins": 13,
       "losses": 6,
@@ -24453,11 +24453,25 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=165&alg=33"
     },
     {
+      "name": "Monett",
+      "wins": 15,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=133&alg=33"
+    },
+    {
       "name": "Pleasant Hill",
       "wins": 9,
       "losses": 4,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=416&alg=33"
+    },
+    {
+      "name": "Perryville",
+      "wins": 14,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
     },
     {
       "name": "Southern Boone",
@@ -24472,13 +24486,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=203&alg=33"
-    },
-    {
-      "name": "Lincoln College Prep",
-      "wins": 10,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
     },
     {
       "name": "Priory",
@@ -24500,13 +24507,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
-    },
-    {
-      "name": "Perryville",
-      "wins": 13,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
     },
     {
       "name": "MICDS",
@@ -24754,13 +24754,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=167&alg=33"
     },
     {
-      "name": "Dexter",
-      "wins": 5,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=37&alg=33"
-    },
-    {
       "name": "Pacific",
       "wins": 11,
       "losses": 9,
@@ -24803,6 +24796,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
     },
     {
+      "name": "Guadalupe Centers Charter",
+      "wins": 9,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
+    },
+    {
       "name": "Kirkwood",
       "wins": 8,
       "losses": 7,
@@ -24836,6 +24836,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1540&alg=33"
+    },
+    {
+      "name": "Brentwood",
+      "wins": 10,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=19&alg=33"
     },
     {
       "name": "Barstow",
@@ -24880,13 +24887,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
-      "name": "Guadalupe Centers Charter",
-      "wins": 8,
-      "losses": 8,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
-    },
-    {
       "name": "Benton",
       "wins": 8,
       "losses": 8,
@@ -24927,6 +24927,13 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=556&alg=33"
+    },
+    {
+      "name": "Dexter",
+      "wins": 5,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=37&alg=33"
     },
     {
       "name": "Christian Fellowship Sr. with Hallsville",
@@ -25055,6 +25062,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=288&alg=33"
     },
     {
+      "name": "Carl Junction",
+      "wins": 8,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=34&alg=33"
+    },
+    {
       "name": "Missouri Military Academy",
       "wins": 7,
       "losses": 9,
@@ -25130,13 +25144,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=491&alg=33"
-    },
-    {
-      "name": "Carl Junction",
-      "wins": 7,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=34&alg=33"
     },
     {
       "name": "Ft. Zumwalt North",
@@ -25377,13 +25384,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=527&alg=33"
     },
     {
-      "name": "William Chrisman",
-      "wins": 5,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
-    },
-    {
       "name": "Truman",
       "wins": 5,
       "losses": 13,
@@ -25391,11 +25391,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
-      "name": "Hillsboro",
-      "wins": 6,
-      "losses": 16,
+      "name": "William Chrisman",
+      "wins": 5,
+      "losses": 13,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
     },
     {
       "name": "Hannibal",
@@ -25424,6 +25424,13 @@
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=169&alg=33"
+    },
+    {
+      "name": "Hillsboro",
+      "wins": 6,
+      "losses": 17,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
     },
     {
       "name": "Kickapoo",
@@ -25517,11 +25524,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=52&alg=33"
     },
     {
-      "name": "Ewing Marion Kauffman with University Academy Charter",
-      "wins": 2,
-      "losses": 8,
+      "name": "North County",
+      "wins": 3,
+      "losses": 13,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1206&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=140&alg=33"
     },
     {
       "name": "Gateway with Soldan International Studies",
@@ -25573,6 +25580,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
     },
     {
+      "name": "Ewing Marion Kauffman with University Academy Charter",
+      "wins": 2,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1206&alg=33"
+    },
+    {
       "name": "Iberia",
       "wins": 3,
       "losses": 16,
@@ -25606,13 +25620,6 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=252&alg=33"
-    },
-    {
-      "name": "North County",
-      "wins": 2,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=140&alg=33"
     },
     {
       "name": "Knob Noster",
