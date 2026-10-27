@@ -24118,7 +24118,7 @@
     },
     {
       "name": "Fort Osage",
-      "wins": 16,
+      "wins": 17,
       "losses": 1,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=577&alg=33"
@@ -24397,6 +24397,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=43&alg=33"
     },
     {
+      "name": "Savannah",
+      "wins": 12,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
+    },
+    {
       "name": "Lafayette (Wildwood)",
       "wins": 14,
       "losses": 6,
@@ -24423,13 +24430,6 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1660&alg=33"
-    },
-    {
-      "name": "Savannah",
-      "wins": 11,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
     },
     {
       "name": "Lincoln College Prep",
@@ -24649,18 +24649,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
-      "name": "St. Pius X (Festus)",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
-    },
-    {
       "name": "Saxony Lutheran with St. Vincent",
       "wins": 9,
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
+    },
+    {
+      "name": "St. Pius X (Festus)",
+      "wins": 9,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
     },
     {
       "name": "Laquey with Richland",
@@ -25384,13 +25384,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=527&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "Hannibal",
       "wins": 5,
       "losses": 15,
@@ -25431,6 +25424,13 @@
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "Hillsboro",
@@ -25566,13 +25566,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=516&alg=33"
     },
     {
-      "name": "Northland Christian",
-      "wins": 2,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
-    },
-    {
       "name": "Ewing Marion Kauffman with University Academy Charter",
       "wins": 2,
       "losses": 10,
@@ -25599,6 +25592,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=915&alg=33"
+    },
+    {
+      "name": "Northland Christian",
+      "wins": 2,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
     },
     {
       "name": "Calvary Lutheran",
