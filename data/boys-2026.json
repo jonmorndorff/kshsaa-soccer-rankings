@@ -25384,18 +25384,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=527&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "Hannibal",
