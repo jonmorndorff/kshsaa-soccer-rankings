@@ -24516,13 +24516,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
     },
     {
-      "name": "Orchard Farm",
-      "wins": 13,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=403&alg=33"
-    },
-    {
       "name": "Bolivar",
       "wins": 13,
       "losses": 7,
@@ -24612,6 +24605,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=489&alg=33"
+    },
+    {
+      "name": "Orchard Farm",
+      "wins": 13,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=403&alg=33"
     },
     {
       "name": "Marquette",
@@ -25433,6 +25433,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
     },
     {
+      "name": "Jefferson City",
+      "wins": 5,
+      "losses": 15,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
+    },
+    {
       "name": "Hillsboro",
       "wins": 6,
       "losses": 17,
@@ -25473,13 +25480,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=209&alg=33"
-    },
-    {
-      "name": "Jefferson City",
-      "wins": 4,
-      "losses": 15,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
     },
     {
       "name": "Osage",
