@@ -24530,6 +24530,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=221&alg=33"
     },
     {
+      "name": "St. Paul Lutheran (Concordia)",
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
+    },
+    {
       "name": "Greenwood",
       "wins": 11,
       "losses": 6,
@@ -24556,6 +24563,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
+    },
+    {
+      "name": "Eureka",
+      "wins": 13,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
     },
     {
       "name": "Fulton",
@@ -24591,13 +24605,6 @@
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
-    },
-    {
-      "name": "St. Paul Lutheran (Concordia)",
-      "wins": 10,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
     },
     {
       "name": "Marquette",
@@ -24712,13 +24719,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
     },
     {
-      "name": "Eureka",
-      "wins": 11,
-      "losses": 8,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
-    },
-    {
       "name": "Winfield",
       "wins": 12,
       "losses": 9,
@@ -24761,6 +24761,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=37&alg=33"
     },
     {
+      "name": "Pacific",
+      "wins": 11,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=408&alg=33"
+    },
+    {
       "name": "Bayless",
       "wins": 12,
       "losses": 10,
@@ -24801,13 +24808,6 @@
       "losses": 7,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=95&alg=33"
-    },
-    {
-      "name": "Pacific",
-      "wins": 10,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=408&alg=33"
     },
     {
       "name": "Lindbergh",
@@ -24871,13 +24871,6 @@
       "losses": 9,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=953&alg=33"
-    },
-    {
-      "name": "Smithton",
-      "wins": 8,
-      "losses": 8,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=444&alg=33"
     },
     {
       "name": "St. Pius X (Kansas City)",
@@ -24969,6 +24962,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=154&alg=33"
+    },
+    {
+      "name": "Smithton",
+      "wins": 8,
+      "losses": 9,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=444&alg=33"
     },
     {
       "name": "Hancock",
@@ -25146,18 +25146,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=63&alg=33"
     },
     {
-      "name": "Rockwood Summit",
-      "wins": 6,
-      "losses": 9,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=187&alg=33"
-    },
-    {
       "name": "Staley",
       "wins": 6,
       "losses": 9,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=805&alg=33"
+    },
+    {
+      "name": "Lone Jack",
+      "wins": 8,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
     },
     {
       "name": "Republic",
@@ -25186,6 +25186,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=518&alg=33"
+    },
+    {
+      "name": "Rockwood Summit",
+      "wins": 6,
+      "losses": 10,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=187&alg=33"
     },
     {
       "name": "Lutheran North",
@@ -25228,13 +25235,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
-    },
-    {
-      "name": "Lone Jack",
-      "wins": 7,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
     },
     {
       "name": "Kearney",
@@ -25517,13 +25517,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=52&alg=33"
     },
     {
-      "name": "Gateway with Soldan International Studies",
-      "wins": 3,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=25&alg=33"
-    },
-    {
       "name": "Ewing Marion Kauffman with University Academy Charter",
       "wins": 2,
       "losses": 8,
@@ -25531,9 +25524,16 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1206&alg=33"
     },
     {
+      "name": "Gateway with Soldan International Studies",
+      "wins": 3,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=25&alg=33"
+    },
+    {
       "name": "La Monte",
       "wins": 2,
-      "losses": 10,
+      "losses": 11,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=334&alg=33"
     },
