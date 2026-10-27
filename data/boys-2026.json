@@ -25048,6 +25048,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
     },
     {
+      "name": "Webster Groves",
+      "wins": 9,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
+    },
+    {
       "name": "Crocker",
       "wins": 8,
       "losses": 10,
@@ -25102,13 +25109,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=481&alg=33"
-    },
-    {
-      "name": "Webster Groves",
-      "wins": 8,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
     },
     {
       "name": "Raymore-Peculiar",
