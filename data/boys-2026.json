@@ -24607,6 +24607,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
     },
     {
+      "name": "Warrenton",
+      "wins": 10,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=489&alg=33"
+    },
+    {
       "name": "Marquette",
       "wins": 13,
       "losses": 8,
@@ -24642,11 +24649,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
-      "name": "Timberland",
-      "wins": 12,
-      "losses": 8,
+      "name": "Saxony Lutheran with St. Vincent",
+      "wins": 9,
+      "losses": 6,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=472&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
       "name": "St. Pius X (Festus)",
@@ -24656,25 +24663,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
     },
     {
-      "name": "Saxony Lutheran with St. Vincent",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
-    },
-    {
       "name": "Laquey with Richland",
       "wins": 9,
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
-    },
-    {
-      "name": "Warrenton",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=489&alg=33"
     },
     {
       "name": "Affton",
@@ -24689,13 +24682,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
-    },
-    {
-      "name": "Lutheran South",
-      "wins": 11,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
     },
     {
       "name": "Parkview",
@@ -24733,6 +24719,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
     },
     {
+      "name": "Timberland",
+      "wins": 12,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=472&alg=33"
+    },
+    {
       "name": "Carthage",
       "wins": 12,
       "losses": 9,
@@ -24766,6 +24759,20 @@
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=785&alg=33"
+    },
+    {
+      "name": "Kirkwood",
+      "wins": 9,
+      "losses": 7,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=95&alg=33"
+    },
+    {
+      "name": "Lutheran South",
+      "wins": 11,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
     },
     {
       "name": "Pacific",
@@ -24810,13 +24817,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
-      "name": "Kirkwood",
-      "wins": 8,
-      "losses": 7,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=95&alg=33"
-    },
-    {
       "name": "Lindbergh",
       "wins": 11,
       "losses": 10,
@@ -24859,6 +24859,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
+      "name": "Hancock",
+      "wins": 9,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
+    },
+    {
       "name": "STEAM Academy",
       "wins": 9,
       "losses": 9,
@@ -24871,13 +24878,6 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=64&alg=33"
-    },
-    {
-      "name": "Union",
-      "wins": 9,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=201&alg=33"
     },
     {
       "name": "Battle with Columbia Independent",
@@ -24957,6 +24957,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
     },
     {
+      "name": "Union",
+      "wins": 9,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=201&alg=33"
+    },
+    {
       "name": "Francis Howell North",
       "wins": 9,
       "losses": 10,
@@ -24976,13 +24983,6 @@
       "losses": 9,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=444&alg=33"
-    },
-    {
-      "name": "Hancock",
-      "wins": 8,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
     },
     {
       "name": "Fredericktown",
