@@ -24194,18 +24194,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
     },
     {
-      "name": "Troy Buchanan",
-      "wins": 16,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
-    },
-    {
       "name": "North Point",
       "wins": 16,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
+    },
+    {
+      "name": "Troy Buchanan",
+      "wins": 16,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
     },
     {
       "name": "Springfield Catholic",
@@ -25307,18 +25307,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=152&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "Jefferson City",
