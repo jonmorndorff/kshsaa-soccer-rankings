@@ -24040,18 +24040,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=15&alg=33"
     },
     {
+      "name": "Nixa",
+      "wins": 20,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
+    },
+    {
       "name": "Sikeston",
       "wins": 19,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=191&alg=33"
-    },
-    {
-      "name": "Nixa",
-      "wins": 19,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
     },
     {
       "name": "SLUH",
@@ -24194,6 +24194,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
     },
     {
+      "name": "Troy Buchanan",
+      "wins": 16,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
+    },
+    {
       "name": "North Point",
       "wins": 16,
       "losses": 5,
@@ -24213,13 +24220,6 @@
       "losses": 5,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=28&alg=33"
-    },
-    {
-      "name": "Troy Buchanan",
-      "wins": 15,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
     },
     {
       "name": "Frontier School of Excellence Charter",
@@ -24467,6 +24467,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
     },
     {
+      "name": "Sullivan",
+      "wins": 15,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
+    },
+    {
       "name": "Moberly",
       "wins": 15,
       "losses": 9,
@@ -24521,13 +24528,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
-    },
-    {
-      "name": "Sullivan",
-      "wins": 14,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
       "name": "Ft. Zumwalt West",
@@ -24761,6 +24761,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=304&alg=33"
     },
     {
+      "name": "Frontier STEM",
+      "wins": 8,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=961&alg=33"
+    },
+    {
       "name": "Benton",
       "wins": 8,
       "losses": 8,
@@ -24859,13 +24866,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=201&alg=33"
     },
     {
-      "name": "Ozark",
-      "wins": 9,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=154&alg=33"
-    },
-    {
       "name": "Smithton",
       "wins": 8,
       "losses": 9,
@@ -24885,13 +24885,6 @@
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=73&alg=33"
-    },
-    {
-      "name": "Frontier STEM",
-      "wins": 7,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=961&alg=33"
     },
     {
       "name": "Raytown",
@@ -24941,6 +24934,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=75&alg=33"
+    },
+    {
+      "name": "Ozark",
+      "wins": 9,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=154&alg=33"
     },
     {
       "name": "Paseo Academy",
@@ -25055,13 +25055,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=805&alg=33"
     },
     {
-      "name": "Lone Jack",
-      "wins": 8,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
-    },
-    {
       "name": "Windsor (Imperial)",
       "wins": 6,
       "losses": 9,
@@ -25109,6 +25102,13 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=965&alg=33"
+    },
+    {
+      "name": "Lone Jack",
+      "wins": 8,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
     },
     {
       "name": "Wright City",
@@ -25237,13 +25237,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=306&alg=33"
     },
     {
-      "name": "Festus",
-      "wins": 5,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=60&alg=33"
-    },
-    {
       "name": "Lee's Summit North",
       "wins": 5,
       "losses": 12,
@@ -25263,6 +25256,13 @@
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=184&alg=33"
+    },
+    {
+      "name": "Festus",
+      "wins": 5,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=60&alg=33"
     },
     {
       "name": "Fox",
@@ -25298,13 +25298,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=254&alg=33"
-    },
-    {
-      "name": "Holt",
-      "wins": 4,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
     },
     {
       "name": "Osage",
@@ -25354,6 +25347,13 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
+    },
+    {
+      "name": "Holt",
+      "wins": 4,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
     },
     {
       "name": "Mehlville",
