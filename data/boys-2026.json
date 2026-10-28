@@ -24313,6 +24313,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=103&alg=33"
     },
     {
+      "name": "Monett",
+      "wins": 16,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=133&alg=33"
+    },
+    {
       "name": "Central (Springfield)",
       "wins": 16,
       "losses": 7,
@@ -24360,13 +24367,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=2&alg=33"
-    },
-    {
-      "name": "Monett",
-      "wins": 15,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=133&alg=33"
     },
     {
       "name": "St. Paul Lutheran (Concordia)",
@@ -24586,13 +24586,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
     },
     {
-      "name": "Parkview",
-      "wins": 11,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=159&alg=33"
-    },
-    {
       "name": "Joplin",
       "wins": 11,
       "losses": 8,
@@ -24675,6 +24668,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=408&alg=33"
+    },
+    {
+      "name": "Parkview",
+      "wins": 11,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=159&alg=33"
     },
     {
       "name": "Ft. Zumwalt South",
@@ -25342,18 +25342,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=90&alg=33"
     },
     {
-      "name": "McCluer North",
-      "wins": 4,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
-    },
-    {
       "name": "Holt",
       "wins": 4,
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
+    },
+    {
+      "name": "McCluer North",
+      "wins": 4,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
     },
     {
       "name": "Mehlville",
