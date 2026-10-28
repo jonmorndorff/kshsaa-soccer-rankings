@@ -24509,18 +24509,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=221&alg=33"
     },
     {
-      "name": "Marquette",
-      "wins": 13,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
-    },
-    {
       "name": "Affton",
       "wins": 10,
       "losses": 6,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=4&alg=33"
+    },
+    {
+      "name": "Marquette",
+      "wins": 13,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
     },
     {
       "name": "Lee's Summit West",
@@ -24778,7 +24778,7 @@
       "name": "Vianney",
       "wins": 8,
       "losses": 8,
-      "ties": 3,
+      "ties": 4,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=560&alg=33"
     },
     {
@@ -25174,18 +25174,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=574&alg=33"
     },
     {
-      "name": "Westminster Christian Academy",
-      "wins": 6,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
-    },
-    {
       "name": "Parkway Central",
       "wins": 6,
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
+    },
+    {
+      "name": "Westminster Christian Academy",
+      "wins": 6,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
     },
     {
       "name": "St. Michael the Archangel",
@@ -25307,18 +25307,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=152&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "Jefferson City",
@@ -25342,18 +25342,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=90&alg=33"
     },
     {
-      "name": "McCluer North",
-      "wins": 4,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
-    },
-    {
       "name": "Holt",
       "wins": 4,
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
+    },
+    {
+      "name": "McCluer North",
+      "wins": 4,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
     },
     {
       "name": "Mehlville",
