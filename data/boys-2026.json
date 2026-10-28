@@ -24075,18 +24075,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
     },
     {
-      "name": "Kirksville",
-      "wins": 15,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
-    },
-    {
       "name": "Excelsior Springs",
       "wins": 15,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
+    },
+    {
+      "name": "Kirksville",
+      "wins": 15,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
     },
     {
       "name": "Liberty North",
