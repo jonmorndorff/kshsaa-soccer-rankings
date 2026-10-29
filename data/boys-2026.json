@@ -24027,7 +24027,7 @@
     },
     {
       "name": "Maplewood-Richmond Hts.",
-      "wins": 16,
+      "wins": 17,
       "losses": 2,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=106&alg=33"
@@ -24075,6 +24075,20 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
     },
     {
+      "name": "Father Tolton",
+      "wins": 20,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
+    },
+    {
+      "name": "John Burroughs",
+      "wins": 15,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
+    },
+    {
       "name": "Kirksville",
       "wins": 15,
       "losses": 3,
@@ -24096,25 +24110,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
     },
     {
-      "name": "Father Tolton",
-      "wins": 19,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
-    },
-    {
       "name": "Stover",
       "wins": 14,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=465&alg=33"
-    },
-    {
-      "name": "John Burroughs",
-      "wins": 14,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
       "name": "Belton",
@@ -24194,18 +24194,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
     },
     {
-      "name": "North Point",
-      "wins": 16,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
-    },
-    {
       "name": "Troy Buchanan",
       "wins": 16,
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
+    },
+    {
+      "name": "North Point",
+      "wins": 16,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
     },
     {
       "name": "Springfield Catholic",
@@ -24432,13 +24432,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
-      "name": "Clayton",
-      "wins": 11,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
-    },
-    {
       "name": "Warrenton",
       "wins": 11,
       "losses": 6,
@@ -24514,6 +24507,13 @@
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
+    },
+    {
+      "name": "Clayton",
+      "wins": 11,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
     },
     {
       "name": "Jackson",
@@ -25335,13 +25335,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
-      "name": "Jefferson City",
-      "wins": 5,
-      "losses": 15,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
-    },
-    {
       "name": "Hillsboro",
       "wins": 6,
       "losses": 17,
@@ -25349,11 +25342,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
     },
     {
-      "name": "McCluer North",
-      "wins": 4,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
+      "name": "Jefferson City",
+      "wins": 5,
+      "losses": 16,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
     },
     {
       "name": "Holt",
@@ -25361,6 +25354,13 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
+    },
+    {
+      "name": "McCluer North",
+      "wins": 4,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
     },
     {
       "name": "Ruskin",
