@@ -24215,6 +24215,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=571&alg=33"
     },
     {
+      "name": "Fair Grove",
+      "wins": 16,
+      "losses": 5,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
+    },
+    {
       "name": "Glendale",
       "wins": 16,
       "losses": 5,
@@ -24241,13 +24248,6 @@
       "losses": 5,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=85&alg=33"
-    },
-    {
-      "name": "Fair Grove",
-      "wins": 15,
-      "losses": 5,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
     },
     {
       "name": "St. Dominic",
@@ -24297,13 +24297,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=103&alg=33"
-    },
-    {
-      "name": "Center",
-      "wins": 12,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=43&alg=33"
     },
     {
       "name": "Southern Boone",
@@ -24381,6 +24374,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
+    },
+    {
+      "name": "Center",
+      "wins": 12,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=43&alg=33"
     },
     {
       "name": "University City",
@@ -25181,13 +25181,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=306&alg=33"
     },
     {
-      "name": "New Heights Christian with McAuley Catholic",
-      "wins": 6,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=574&alg=33"
-    },
-    {
       "name": "Central (St. Joseph)",
       "wins": 6,
       "losses": 11,
@@ -25207,6 +25200,13 @@
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=107&alg=33"
+    },
+    {
+      "name": "New Heights Christian with McAuley Catholic",
+      "wins": 6,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=574&alg=33"
     },
     {
       "name": "Parkway Central",
