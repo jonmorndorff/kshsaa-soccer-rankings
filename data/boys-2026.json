@@ -25349,18 +25349,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
     },
     {
-      "name": "Holt",
-      "wins": 4,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
-    },
-    {
       "name": "McCluer North",
       "wins": 4,
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
+    },
+    {
+      "name": "Holt",
+      "wins": 4,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
     },
     {
       "name": "Ruskin",
