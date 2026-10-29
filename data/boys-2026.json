@@ -24054,6 +24054,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=191&alg=33"
     },
     {
+      "name": "Oakville",
+      "wins": 18,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
+    },
+    {
       "name": "SLUH",
       "wins": 16,
       "losses": 1,
@@ -24066,13 +24073,6 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
-    },
-    {
-      "name": "Oakville",
-      "wins": 17,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
     },
     {
       "name": "Father Tolton",
@@ -24089,18 +24089,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
-      "name": "Excelsior Springs",
-      "wins": 15,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
-    },
-    {
       "name": "Kirksville",
       "wins": 15,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
+    },
+    {
+      "name": "Excelsior Springs",
+      "wins": 15,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
     },
     {
       "name": "Liberty North",
@@ -24285,6 +24285,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=416&alg=33"
     },
     {
+      "name": "Lafayette (Wildwood)",
+      "wins": 15,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=103&alg=33"
+    },
+    {
       "name": "Center",
       "wins": 12,
       "losses": 5,
@@ -24297,13 +24304,6 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
-    },
-    {
-      "name": "Lafayette (Wildwood)",
-      "wins": 14,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=103&alg=33"
     },
     {
       "name": "Southern Boone",
@@ -25083,13 +25083,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
     },
     {
-      "name": "Liberty (Wentzville)",
-      "wins": 5,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=965&alg=33"
-    },
-    {
       "name": "Staley",
       "wins": 6,
       "losses": 10,
@@ -25172,6 +25165,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=529&alg=33"
+    },
+    {
+      "name": "Liberty (Wentzville)",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=965&alg=33"
     },
     {
       "name": "Green Ridge with Cole Camp",
@@ -25321,18 +25321,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=152&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "Hillsboro",
@@ -25349,18 +25349,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
     },
     {
-      "name": "Holt",
-      "wins": 4,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
-    },
-    {
       "name": "McCluer North",
       "wins": 4,
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=116&alg=33"
+    },
+    {
+      "name": "Holt",
+      "wins": 4,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
     },
     {
       "name": "Ruskin",
@@ -25405,18 +25405,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=225&alg=33"
     },
     {
-      "name": "Ft. Zumwalt East",
-      "wins": 4,
-      "losses": 16,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=775&alg=33"
-    },
-    {
       "name": "Kennett",
       "wins": 3,
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=580&alg=33"
+    },
+    {
+      "name": "Ft. Zumwalt East",
+      "wins": 4,
+      "losses": 17,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=775&alg=33"
     },
     {
       "name": "Elsberry with Silex",
