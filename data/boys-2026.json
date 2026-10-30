@@ -24457,13 +24457,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
     },
     {
-      "name": "Stover",
-      "wins": 14,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=465&alg=33"
-    },
-    {
       "name": "Belton",
       "wins": 14,
       "losses": 3,
@@ -24525,6 +24518,13 @@
       "losses": 3,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=514&alg=33"
+    },
+    {
+      "name": "Stover",
+      "wins": 14,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=465&alg=33"
     },
     {
       "name": "Veritas Christian Academy",
@@ -25402,6 +25402,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=63&alg=33"
     },
     {
+      "name": "Lone Jack",
+      "wins": 9,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
+    },
+    {
       "name": "Park Hill",
       "wins": 8,
       "losses": 12,
@@ -25435,13 +25442,6 @@
       "losses": 10,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=805&alg=33"
-    },
-    {
-      "name": "Lone Jack",
-      "wins": 8,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
     },
     {
       "name": "Rolla",
