@@ -24989,13 +24989,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
     },
     {
-      "name": "Laquey with Richland",
-      "wins": 9,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
-    },
-    {
       "name": "Fulton",
       "wins": 9,
       "losses": 6,
@@ -25085,6 +25078,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
+    },
+    {
+      "name": "Laquey with Richland",
+      "wins": 9,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=581&alg=33"
     },
     {
       "name": "Camdenton",
