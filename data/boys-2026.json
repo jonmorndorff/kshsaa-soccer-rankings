@@ -25192,6 +25192,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
+      "name": "West Plains",
+      "wins": 10,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
+    },
+    {
       "name": "Fredericktown",
       "wins": 9,
       "losses": 10,
@@ -25241,13 +25248,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=445&alg=33"
     },
     {
-      "name": "West Plains",
-      "wins": 9,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
-    },
-    {
       "name": "Webster Groves",
       "wins": 9,
       "losses": 11,
@@ -25288,13 +25288,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=35&alg=33"
-    },
-    {
-      "name": "Carl Junction",
-      "wins": 8,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=34&alg=33"
     },
     {
       "name": "Harrisonville",
@@ -25365,6 +25358,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=491&alg=33"
+    },
+    {
+      "name": "Carl Junction",
+      "wins": 8,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=34&alg=33"
     },
     {
       "name": "Raymore-Peculiar",
