@@ -24814,13 +24814,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
     },
     {
-      "name": "University City",
-      "wins": 13,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=203&alg=33"
-    },
-    {
       "name": "Perryville",
       "wins": 15,
       "losses": 7,
@@ -24870,11 +24863,25 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
     },
     {
+      "name": "Parkway West",
+      "wins": 14,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
+    },
+    {
       "name": "Park Hill South",
       "wins": 12,
       "losses": 6,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=158&alg=33"
+    },
+    {
+      "name": "University City",
+      "wins": 13,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=203&alg=33"
     },
     {
       "name": "Summit Christian Academy",
@@ -24891,13 +24898,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=567&alg=33"
     },
     {
-      "name": "Parkway West",
-      "wins": 13,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
-    },
-    {
       "name": "McDonald County",
       "wins": 9,
       "losses": 5,
@@ -24910,6 +24910,13 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=43&alg=33"
+    },
+    {
+      "name": "Clayton",
+      "wins": 12,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
     },
     {
       "name": "Lee's Summit West",
@@ -24947,18 +24954,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=221&alg=33"
     },
     {
+      "name": "Moberly",
+      "wins": 16,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
+    },
+    {
       "name": "Eureka",
       "wins": 13,
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
-    },
-    {
-      "name": "Clayton",
-      "wins": 11,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
     },
     {
       "name": "Warrenton",
@@ -24980,13 +24987,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
-    },
-    {
-      "name": "Moberly",
-      "wins": 15,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
     },
     {
       "name": "Oak Grove",
@@ -25213,13 +25213,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=147&alg=33"
     },
     {
-      "name": "Clinton",
-      "wins": 10,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=64&alg=33"
-    },
-    {
       "name": "St. Pius X (Kansas City)",
       "wins": 9,
       "losses": 9,
@@ -25297,6 +25290,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
+      "name": "Clinton",
+      "wins": 10,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=64&alg=33"
+    },
+    {
       "name": "West Plains",
       "wins": 10,
       "losses": 11,
@@ -25358,6 +25358,13 @@
       "losses": 8,
       "ties": 2,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=517&alg=33"
+    },
+    {
+      "name": "Cassville",
+      "wins": 9,
+      "losses": 11,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=40&alg=33"
     },
     {
       "name": "Smithville",
@@ -25442,13 +25449,6 @@
       "losses": 11,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=444&alg=33"
-    },
-    {
-      "name": "Cassville",
-      "wins": 8,
-      "losses": 11,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=40&alg=33"
     },
     {
       "name": "Paseo Academy",
@@ -25738,13 +25738,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=169&alg=33"
     },
     {
-      "name": "Parkway North",
-      "wins": 6,
-      "losses": 15,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=161&alg=33"
-    },
-    {
       "name": "Kickapoo",
       "wins": 7,
       "losses": 18,
@@ -25757,6 +25750,13 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=70&alg=33"
+    },
+    {
+      "name": "Parkway North",
+      "wins": 6,
+      "losses": 16,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=161&alg=33"
     },
     {
       "name": "Canton",
@@ -25992,7 +25992,7 @@
     {
       "name": "Mexico",
       "wins": 2,
-      "losses": 20,
+      "losses": 21,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=128&alg=33"
     },
