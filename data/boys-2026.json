@@ -24535,7 +24535,7 @@
     },
     {
       "name": "Excelsior Springs",
-      "wins": 16,
+      "wins": 17,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
@@ -24667,6 +24667,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1605&alg=33"
     },
     {
+      "name": "Glendale",
+      "wins": 17,
+      "losses": 5,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=28&alg=33"
+    },
+    {
       "name": "Springfield Catholic",
       "wins": 19,
       "losses": 6,
@@ -24679,13 +24686,6 @@
       "losses": 5,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
-    },
-    {
-      "name": "Glendale",
-      "wins": 16,
-      "losses": 5,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=28&alg=33"
     },
     {
       "name": "Liberty",
@@ -25766,18 +25766,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=70&alg=33"
     },
     {
-      "name": "Waynesville",
-      "wins": 5,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=224&alg=33"
-    },
-    {
       "name": "Canton",
       "wins": 4,
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=254&alg=33"
+    },
+    {
+      "name": "Waynesville",
+      "wins": 5,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=224&alg=33"
     },
     {
       "name": "Truman",
@@ -25829,18 +25829,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=192&alg=33"
     },
     {
-      "name": "Maryville",
-      "wins": 3,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=111&alg=33"
-    },
-    {
       "name": "Holt",
       "wins": 4,
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=320&alg=33"
+    },
+    {
+      "name": "Maryville",
+      "wins": 3,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=111&alg=33"
     },
     {
       "name": "Winnetonka",
