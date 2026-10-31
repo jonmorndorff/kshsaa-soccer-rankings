@@ -25220,6 +25220,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
     },
     {
+      "name": "Ozark",
+      "wins": 11,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=154&alg=33"
+    },
+    {
       "name": "Joplin",
       "wins": 11,
       "losses": 11,
@@ -25288,13 +25295,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=64&alg=33"
-    },
-    {
-      "name": "Ozark",
-      "wins": 10,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=154&alg=33"
     },
     {
       "name": "Vianney",
@@ -25507,13 +25507,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
     },
     {
-      "name": "Republic",
-      "wins": 10,
-      "losses": 15,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=423&alg=33"
-    },
-    {
       "name": "Whitfield",
       "wins": 8,
       "losses": 12,
@@ -25554,6 +25547,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
+    },
+    {
+      "name": "Republic",
+      "wins": 10,
+      "losses": 16,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=423&alg=33"
     },
     {
       "name": "Staley",
