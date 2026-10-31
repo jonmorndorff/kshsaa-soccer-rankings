@@ -24793,13 +24793,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
     },
     {
-      "name": "Boonville",
-      "wins": 11,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
-    },
-    {
       "name": "Lincoln College Prep",
       "wins": 11,
       "losses": 5,
@@ -24819,6 +24812,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
+    },
+    {
+      "name": "Farmington",
+      "wins": 13,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
       "name": "Perryville",
@@ -24847,13 +24847,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=165&alg=33"
-    },
-    {
-      "name": "Farmington",
-      "wins": 12,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
       "name": "Collegiate School of Med-Bio Science with McKinley Classical Leadership",
@@ -24896,6 +24889,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=567&alg=33"
+    },
+    {
+      "name": "Boonville",
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
     },
     {
       "name": "McDonald County",
@@ -24961,13 +24961,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
     },
     {
-      "name": "Eureka",
-      "wins": 13,
-      "losses": 8,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
-    },
-    {
       "name": "Warrenton",
       "wins": 11,
       "losses": 7,
@@ -25024,11 +25017,25 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
     },
     {
+      "name": "Eureka",
+      "wins": 13,
+      "losses": 9,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
+    },
+    {
       "name": "Affton",
       "wins": 10,
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=4&alg=33"
+    },
+    {
+      "name": "Principia",
+      "wins": 11,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
     },
     {
       "name": "Parkview",
@@ -25085,13 +25092,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=26&alg=33"
-    },
-    {
-      "name": "Principia",
-      "wins": 10,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
     },
     {
       "name": "Lutheran South",
@@ -25192,6 +25192,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=953&alg=33"
     },
     {
+      "name": "Christian Fellowship Sr. with Hallsville",
+      "wins": 12,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1099&alg=33"
+    },
+    {
       "name": "Brentwood",
       "wins": 11,
       "losses": 11,
@@ -25255,13 +25262,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=37&alg=33"
     },
     {
-      "name": "Christian Fellowship Sr. with Hallsville",
-      "wins": 11,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1099&alg=33"
-    },
-    {
       "name": "Capital City",
       "wins": 11,
       "losses": 12,
@@ -25318,13 +25318,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
-      "name": "STEAM Academy",
-      "wins": 9,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1532&alg=33"
-    },
-    {
       "name": "DeSoto",
       "wins": 9,
       "losses": 10,
@@ -25379,6 +25372,13 @@
       "losses": 11,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=445&alg=33"
+    },
+    {
+      "name": "STEAM Academy",
+      "wins": 9,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1532&alg=33"
     },
     {
       "name": "Webster Groves",
