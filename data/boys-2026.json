@@ -24493,7 +24493,7 @@
     },
     {
       "name": "Blue Springs South",
-      "wins": 16,
+      "wins": 17,
       "losses": 2,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=15&alg=33"
@@ -24569,6 +24569,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
     },
     {
+      "name": "Chaminade College Prep",
+      "wins": 20,
+      "losses": 3,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
+    },
+    {
       "name": "Belton",
       "wins": 14,
       "losses": 3,
@@ -24595,13 +24602,6 @@
       "losses": 2,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=125&alg=33"
-    },
-    {
-      "name": "Chaminade College Prep",
-      "wins": 19,
-      "losses": 3,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
     },
     {
       "name": "Van Horn",
@@ -24800,6 +24800,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
     },
     {
+      "name": "Lee's Summit",
+      "wins": 11,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
+    },
+    {
       "name": "St. Paul Lutheran (Concordia)",
       "wins": 13,
       "losses": 6,
@@ -24856,13 +24863,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
-      "name": "Lee's Summit",
-      "wins": 10,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
-    },
-    {
       "name": "Collegiate School of Med-Bio Science with McKinley Classical Leadership",
       "wins": 14,
       "losses": 7,
@@ -24910,6 +24910,13 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=43&alg=33"
+    },
+    {
+      "name": "Lee's Summit West",
+      "wins": 12,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
     },
     {
       "name": "Marquette",
@@ -24966,13 +24973,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
-    },
-    {
-      "name": "Lee's Summit West",
-      "wins": 11,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
     },
     {
       "name": "Sullivan",
@@ -25143,6 +25143,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=10&alg=33"
     },
     {
+      "name": "Branson",
+      "wins": 14,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=399&alg=33"
+    },
+    {
       "name": "Saxony Lutheran with St. Vincent",
       "wins": 9,
       "losses": 8,
@@ -25171,25 +25178,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=953&alg=33"
     },
     {
-      "name": "Joplin",
-      "wins": 11,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
-    },
-    {
       "name": "Lutheran St. Charles",
       "wins": 12,
       "losses": 11,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=528&alg=33"
-    },
-    {
-      "name": "Branson",
-      "wins": 13,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=399&alg=33"
     },
     {
       "name": "Brentwood",
@@ -25204,6 +25197,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
+    },
+    {
+      "name": "Joplin",
+      "wins": 11,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
     },
     {
       "name": "Oak Park",
@@ -25339,13 +25339,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=201&alg=33"
     },
     {
-      "name": "Neosho",
-      "wins": 9,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=375&alg=33"
-    },
-    {
       "name": "Grain Valley",
       "wins": 9,
       "losses": 10,
@@ -25386,6 +25379,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=75&alg=33"
+    },
+    {
+      "name": "Neosho",
+      "wins": 9,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=375&alg=33"
     },
     {
       "name": "DeSoto",
@@ -25591,11 +25591,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=151&alg=33"
     },
     {
-      "name": "Westminster Christian Academy",
+      "name": "Parkway Central",
       "wins": 7,
       "losses": 12,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
     },
     {
       "name": "Lutheran (Kansas City)",
@@ -25654,6 +25654,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=285&alg=33"
     },
     {
+      "name": "Westminster Christian Academy",
+      "wins": 7,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
+    },
+    {
       "name": "Lee's Summit North",
       "wins": 6,
       "losses": 12,
@@ -25687,13 +25694,6 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=574&alg=33"
-    },
-    {
-      "name": "Parkway Central",
-      "wins": 6,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
     },
     {
       "name": "Cardinal Ritter",
@@ -25780,13 +25780,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=224&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "North Kansas City",
       "wins": 5,
       "losses": 14,
@@ -25806,6 +25799,13 @@
       "losses": 16,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "William Chrisman",
@@ -25885,18 +25885,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=52&alg=33"
     },
     {
-      "name": "Gateway with Soldan International Studies",
-      "wins": 3,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=25&alg=33"
-    },
-    {
       "name": "North County",
       "wins": 3,
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=140&alg=33"
+    },
+    {
+      "name": "Gateway with Soldan International Studies",
+      "wins": 3,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=25&alg=33"
     },
     {
       "name": "Hillcrest",
@@ -25920,13 +25920,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1206&alg=33"
     },
     {
-      "name": "Webb City",
-      "wins": 3,
-      "losses": 16,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=227&alg=33"
-    },
-    {
       "name": "Warrensburg",
       "wins": 2,
       "losses": 13,
@@ -25946,6 +25939,13 @@
       "losses": 17,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=325&alg=33"
+    },
+    {
+      "name": "Webb City",
+      "wins": 3,
+      "losses": 17,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=227&alg=33"
     },
     {
       "name": "La Monte",
