@@ -24486,7 +24486,7 @@
     },
     {
       "name": "Maplewood-Richmond Hts.",
-      "wins": 17,
+      "wins": 18,
       "losses": 2,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=106&alg=33"
@@ -24744,6 +24744,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
     },
     {
+      "name": "Central (Springfield)",
+      "wins": 18,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=232&alg=33"
+    },
+    {
       "name": "Pleasant Hill",
       "wins": 11,
       "losses": 4,
@@ -24756,13 +24763,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=103&alg=33"
-    },
-    {
-      "name": "Central (Springfield)",
-      "wins": 17,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=232&alg=33"
     },
     {
       "name": "Faith Christian Academy",
@@ -25479,13 +25479,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=176&alg=33"
     },
     {
-      "name": "Republic",
-      "wins": 10,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=423&alg=33"
-    },
-    {
       "name": "Harrisonville",
       "wins": 7,
       "losses": 10,
@@ -25519,6 +25512,13 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=348&alg=33"
+    },
+    {
+      "name": "Republic",
+      "wins": 10,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=423&alg=33"
     },
     {
       "name": "Whitfield",
