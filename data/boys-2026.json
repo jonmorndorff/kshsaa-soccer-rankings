@@ -9312,7 +9312,7 @@
       },
       {
         "date": "2026-09-10",
-        "opponent": "Lee’s Summit North HS, Lee's Summit",
+        "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
         "location": "H",
         "result": "W",
         "score": "7-0",
@@ -10140,7 +10140,7 @@
       },
       {
         "date": "2026-09-12",
-        "opponent": "Lee’s Summit North HS, Lee's Summit",
+        "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
         "location": "N",
         "result": "W",
         "score": "8-0",
@@ -10684,7 +10684,7 @@
       },
       {
         "date": "2026-09-01",
-        "opponent": "Lee’s Summit North HS, Lee's Summit",
+        "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
         "location": "H",
         "result": "W",
         "score": "2-1",
@@ -11398,7 +11398,7 @@
       },
       {
         "date": "2026-09-05",
-        "opponent": "Lee’s Summit North HS, Lee's Summit",
+        "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
         "location": "N",
         "result": "W",
         "score": "3-1",
@@ -11512,7 +11512,7 @@
       },
       {
         "date": "2026-09-03",
-        "opponent": "Lee’s Summit North HS, Lee's Summit",
+        "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
         "location": "V",
         "result": "W",
         "score": "3-0",
@@ -13712,7 +13712,7 @@
       },
       {
         "date": "2026-09-07",
-        "opponent": "Lee’s Summit North HS, Lee's Summit",
+        "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
         "location": "V",
         "result": "W",
         "score": "7-1",
@@ -23132,7 +23132,7 @@
     {
       "team": "748",
       "date": "2026-09-01",
-      "opponent": "Lee’s Summit North HS, Lee's Summit",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
       "opponentKey": "leessummitnorthhsleessummit",
       "gf": 2,
       "ga": 1,
@@ -23150,7 +23150,7 @@
     {
       "team": "1222",
       "date": "2026-09-03",
-      "opponent": "Lee’s Summit North HS, Lee's Summit",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
       "opponentKey": "leessummitnorthhsleessummit",
       "gf": 3,
       "ga": 0,
@@ -23195,7 +23195,7 @@
     {
       "team": "650",
       "date": "2026-09-05",
-      "opponent": "Lee’s Summit North HS, Lee's Summit",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
       "opponentKey": "leessummitnorthhsleessummit",
       "gf": 3,
       "ga": 1,
@@ -23213,7 +23213,7 @@
     {
       "team": "1823",
       "date": "2026-09-07",
-      "opponent": "Lee’s Summit North HS, Lee's Summit",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
       "opponentKey": "leessummitnorthhsleessummit",
       "gf": 7,
       "ga": 1,
@@ -23321,7 +23321,7 @@
     {
       "team": "1240",
       "date": "2026-09-10",
-      "opponent": "Lee’s Summit North HS, Lee's Summit",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
       "opponentKey": "leessummitnorthhsleessummit",
       "gf": 7,
       "ga": 0,
@@ -23411,7 +23411,7 @@
     {
       "team": "679",
       "date": "2026-09-12",
-      "opponent": "Lee’s Summit North HS, Lee's Summit",
+      "opponent": "Lee\u2019s Summit North HS, Lee's Summit",
       "opponentKey": "leessummitnorthhsleessummit",
       "gf": 8,
       "ga": 0,
