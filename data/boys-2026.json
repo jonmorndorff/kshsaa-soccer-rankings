@@ -24807,6 +24807,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
     },
     {
+      "name": "University City",
+      "wins": 13,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=203&alg=33"
+    },
+    {
       "name": "Perryville",
       "wins": 15,
       "losses": 7,
@@ -24840,13 +24847,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=165&alg=33"
-    },
-    {
-      "name": "University City",
-      "wins": 12,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=203&alg=33"
     },
     {
       "name": "Lee's Summit",
