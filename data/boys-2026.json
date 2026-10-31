@@ -24765,6 +24765,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=416&alg=33"
     },
     {
+      "name": "Monett",
+      "wins": 17,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=133&alg=33"
+    },
+    {
       "name": "Faith Christian Academy",
       "wins": 12,
       "losses": 5,
@@ -24779,11 +24786,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=2&alg=33"
     },
     {
-      "name": "Monett",
+      "name": "Priory",
       "wins": 16,
       "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=133&alg=33"
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
     },
     {
       "name": "Boonville",
@@ -24821,25 +24828,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
     },
     {
+      "name": "MICDS",
+      "wins": 15,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
+    },
+    {
       "name": "Northwest (Cedar Hill)",
       "wins": 17,
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=144&alg=33"
-    },
-    {
-      "name": "Priory",
-      "wins": 15,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
-    },
-    {
-      "name": "MICDS",
-      "wins": 14,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
     },
     {
       "name": "Pattonville",
@@ -25696,13 +25696,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=574&alg=33"
     },
     {
-      "name": "Cardinal Ritter",
-      "wins": 2,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=511&alg=33"
-    },
-    {
       "name": "Grandview",
       "wins": 6,
       "losses": 13,
@@ -25736,6 +25729,13 @@
       "losses": 13,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=122&alg=33"
+    },
+    {
+      "name": "Cardinal Ritter",
+      "wins": 2,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=511&alg=33"
     },
     {
       "name": "Fox",
@@ -26034,14 +26034,14 @@
     {
       "name": "Jennings",
       "wins": 0,
-      "losses": 15,
+      "losses": 16,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=86&alg=33"
     },
     {
       "name": "Aurora",
       "wins": 0,
-      "losses": 21,
+      "losses": 22,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=30&alg=33"
     }
