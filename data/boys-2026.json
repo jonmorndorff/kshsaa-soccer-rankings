@@ -25934,13 +25934,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
     },
     {
-      "name": "Iberia",
-      "wins": 3,
-      "losses": 17,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=325&alg=33"
-    },
-    {
       "name": "Webb City",
       "wins": 3,
       "losses": 17,
@@ -25953,6 +25946,13 @@
       "losses": 14,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=334&alg=33"
+    },
+    {
+      "name": "Iberia",
+      "wins": 3,
+      "losses": 18,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=325&alg=33"
     },
     {
       "name": "Calvary Lutheran",
