@@ -24905,6 +24905,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
     },
     {
+      "name": "Bolivar",
+      "wins": 14,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=221&alg=33"
+    },
+    {
       "name": "Center",
       "wins": 12,
       "losses": 7,
@@ -24945,13 +24952,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=403&alg=33"
-    },
-    {
-      "name": "Bolivar",
-      "wins": 13,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=221&alg=33"
     },
     {
       "name": "Moberly",
@@ -25717,18 +25717,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=149&alg=33"
     },
     {
-      "name": "Osage",
-      "wins": 6,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=152&alg=33"
-    },
-    {
       "name": "Mehlville",
       "wins": 5,
       "losses": 13,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=122&alg=33"
+    },
+    {
+      "name": "Osage",
+      "wins": 6,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=152&alg=33"
     },
     {
       "name": "Cardinal Ritter",
