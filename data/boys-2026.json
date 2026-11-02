@@ -152,8 +152,8 @@
       "wins": 9,
       "losses": 8,
       "ties": 1,
-      "goalsFor": 32,
-      "goalsAgainst": 37,
+      "goalsFor": 34,
+      "goalsAgainst": 39,
       "region": "East"
     },
     {
@@ -174,8 +174,8 @@
       "wins": 16,
       "losses": 1,
       "ties": 1,
-      "goalsFor": 61,
-      "goalsAgainst": 14,
+      "goalsFor": 63,
+      "goalsAgainst": 16,
       "region": "East"
     },
     {
@@ -7687,14 +7687,7 @@
         "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=533"
       }
     ],
-    "1221": [
-      {
-        "date": "2026-11-02",
-        "opponent": "Blue Valley Northwest HS",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1221"
-      }
-    ],
+    "1221": [],
     "793": [
       {
         "date": "2026-11-02",
@@ -7748,14 +7741,7 @@
     "762": [],
     "748": [],
     "790": [],
-    "1185": [
-      {
-        "date": "2026-11-02",
-        "opponent": "Blue Valley West HS",
-        "location": "N",
-        "source": "https://www.kshsaa.org/Public/Soccer/BoysSchedulesByTeam.cfm?Class=6A&SchoolSelect=1185"
-      }
-    ],
+    "1185": [],
     "788": [],
     "614": [],
     "650": [],
@@ -24775,6 +24761,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1660&alg=33"
     },
     {
+      "name": "Perryville",
+      "wins": 16,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
+    },
+    {
       "name": "Southern Boone",
       "wins": 16,
       "losses": 7,
@@ -24815,13 +24808,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
-    },
-    {
-      "name": "Perryville",
-      "wins": 15,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
     },
     {
       "name": "MICDS",
@@ -25475,13 +25461,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=273&alg=33"
     },
     {
-      "name": "Windsor (Imperial)",
-      "wins": 7,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=499&alg=33"
-    },
-    {
       "name": "Platte County",
       "wins": 7,
       "losses": 10,
@@ -25536,6 +25515,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=529&alg=33"
+    },
+    {
+      "name": "Windsor (Imperial)",
+      "wins": 7,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=499&alg=33"
     },
     {
       "name": "St. Michael the Archangel",
