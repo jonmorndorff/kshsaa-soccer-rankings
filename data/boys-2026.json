@@ -24891,6 +24891,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=489&alg=33"
     },
     {
+      "name": "Jackson",
+      "wins": 12,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
+    },
+    {
       "name": "Lee's Summit West",
       "wins": 12,
       "losses": 7,
@@ -24938,13 +24945,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
-    },
-    {
-      "name": "Jackson",
-      "wins": 11,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
     },
     {
       "name": "Affton",
@@ -25642,7 +25642,7 @@
     {
       "name": "Seckman",
       "wins": 7,
-      "losses": 14,
+      "losses": 15,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=184&alg=33"
     },
