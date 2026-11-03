@@ -24723,6 +24723,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=416&alg=33"
     },
     {
+      "name": "Perryville",
+      "wins": 17,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
+    },
+    {
       "name": "Faith Christian Academy",
       "wins": 12,
       "losses": 5,
@@ -24735,13 +24742,6 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
-    },
-    {
-      "name": "Perryville",
-      "wins": 16,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
     },
     {
       "name": "Southern Boone",
@@ -25052,6 +25052,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
+      "name": "Bayless",
+      "wins": 14,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=10&alg=33"
+    },
+    {
       "name": "Camdenton",
       "wins": 14,
       "losses": 11,
@@ -25071,13 +25078,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=124&alg=33"
-    },
-    {
-      "name": "Bayless",
-      "wins": 13,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=10&alg=33"
     },
     {
       "name": "Ladue Horton Watkins",
@@ -25192,6 +25192,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
     },
     {
+      "name": "Fredericktown",
+      "wins": 10,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
+    },
+    {
       "name": "Benton",
       "wins": 9,
       "losses": 9,
@@ -25211,13 +25218,6 @@
       "losses": 8,
       "ties": 2,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=517&alg=33"
-    },
-    {
-      "name": "Dexter",
-      "wins": 5,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=37&alg=33"
     },
     {
       "name": "Capital City",
@@ -25260,13 +25260,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=288&alg=33"
-    },
-    {
-      "name": "Fredericktown",
-      "wins": 9,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
       "name": "DeSoto",
@@ -25323,6 +25316,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=556&alg=33"
+    },
+    {
+      "name": "Dexter",
+      "wins": 5,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=37&alg=33"
     },
     {
       "name": "STEAM Academy",
@@ -25815,13 +25815,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=225&alg=33"
     },
     {
-      "name": "Kennett",
-      "wins": 3,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=580&alg=33"
-    },
-    {
       "name": "Winnetonka",
       "wins": 3,
       "losses": 12,
@@ -25834,6 +25827,13 @@
       "losses": 14,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=334&alg=33"
+    },
+    {
+      "name": "Kennett",
+      "wins": 3,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=580&alg=33"
     },
     {
       "name": "Ft. Zumwalt East",
@@ -25850,18 +25850,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=52&alg=33"
     },
     {
-      "name": "North County",
-      "wins": 3,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=140&alg=33"
-    },
-    {
       "name": "Gateway with Soldan International Studies",
       "wins": 3,
       "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=25&alg=33"
+    },
+    {
+      "name": "North County",
+      "wins": 3,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=140&alg=33"
     },
     {
       "name": "Hillcrest",
