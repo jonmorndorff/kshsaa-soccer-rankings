@@ -24477,6 +24477,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=15&alg=33"
     },
     {
+      "name": "John Burroughs",
+      "wins": 16,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
+    },
+    {
       "name": "Liberty North",
       "wins": 16,
       "losses": 3,
@@ -24489,13 +24496,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
-    },
-    {
-      "name": "John Burroughs",
-      "wins": 15,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
       "name": "Kirksville",
@@ -24967,13 +24967,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
     },
     {
-      "name": "Principia",
-      "wins": 11,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
-    },
-    {
       "name": "Camdenton",
       "wins": 15,
       "losses": 11,
@@ -25042,6 +25035,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
+    },
+    {
+      "name": "Principia",
+      "wins": 11,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
     },
     {
       "name": "Parkview",
