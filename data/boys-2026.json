@@ -24624,18 +24624,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
     },
     {
+      "name": "Fair Grove",
+      "wins": 17,
+      "losses": 5,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
+    },
+    {
       "name": "Glendale",
       "wins": 17,
       "losses": 5,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=28&alg=33"
-    },
-    {
-      "name": "Fair Grove",
-      "wins": 16,
-      "losses": 5,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
     },
     {
       "name": "St. Dominic",
@@ -24722,6 +24722,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
     },
     {
+      "name": "Lee's Summit",
+      "wins": 12,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
+    },
+    {
       "name": "St. Paul Lutheran (Concordia)",
       "wins": 14,
       "losses": 6,
@@ -24741,13 +24748,6 @@
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
-    },
-    {
-      "name": "Lee's Summit",
-      "wins": 11,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
     },
     {
       "name": "Farmington",
@@ -24827,13 +24827,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
     },
     {
-      "name": "Greenwood",
-      "wins": 11,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=567&alg=33"
-    },
-    {
       "name": "Boonville",
       "wins": 11,
       "losses": 6,
@@ -24883,6 +24876,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=109&alg=33"
     },
     {
+      "name": "Moberly",
+      "wins": 17,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
+    },
+    {
       "name": "Ft. Zumwalt West",
       "wins": 12,
       "losses": 7,
@@ -24911,13 +24911,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
-      "name": "Moberly",
-      "wins": 16,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
-    },
-    {
       "name": "Oak Grove",
       "wins": 13,
       "losses": 8,
@@ -24930,6 +24923,13 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
+    },
+    {
+      "name": "Greenwood",
+      "wins": 11,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=567&alg=33"
     },
     {
       "name": "Affton",
@@ -25135,13 +25135,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
     },
     {
-      "name": "Christian Fellowship Sr. with Hallsville",
-      "wins": 12,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1099&alg=33"
-    },
-    {
       "name": "Capital City",
       "wins": 12,
       "losses": 12,
@@ -25196,6 +25189,13 @@
       "losses": 8,
       "ties": 2,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=517&alg=33"
+    },
+    {
+      "name": "Christian Fellowship Sr. with Hallsville",
+      "wins": 12,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1099&alg=33"
     },
     {
       "name": "Oak Park",
@@ -25429,6 +25429,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=329&alg=33"
     },
     {
+      "name": "New Heights Christian with McAuley Catholic",
+      "wins": 8,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=574&alg=33"
+    },
+    {
       "name": "Duchesne",
       "wins": 8,
       "losses": 12,
@@ -25534,13 +25541,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=529&alg=33"
     },
     {
-      "name": "New Heights Christian with McAuley Catholic",
-      "wins": 7,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=574&alg=33"
-    },
-    {
       "name": "Parkway Central",
       "wins": 7,
       "losses": 12,
@@ -25569,13 +25569,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=573&alg=33"
     },
     {
-      "name": "New Covenant Academy",
-      "wins": 7,
-      "losses": 13,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=533&alg=33"
-    },
-    {
       "name": "Liberty (Wentzville)",
       "wins": 5,
       "losses": 9,
@@ -25597,11 +25590,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
     },
     {
-      "name": "Lee's Summit North",
-      "wins": 6,
-      "losses": 12,
+      "name": "New Covenant Academy",
+      "wins": 7,
+      "losses": 14,
       "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=115&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=533&alg=33"
     },
     {
       "name": "Central (St. Joseph)",
@@ -25609,6 +25602,13 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=13&alg=33"
+    },
+    {
+      "name": "Lee's Summit North",
+      "wins": 6,
+      "losses": 13,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=115&alg=33"
     },
     {
       "name": "Marshfield",
@@ -25828,6 +25828,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=52&alg=33"
     },
     {
+      "name": "Fatima",
+      "wins": 3,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=293&alg=33"
+    },
+    {
       "name": "Gateway with Soldan International Studies",
       "wins": 3,
       "losses": 14,
@@ -25886,7 +25893,7 @@
     {
       "name": "Iberia",
       "wins": 3,
-      "losses": 18,
+      "losses": 19,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=325&alg=33"
     },
@@ -25903,13 +25910,6 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=915&alg=33"
-    },
-    {
-      "name": "Fatima",
-      "wins": 2,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=293&alg=33"
     },
     {
       "name": "Cameron",
