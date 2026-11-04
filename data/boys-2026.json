@@ -24505,6 +24505,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
     },
     {
+      "name": "Belton",
+      "wins": 15,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=12&alg=33"
+    },
+    {
       "name": "Northeast (Kansas City)",
       "wins": 15,
       "losses": 3,
@@ -24526,6 +24533,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
     },
     {
+      "name": "Van Horn",
+      "wins": 16,
+      "losses": 3,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
+    },
+    {
       "name": "Francis Howell Central",
       "wins": 16,
       "losses": 3,
@@ -24533,25 +24547,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=72&alg=33"
     },
     {
-      "name": "Belton",
-      "wins": 14,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=12&alg=33"
-    },
-    {
       "name": "Blue Springs",
       "wins": 14,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=14&alg=33"
-    },
-    {
-      "name": "Van Horn",
-      "wins": 15,
-      "losses": 3,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
     },
     {
       "name": "St. Charles",
@@ -24792,6 +24792,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
     },
     {
+      "name": "Summit Christian Academy",
+      "wins": 14,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
+    },
+    {
       "name": "Parkway West",
       "wins": 14,
       "losses": 7,
@@ -24811,13 +24818,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=203&alg=33"
-    },
-    {
-      "name": "Summit Christian Academy",
-      "wins": 13,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
     },
     {
       "name": "Lee's Summit West",
@@ -24981,13 +24981,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=159&alg=33"
     },
     {
-      "name": "Marshall",
-      "wins": 12,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
-    },
-    {
       "name": "Timberland",
       "wins": 12,
       "losses": 9,
@@ -25056,6 +25049,13 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
+    },
+    {
+      "name": "Marshall",
+      "wins": 12,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
       "name": "Ladue Horton Watkins",
@@ -25352,13 +25352,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=234&alg=33"
     },
     {
-      "name": "Raytown",
-      "wins": 7,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=178&alg=33"
-    },
-    {
       "name": "Lone Jack",
       "wins": 10,
       "losses": 13,
@@ -25408,6 +25401,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=444&alg=33"
     },
     {
+      "name": "St. Michael the Archangel",
+      "wins": 8,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
+    },
+    {
       "name": "Thomas Jefferson Independent Day",
       "wins": 5,
       "losses": 7,
@@ -25420,6 +25420,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=273&alg=33"
+    },
+    {
+      "name": "Raytown",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=178&alg=33"
     },
     {
       "name": "Kearney",
@@ -25483,13 +25490,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=499&alg=33"
-    },
-    {
-      "name": "St. Michael the Archangel",
-      "wins": 7,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
     },
     {
       "name": "East (Kansas City)",
@@ -25634,7 +25634,7 @@
     {
       "name": "Grandview",
       "wins": 6,
-      "losses": 13,
+      "losses": 14,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=237&alg=33"
     },
@@ -25942,7 +25942,7 @@
     {
       "name": "Raytown South",
       "wins": 1,
-      "losses": 17,
+      "losses": 18,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=179&alg=33"
     },
