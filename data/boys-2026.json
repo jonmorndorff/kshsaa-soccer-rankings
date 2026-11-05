@@ -24715,6 +24715,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
     },
     {
+      "name": "Priory",
+      "wins": 17,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
+    },
+    {
       "name": "St. Paul Lutheran (Concordia)",
       "wins": 14,
       "losses": 6,
@@ -24741,20 +24748,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=916&alg=33"
-    },
-    {
-      "name": "Priory",
-      "wins": 16,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
-    },
-    {
-      "name": "MICDS",
-      "wins": 15,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
     },
     {
       "name": "Perryville",
@@ -24797,6 +24790,13 @@
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
+    },
+    {
+      "name": "MICDS",
+      "wins": 15,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
     },
     {
       "name": "University City",
