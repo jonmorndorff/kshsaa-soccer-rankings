@@ -24408,7 +24408,7 @@
     },
     {
       "name": "Helias Catholic",
-      "wins": 20,
+      "wins": 21,
       "losses": 2,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=522&alg=33"
@@ -24429,14 +24429,14 @@
     },
     {
       "name": "Nixa",
-      "wins": 21,
+      "wins": 22,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
     },
     {
       "name": "Sikeston",
-      "wins": 20,
+      "wins": 21,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=191&alg=33"
@@ -24554,18 +24554,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
     },
     {
+      "name": "Christian Brothers College",
+      "wins": 17,
+      "losses": 3,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=514&alg=33"
+    },
+    {
       "name": "St. Charles",
       "wins": 16,
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=168&alg=33"
-    },
-    {
-      "name": "Christian Brothers College",
-      "wins": 16,
-      "losses": 3,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=514&alg=33"
     },
     {
       "name": "Veritas Christian Academy",
@@ -24636,13 +24636,6 @@
       "losses": 4,
       "ties": 2,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=542&alg=33"
-    },
-    {
-      "name": "Frontier School of Excellence Charter",
-      "wins": 9,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=916&alg=33"
     },
     {
       "name": "North Point",
@@ -24750,6 +24743,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=144&alg=33"
     },
     {
+      "name": "Frontier School of Excellence Charter",
+      "wins": 9,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=916&alg=33"
+    },
+    {
       "name": "Priory",
       "wins": 16,
       "losses": 7,
@@ -24785,13 +24785,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=158&alg=33"
     },
     {
-      "name": "Collegiate School of Med-Bio Science with McKinley Classical Leadership",
-      "wins": 15,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
-    },
-    {
       "name": "Summit Christian Academy",
       "wins": 14,
       "losses": 7,
@@ -24804,13 +24797,6 @@
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
-    },
-    {
-      "name": "Bolivar",
-      "wins": 15,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=221&alg=33"
     },
     {
       "name": "University City",
@@ -24832,6 +24818,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=16&alg=33"
+    },
+    {
+      "name": "Collegiate School of Med-Bio Science with McKinley Classical Leadership",
+      "wins": 15,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
     },
     {
       "name": "Ft. Zumwalt West",
@@ -24890,6 +24883,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
     },
     {
+      "name": "Bolivar",
+      "wins": 15,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=221&alg=33"
+    },
+    {
       "name": "McDonald County",
       "wins": 10,
       "losses": 6,
@@ -24916,6 +24916,13 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=567&alg=33"
+    },
+    {
+      "name": "Pembroke Hill",
+      "wins": 10,
+      "losses": 6,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
     },
     {
       "name": "Affton",
@@ -24953,13 +24960,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=472&alg=33"
     },
     {
-      "name": "Pembroke Hill",
-      "wins": 9,
-      "losses": 6,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
-    },
-    {
       "name": "Eureka",
       "wins": 13,
       "losses": 9,
@@ -24972,6 +24972,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=26&alg=33"
+    },
+    {
+      "name": "Lutheran South",
+      "wins": 12,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
     },
     {
       "name": "Winfield",
@@ -25028,13 +25035,6 @@
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=167&alg=33"
-    },
-    {
-      "name": "Lutheran South",
-      "wins": 11,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
     },
     {
       "name": "Principia",
@@ -25128,11 +25128,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1540&alg=33"
     },
     {
-      "name": "West Plains",
+      "name": "Barstow",
       "wins": 11,
       "losses": 11,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
       "name": "Webster Groves",
@@ -25140,13 +25140,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
-    },
-    {
-      "name": "Ozark",
-      "wins": 11,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=154&alg=33"
     },
     {
       "name": "Joplin",
@@ -25191,13 +25184,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=236&alg=33"
     },
     {
-      "name": "De Smet Jesuit",
-      "wins": 8,
-      "losses": 8,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=517&alg=33"
-    },
-    {
       "name": "Christian Fellowship Sr. with Hallsville",
       "wins": 12,
       "losses": 13,
@@ -25205,18 +25191,25 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1099&alg=33"
     },
     {
+      "name": "West Plains",
+      "wins": 11,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=230&alg=33"
+    },
+    {
+      "name": "Ozark",
+      "wins": 11,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=154&alg=33"
+    },
+    {
       "name": "Oak Park",
       "wins": 11,
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=147&alg=33"
-    },
-    {
-      "name": "Barstow",
-      "wins": 10,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
       "name": "Clinton",
@@ -25245,6 +25238,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=304&alg=33"
+    },
+    {
+      "name": "De Smet Jesuit",
+      "wins": 8,
+      "losses": 9,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=517&alg=33"
     },
     {
       "name": "Chillicothe",
@@ -25464,13 +25464,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=176&alg=33"
     },
     {
-      "name": "Lutheran (Kansas City)",
-      "wins": 7,
-      "losses": 11,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=527&alg=33"
-    },
-    {
       "name": "Rockwood Summit",
       "wins": 7,
       "losses": 11,
@@ -25518,6 +25511,13 @@
       "losses": 16,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=423&alg=33"
+    },
+    {
+      "name": "Lutheran (Kansas City)",
+      "wins": 7,
+      "losses": 12,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=527&alg=33"
     },
     {
       "name": "Wright City",
@@ -25842,6 +25842,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=293&alg=33"
     },
     {
+      "name": "Cameron",
+      "wins": 3,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=252&alg=33"
+    },
+    {
       "name": "North County",
       "wins": 3,
       "losses": 15,
@@ -25861,13 +25868,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=516&alg=33"
-    },
-    {
-      "name": "Northland Christian",
-      "wins": 2,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
     },
     {
       "name": "Ewing Marion Kauffman with University Academy Charter",
@@ -25891,6 +25891,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=218&alg=33"
     },
     {
+      "name": "Northland Christian",
+      "wins": 2,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1022&alg=33"
+    },
+    {
       "name": "Iberia",
       "wins": 3,
       "losses": 19,
@@ -25910,13 +25917,6 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=915&alg=33"
-    },
-    {
-      "name": "Cameron",
-      "wins": 2,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=252&alg=33"
     },
     {
       "name": "Knob Noster",
