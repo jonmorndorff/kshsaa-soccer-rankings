@@ -24457,7 +24457,7 @@
     },
     {
       "name": "Notre Dame (Cape Girardeau)",
-      "wins": 17,
+      "wins": 18,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
@@ -24694,13 +24694,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=85&alg=33"
     },
     {
-      "name": "Perryville",
-      "wins": 17,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
-    },
-    {
       "name": "Southern Boone",
       "wins": 17,
       "losses": 7,
@@ -24762,6 +24755,13 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
+    },
+    {
+      "name": "Perryville",
+      "wins": 17,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=411&alg=33"
     },
     {
       "name": "Monett",
@@ -24904,13 +24904,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
     },
     {
-      "name": "St. Pius X (Festus)",
-      "wins": 11,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
-    },
-    {
       "name": "Greenwood",
       "wins": 11,
       "losses": 7,
@@ -24965,6 +24958,20 @@
       "losses": 9,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
+    },
+    {
+      "name": "St. Pius X (Festus)",
+      "wins": 11,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=552&alg=33"
+    },
+    {
+      "name": "Bayless",
+      "wins": 15,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=10&alg=33"
     },
     {
       "name": "Camdenton",
@@ -25023,18 +25030,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
-      "name": "Bayless",
-      "wins": 14,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=10&alg=33"
-    },
-    {
       "name": "Poplar Bluff",
       "wins": 9,
       "losses": 7,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=167&alg=33"
+    },
+    {
+      "name": "Saxony Lutheran with St. Vincent",
+      "wins": 10,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
       "name": "Principia",
@@ -25070,13 +25077,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
-    },
-    {
-      "name": "Saxony Lutheran with St. Vincent",
-      "wins": 9,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
       "name": "St. Pius X (Kansas City)",
@@ -25156,13 +25156,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
     },
     {
-      "name": "Fredericktown",
-      "wins": 10,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
-    },
-    {
       "name": "Battle with Columbia Independent",
       "wins": 10,
       "losses": 10,
@@ -25210,6 +25203,13 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=147&alg=33"
+    },
+    {
+      "name": "Fredericktown",
+      "wins": 10,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=79&alg=33"
     },
     {
       "name": "Clinton",
