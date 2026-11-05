@@ -24897,13 +24897,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
     },
     {
-      "name": "Sullivan",
-      "wins": 16,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
-    },
-    {
       "name": "Oak Grove",
       "wins": 13,
       "losses": 8,
@@ -24937,6 +24930,13 @@
       "losses": 7,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=95&alg=33"
+    },
+    {
+      "name": "Sullivan",
+      "wins": 16,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
       "name": "Orchard Farm",
@@ -25058,6 +25058,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
+      "name": "St. Mary's South Side",
+      "wins": 13,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
+    },
+    {
       "name": "Ladue Horton Watkins",
       "wins": 13,
       "losses": 11,
@@ -25112,13 +25119,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=19&alg=33"
-    },
-    {
-      "name": "St. Mary's South Side",
-      "wins": 12,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
     },
     {
       "name": "Lutheran St. Charles",
