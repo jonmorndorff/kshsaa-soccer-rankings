@@ -24477,13 +24477,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
     },
     {
-      "name": "Excelsior Springs",
-      "wins": 17,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
-    },
-    {
       "name": "Blue Springs South",
       "wins": 17,
       "losses": 3,
@@ -24554,18 +24547,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
     },
     {
+      "name": "Excelsior Springs",
+      "wins": 17,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
+    },
+    {
       "name": "Christian Brothers College",
       "wins": 17,
       "losses": 3,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=514&alg=33"
-    },
-    {
-      "name": "St. Charles",
-      "wins": 16,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=168&alg=33"
     },
     {
       "name": "Veritas Christian Academy",
@@ -24629,6 +24622,13 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=46&alg=33"
+    },
+    {
+      "name": "St. Charles",
+      "wins": 16,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=168&alg=33"
     },
     {
       "name": "St. Dominic",
@@ -24946,6 +24946,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
+      "name": "Camdenton",
+      "wins": 16,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=26&alg=33"
+    },
+    {
       "name": "Orchard Farm",
       "wins": 13,
       "losses": 9,
@@ -24974,6 +24981,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=124&alg=33"
     },
     {
+      "name": "Ft. Zumwalt South",
+      "wins": 14,
+      "losses": 10,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=65&alg=33"
+    },
+    {
       "name": "St. Pius X (Festus)",
       "wins": 11,
       "losses": 8,
@@ -24986,13 +25000,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=10&alg=33"
-    },
-    {
-      "name": "Camdenton",
-      "wins": 15,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=26&alg=33"
     },
     {
       "name": "Affton",
@@ -25021,13 +25028,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=38&alg=33"
-    },
-    {
-      "name": "Ft. Zumwalt South",
-      "wins": 13,
-      "losses": 10,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=65&alg=33"
     },
     {
       "name": "Laquey with Richland",
@@ -25065,6 +25065,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=538&alg=33"
     },
     {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 11,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
+    },
+    {
       "name": "Parkview",
       "wins": 12,
       "losses": 10,
@@ -25093,13 +25100,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
     },
     {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 10,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
-    },
-    {
       "name": "Guadalupe Centers Charter",
       "wins": 10,
       "losses": 9,
@@ -25112,6 +25112,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=408&alg=33"
+    },
+    {
+      "name": "Capital City",
+      "wins": 13,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1540&alg=33"
     },
     {
       "name": "Lutheran St. Charles",
@@ -25133,13 +25140,6 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=19&alg=33"
-    },
-    {
-      "name": "Capital City",
-      "wins": 12,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1540&alg=33"
     },
     {
       "name": "Barstow",
@@ -25268,13 +25268,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=55&alg=33"
     },
     {
-      "name": "Lebanon",
-      "wins": 12,
-      "losses": 14,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=338&alg=33"
-    },
-    {
       "name": "Valley Park",
       "wins": 10,
       "losses": 12,
@@ -25336,6 +25329,13 @@
       "losses": 10,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=71&alg=33"
+    },
+    {
+      "name": "Lebanon",
+      "wins": 12,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=338&alg=33"
     },
     {
       "name": "Missouri Military Academy",
@@ -25681,13 +25681,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=511&alg=33"
     },
     {
-      "name": "Jefferson City",
-      "wins": 6,
-      "losses": 16,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
-    },
-    {
       "name": "Mehlville",
       "wins": 5,
       "losses": 14,
@@ -25700,6 +25693,13 @@
       "losses": 16,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=169&alg=33"
+    },
+    {
+      "name": "Jefferson City",
+      "wins": 6,
+      "losses": 17,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=84&alg=33"
     },
     {
       "name": "Kickapoo",
