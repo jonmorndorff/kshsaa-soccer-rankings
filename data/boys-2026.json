@@ -25359,13 +25359,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=162&alg=33"
     },
     {
-      "name": "Kearney",
-      "wins": 10,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=329&alg=33"
-    },
-    {
       "name": "Smithton",
       "wins": 9,
       "losses": 12,
@@ -25497,6 +25490,13 @@
       "losses": 11,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=73&alg=33"
+    },
+    {
+      "name": "Kearney",
+      "wins": 9,
+      "losses": 14,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=329&alg=33"
     },
     {
       "name": "Windsor (Imperial)",
