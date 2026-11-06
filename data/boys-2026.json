@@ -24512,6 +24512,20 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
     },
     {
+      "name": "Northeast (Kansas City)",
+      "wins": 16,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=143&alg=33"
+    },
+    {
+      "name": "Van Horn",
+      "wins": 17,
+      "losses": 3,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
+    },
+    {
       "name": "Francis Howell Central",
       "wins": 17,
       "losses": 3,
@@ -24519,32 +24533,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=72&alg=33"
     },
     {
-      "name": "Belton",
-      "wins": 15,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=12&alg=33"
-    },
-    {
-      "name": "Northeast (Kansas City)",
-      "wins": 15,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=143&alg=33"
-    },
-    {
       "name": "Chaminade College Prep",
       "wins": 20,
       "losses": 3,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
-    },
-    {
-      "name": "Van Horn",
-      "wins": 16,
-      "losses": 3,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
     },
     {
       "name": "Excelsior Springs",
@@ -24573,6 +24566,13 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
+    },
+    {
+      "name": "Belton",
+      "wins": 15,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=12&alg=33"
     },
     {
       "name": "Blue Springs",
@@ -24694,13 +24694,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=85&alg=33"
     },
     {
-      "name": "Lincoln College Prep",
-      "wins": 12,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
-    },
-    {
       "name": "Rock Bridge",
       "wins": 15,
       "losses": 6,
@@ -24750,6 +24743,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=916&alg=33"
     },
     {
+      "name": "Summit Christian Academy",
+      "wins": 15,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
+    },
+    {
       "name": "Perryville",
       "wins": 17,
       "losses": 8,
@@ -24778,18 +24778,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=144&alg=33"
     },
     {
-      "name": "Summit Christian Academy",
-      "wins": 14,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
-    },
-    {
       "name": "Lee's Summit West",
       "wins": 14,
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
+    },
+    {
+      "name": "Lincoln College Prep",
+      "wins": 12,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=123&alg=33"
     },
     {
       "name": "Lee's Summit",
@@ -25359,6 +25359,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=162&alg=33"
     },
     {
+      "name": "Kearney",
+      "wins": 10,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=329&alg=33"
+    },
+    {
       "name": "Smithton",
       "wins": 9,
       "losses": 12,
@@ -25415,11 +25422,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1030&alg=33"
     },
     {
-      "name": "St. Michael the Archangel",
+      "name": "East (Kansas City)",
       "wins": 8,
       "losses": 11,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=809&alg=33"
     },
     {
       "name": "Lone Jack",
@@ -25450,13 +25457,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=178&alg=33"
     },
     {
-      "name": "Kearney",
-      "wins": 9,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=329&alg=33"
-    },
-    {
       "name": "Park Hill",
       "wins": 9,
       "losses": 13,
@@ -25478,6 +25478,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=34&alg=33"
     },
     {
+      "name": "St. Michael the Archangel",
+      "wins": 8,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1208&alg=33"
+    },
+    {
       "name": "Raymore-Peculiar",
       "wins": 8,
       "losses": 12,
@@ -25497,13 +25504,6 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=499&alg=33"
-    },
-    {
-      "name": "East (Kansas City)",
-      "wins": 7,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=809&alg=33"
     },
     {
       "name": "Platte County",
