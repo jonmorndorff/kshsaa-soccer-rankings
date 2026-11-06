@@ -24806,6 +24806,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
     },
     {
+      "name": "Ft. Zumwalt West",
+      "wins": 14,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=69&alg=33"
+    },
+    {
       "name": "MICDS",
       "wins": 15,
       "losses": 8,
@@ -24832,13 +24839,6 @@
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=985&alg=33"
-    },
-    {
-      "name": "Ft. Zumwalt West",
-      "wins": 13,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=69&alg=33"
     },
     {
       "name": "Park Hill South",
@@ -24960,13 +24960,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=403&alg=33"
     },
     {
-      "name": "Timberland",
-      "wins": 13,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=472&alg=33"
-    },
-    {
       "name": "Eureka",
       "wins": 13,
       "losses": 9,
@@ -25021,6 +25014,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=501&alg=33"
+    },
+    {
+      "name": "Timberland",
+      "wins": 13,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=472&alg=33"
     },
     {
       "name": "Carthage",
