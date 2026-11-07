@@ -24862,6 +24862,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
     },
     {
+      "name": "Pembroke Hill",
+      "wins": 11,
+      "losses": 6,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
+    },
+    {
       "name": "Oak Grove",
       "wins": 14,
       "losses": 8,
@@ -24895,13 +24902,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=567&alg=33"
-    },
-    {
-      "name": "Pembroke Hill",
-      "wins": 10,
-      "losses": 6,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
     },
     {
       "name": "Moberly",
@@ -25009,13 +25009,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=4&alg=33"
     },
     {
-      "name": "Lutheran South",
-      "wins": 12,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
-    },
-    {
       "name": "Winfield",
       "wins": 13,
       "losses": 10,
@@ -25044,6 +25037,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
     },
     {
+      "name": "St. Mary's South Side",
+      "wins": 14,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
+    },
+    {
       "name": "Poplar Bluff",
       "wins": 9,
       "losses": 7,
@@ -25065,6 +25065,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
+      "name": "Lutheran South",
+      "wins": 12,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=530&alg=33"
+    },
+    {
       "name": "Parkview",
       "wins": 12,
       "losses": 10,
@@ -25077,13 +25084,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
-    },
-    {
-      "name": "St. Mary's South Side",
-      "wins": 13,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
     },
     {
       "name": "Ladue Horton Watkins",
@@ -25142,13 +25142,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=19&alg=33"
     },
     {
-      "name": "Barstow",
-      "wins": 11,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
-    },
-    {
       "name": "Webster Groves",
       "wins": 11,
       "losses": 11,
@@ -25203,6 +25196,13 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1099&alg=33"
+    },
+    {
+      "name": "Barstow",
+      "wins": 11,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=508&alg=33"
     },
     {
       "name": "West Plains",
