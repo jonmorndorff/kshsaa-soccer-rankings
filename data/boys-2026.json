@@ -24449,13 +24449,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
     },
     {
-      "name": "Sikeston",
-      "wins": 21,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=191&alg=33"
-    },
-    {
       "name": "Oakville",
       "wins": 20,
       "losses": 3,
@@ -24512,6 +24505,20 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=143&alg=33"
     },
     {
+      "name": "Sikeston",
+      "wins": 21,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=191&alg=33"
+    },
+    {
+      "name": "Chaminade College Prep",
+      "wins": 21,
+      "losses": 3,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
+    },
+    {
       "name": "Van Horn",
       "wins": 17,
       "losses": 3,
@@ -24524,13 +24531,6 @@
       "losses": 3,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=72&alg=33"
-    },
-    {
-      "name": "Chaminade College Prep",
-      "wins": 20,
-      "losses": 3,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
     },
     {
       "name": "Excelsior Springs",
@@ -24687,6 +24687,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
     },
     {
+      "name": "Farmington",
+      "wins": 15,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
+    },
+    {
       "name": "Hickman",
       "wins": 17,
       "losses": 6,
@@ -24720,13 +24727,6 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=177&alg=33"
-    },
-    {
-      "name": "Farmington",
-      "wins": 14,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
       "name": "Lafayette (Wildwood)",
@@ -24799,13 +24799,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=114&alg=33"
     },
     {
-      "name": "Parkway West",
-      "wins": 14,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
-    },
-    {
       "name": "Ft. Zumwalt West",
       "wins": 14,
       "losses": 7,
@@ -24818,6 +24811,13 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
+    },
+    {
+      "name": "Clayton",
+      "wins": 13,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
     },
     {
       "name": "University City",
@@ -24855,13 +24855,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=165&alg=33"
     },
     {
-      "name": "Clayton",
-      "wins": 12,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
-    },
-    {
       "name": "Pembroke Hill",
       "wins": 11,
       "losses": 6,
@@ -24874,6 +24867,13 @@
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
+    },
+    {
+      "name": "Parkway West",
+      "wins": 14,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=163&alg=33"
     },
     {
       "name": "Bolivar",
@@ -25548,13 +25548,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=529&alg=33"
     },
     {
-      "name": "Parkway Central",
-      "wins": 7,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
-    },
-    {
       "name": "Eugene",
       "wins": 8,
       "losses": 14,
@@ -25588,6 +25581,13 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=151&alg=33"
+    },
+    {
+      "name": "Parkway Central",
+      "wins": 7,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
     },
     {
       "name": "Westminster Christian Academy",
