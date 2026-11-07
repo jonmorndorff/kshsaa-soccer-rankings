@@ -24449,18 +24449,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
     },
     {
+      "name": "SLUH",
+      "wins": 19,
+      "losses": 1,
+      "ties": 4,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
+    },
+    {
       "name": "Oakville",
       "wins": 20,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
-    },
-    {
-      "name": "SLUH",
-      "wins": 18,
-      "losses": 1,
-      "ties": 4,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
     },
     {
       "name": "Notre Dame (Cape Girardeau)",
@@ -24890,13 +24890,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
     },
     {
-      "name": "Kirkwood",
-      "wins": 12,
-      "losses": 7,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=95&alg=33"
-    },
-    {
       "name": "Laquey with Richland",
       "wins": 11,
       "losses": 7,
@@ -24916,6 +24909,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=132&alg=33"
+    },
+    {
+      "name": "Camdenton",
+      "wins": 17,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=26&alg=33"
     },
     {
       "name": "Marquette",
@@ -24953,13 +24953,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=207&alg=33"
     },
     {
-      "name": "Camdenton",
-      "wins": 16,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=26&alg=33"
-    },
-    {
       "name": "Orchard Farm",
       "wins": 13,
       "losses": 9,
@@ -24972,6 +24965,13 @@
       "losses": 9,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=56&alg=33"
+    },
+    {
+      "name": "Kirkwood",
+      "wins": 12,
+      "losses": 8,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=95&alg=33"
     },
     {
       "name": "Lindbergh",
@@ -25114,13 +25114,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=408&alg=33"
     },
     {
-      "name": "Capital City",
-      "wins": 13,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1540&alg=33"
-    },
-    {
       "name": "Lutheran St. Charles",
       "wins": 13,
       "losses": 12,
@@ -25133,6 +25126,13 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=399&alg=33"
+    },
+    {
+      "name": "Capital City",
+      "wins": 13,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1540&alg=33"
     },
     {
       "name": "Brentwood",
