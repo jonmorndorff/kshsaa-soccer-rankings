@@ -24429,7 +24429,7 @@
     },
     {
       "name": "Maplewood-Richmond Hts.",
-      "wins": 19,
+      "wins": 20,
       "losses": 2,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=106&alg=33"
@@ -25051,13 +25051,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=167&alg=33"
     },
     {
-      "name": "Saxony Lutheran with St. Vincent",
-      "wins": 10,
-      "losses": 8,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
-    },
-    {
       "name": "Principia",
       "wins": 11,
       "losses": 9,
@@ -25098,6 +25091,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=100&alg=33"
+    },
+    {
+      "name": "Saxony Lutheran with St. Vincent",
+      "wins": 10,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=555&alg=33"
     },
     {
       "name": "Guadalupe Centers Charter",
