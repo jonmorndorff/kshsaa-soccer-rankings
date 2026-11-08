@@ -25124,6 +25124,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=408&alg=33"
     },
     {
+      "name": "Webster Groves",
+      "wins": 12,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
+    },
+    {
       "name": "Lutheran St. Charles",
       "wins": 13,
       "losses": 12,
@@ -25150,13 +25157,6 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=19&alg=33"
-    },
-    {
-      "name": "Webster Groves",
-      "wins": 11,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
     },
     {
       "name": "Joplin",
@@ -25404,13 +25404,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=75&alg=33"
     },
     {
-      "name": "Rockwood Summit",
-      "wins": 8,
-      "losses": 11,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=187&alg=33"
-    },
-    {
       "name": "Gateway Science Charter",
       "wins": 6,
       "losses": 8,
@@ -25458,6 +25451,13 @@
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=157&alg=33"
+    },
+    {
+      "name": "Rockwood Summit",
+      "wins": 8,
+      "losses": 12,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=187&alg=33"
     },
     {
       "name": "New Heights Christian with McAuley Catholic",
