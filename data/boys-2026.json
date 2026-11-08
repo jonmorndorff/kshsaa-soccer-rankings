@@ -545,11 +545,11 @@
       "id": "789",
       "name": "Kapaun Mt. Carmel HS",
       "classification": "5A",
-      "wins": 17,
+      "wins": 18,
       "losses": 2,
       "ties": 0,
-      "goalsFor": 68,
-      "goalsAgainst": 15,
+      "goalsFor": 71,
+      "goalsAgainst": 16,
       "region": "West"
     },
     {
@@ -623,10 +623,10 @@
       "name": "Maize South HS",
       "classification": "5A",
       "wins": 19,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "goalsFor": 94,
-      "goalsAgainst": 23,
+      "goalsFor": 95,
+      "goalsAgainst": 26,
       "region": "West"
     },
     {
