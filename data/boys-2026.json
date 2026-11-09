@@ -24480,6 +24480,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
     },
     {
+      "name": "John Burroughs",
+      "wins": 17,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
+    },
+    {
       "name": "Blue Springs South",
       "wins": 17,
       "losses": 3,
@@ -24499,13 +24506,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
-    },
-    {
-      "name": "John Burroughs",
-      "wins": 16,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
       "name": "Northeast (Kansas City)",
@@ -24725,13 +24725,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=232&alg=33"
     },
     {
-      "name": "Priory",
-      "wins": 17,
-      "losses": 7,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
-    },
-    {
       "name": "Savannah",
       "wins": 14,
       "losses": 6,
@@ -24779,6 +24772,13 @@
       "losses": 5,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=416&alg=33"
+    },
+    {
+      "name": "Priory",
+      "wins": 17,
+      "losses": 8,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=539&alg=33"
     },
     {
       "name": "Northwest (Cedar Hill)",
