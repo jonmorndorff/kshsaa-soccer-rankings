@@ -24537,7 +24537,7 @@
     },
     {
       "name": "Chaminade College Prep",
-      "wins": 21,
+      "wins": 22,
       "losses": 3,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
@@ -24823,13 +24823,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
     },
     {
-      "name": "Clayton",
-      "wins": 13,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
-    },
-    {
       "name": "University City",
       "wins": 13,
       "losses": 7,
@@ -24898,6 +24891,13 @@
       "losses": 6,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=120&alg=33"
+    },
+    {
+      "name": "Clayton",
+      "wins": 13,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=58&alg=33"
     },
     {
       "name": "Laquey with Richland",
