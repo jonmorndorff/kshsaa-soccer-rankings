@@ -24515,6 +24515,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
     },
     {
+      "name": "Van Horn",
+      "wins": 18,
+      "losses": 3,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
+    },
+    {
       "name": "Francis Howell Central",
       "wins": 18,
       "losses": 3,
@@ -24534,13 +24541,6 @@
       "losses": 3,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
-    },
-    {
-      "name": "Van Horn",
-      "wins": 17,
-      "losses": 3,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
     },
     {
       "name": "Excelsior Springs",
@@ -24746,13 +24746,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=916&alg=33"
     },
     {
-      "name": "Summit Christian Academy",
-      "wins": 15,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
-    },
-    {
       "name": "Perryville",
       "wins": 17,
       "losses": 8,
@@ -24821,6 +24814,13 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=531&alg=33"
+    },
+    {
+      "name": "Summit Christian Academy",
+      "wins": 15,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
     },
     {
       "name": "Clayton",
