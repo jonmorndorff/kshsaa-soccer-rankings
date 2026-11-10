@@ -24480,6 +24480,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
     },
     {
+      "name": "Liberty North",
+      "wins": 18,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
+    },
+    {
       "name": "John Burroughs",
       "wins": 17,
       "losses": 3,
@@ -24499,13 +24506,6 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=15&alg=33"
-    },
-    {
-      "name": "Liberty North",
-      "wins": 17,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
     },
     {
       "name": "Father Tolton",
@@ -24606,13 +24606,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=571&alg=33"
     },
     {
-      "name": "Liberty",
-      "wins": 14,
-      "losses": 4,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=121&alg=33"
-    },
-    {
       "name": "Fair Grove",
       "wins": 18,
       "losses": 5,
@@ -24632,13 +24625,6 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=168&alg=33"
-    },
-    {
-      "name": "St. Dominic",
-      "wins": 15,
-      "losses": 4,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=542&alg=33"
     },
     {
       "name": "Troy Buchanan",
@@ -24674,6 +24660,20 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1660&alg=33"
+    },
+    {
+      "name": "Liberty",
+      "wins": 14,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=121&alg=33"
+    },
+    {
+      "name": "St. Dominic",
+      "wins": 15,
+      "losses": 5,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=542&alg=33"
     },
     {
       "name": "Southern Boone",
@@ -24956,6 +24956,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
     },
     {
+      "name": "Ft. Zumwalt South",
+      "wins": 15,
+      "losses": 10,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=65&alg=33"
+    },
+    {
       "name": "Sullivan",
       "wins": 16,
       "losses": 11,
@@ -24989,13 +24996,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=124&alg=33"
-    },
-    {
-      "name": "Ft. Zumwalt South",
-      "wins": 14,
-      "losses": 10,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=65&alg=33"
     },
     {
       "name": "St. Pius X (Festus)",
