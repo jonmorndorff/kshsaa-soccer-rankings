@@ -24557,18 +24557,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=812&alg=33"
     },
     {
+      "name": "Logan-Rogersville",
+      "wins": 20,
+      "losses": 5,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
+    },
+    {
       "name": "Kirksville",
       "wins": 16,
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
-    },
-    {
-      "name": "Logan-Rogersville",
-      "wins": 19,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
     },
     {
       "name": "Belton",
@@ -24599,13 +24599,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=125&alg=33"
     },
     {
-      "name": "Springfield Catholic",
-      "wins": 21,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=571&alg=33"
-    },
-    {
       "name": "Fair Grove",
       "wins": 18,
       "losses": 5,
@@ -24625,6 +24618,13 @@
       "losses": 5,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=168&alg=33"
+    },
+    {
+      "name": "Springfield Catholic",
+      "wins": 21,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=571&alg=33"
     },
     {
       "name": "Troy Buchanan",
