@@ -25166,13 +25166,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=87&alg=33"
     },
     {
-      "name": "Hancock",
-      "wins": 10,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
-    },
-    {
       "name": "Battle with Columbia Independent",
       "wins": 10,
       "losses": 10,
@@ -25283,6 +25276,13 @@
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=481&alg=33"
+    },
+    {
+      "name": "Hancock",
+      "wins": 10,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
     },
     {
       "name": "Whitfield",
