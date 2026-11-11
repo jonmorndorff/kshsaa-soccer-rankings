@@ -24459,18 +24459,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
     },
     {
+      "name": "Oakville",
+      "wins": 21,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
+    },
+    {
       "name": "SLUH",
       "wins": 19,
       "losses": 1,
       "ties": 4,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
-    },
-    {
-      "name": "Oakville",
-      "wins": 20,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
     },
     {
       "name": "Notre Dame (Cape Girardeau)",
@@ -24991,13 +24991,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=95&alg=33"
     },
     {
-      "name": "Lindbergh",
-      "wins": 14,
-      "losses": 10,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=124&alg=33"
-    },
-    {
       "name": "St. Pius X (Festus)",
       "wins": 11,
       "losses": 8,
@@ -25052,6 +25045,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
+    },
+    {
+      "name": "Lindbergh",
+      "wins": 14,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=124&alg=33"
     },
     {
       "name": "Poplar Bluff",
