@@ -24571,6 +24571,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
     },
     {
+      "name": "Central (Kansas City)",
+      "wins": 12,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=46&alg=33"
+    },
+    {
       "name": "Belton",
       "wins": 15,
       "losses": 4,
@@ -24583,13 +24590,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=14&alg=33"
-    },
-    {
-      "name": "Central (Kansas City)",
-      "wins": 11,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=46&alg=33"
     },
     {
       "name": "Metro",
@@ -24865,13 +24865,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
     },
     {
-      "name": "Oak Grove",
-      "wins": 14,
-      "losses": 8,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
-    },
-    {
       "name": "Parkway West",
       "wins": 14,
       "losses": 8,
@@ -24926,6 +24919,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=26&alg=33"
+    },
+    {
+      "name": "Oak Grove",
+      "wins": 14,
+      "losses": 9,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=146&alg=33"
     },
     {
       "name": "Marquette",
