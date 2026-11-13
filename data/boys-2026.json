@@ -25271,18 +25271,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=55&alg=33"
     },
     {
-      "name": "Valley Park",
-      "wins": 10,
-      "losses": 12,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=481&alg=33"
-    },
-    {
       "name": "Hancock",
       "wins": 10,
       "losses": 12,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=148&alg=33"
+    },
+    {
+      "name": "Valley Park",
+      "wins": 10,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=481&alg=33"
     },
     {
       "name": "Whitfield",
@@ -25593,18 +25593,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=151&alg=33"
     },
     {
-      "name": "Parkway Central",
-      "wins": 7,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
-    },
-    {
       "name": "Westminster Christian Academy",
       "wins": 7,
       "losses": 13,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=564&alg=33"
+    },
+    {
+      "name": "Parkway Central",
+      "wins": 7,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=160&alg=33"
     },
     {
       "name": "New Covenant Academy",
@@ -25754,18 +25754,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
     },
     {
-      "name": "Truman",
-      "wins": 5,
-      "losses": 15,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
-    },
-    {
       "name": "William Chrisman",
       "wins": 5,
       "losses": 15,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
+    },
+    {
+      "name": "Truman",
+      "wins": 5,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
     },
     {
       "name": "North Kansas City",
