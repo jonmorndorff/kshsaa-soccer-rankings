@@ -24571,13 +24571,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=94&alg=33"
     },
     {
-      "name": "Central (Kansas City)",
-      "wins": 12,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=46&alg=33"
-    },
-    {
       "name": "Belton",
       "wins": 15,
       "losses": 4,
@@ -24634,6 +24627,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=476&alg=33"
     },
     {
+      "name": "Central (Kansas City)",
+      "wins": 12,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=46&alg=33"
+    },
+    {
       "name": "Glendale",
       "wins": 18,
       "losses": 6,
@@ -24681,13 +24681,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=194&alg=33"
-    },
-    {
-      "name": "Farmington",
-      "wins": 15,
-      "losses": 6,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
       "name": "Hickman",
@@ -24744,6 +24737,13 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=550&alg=33"
+    },
+    {
+      "name": "Farmington",
+      "wins": 15,
+      "losses": 7,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
       "name": "Lee's Summit West",
@@ -24963,6 +24963,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=403&alg=33"
     },
     {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 13,
+      "losses": 9,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
+    },
+    {
       "name": "Eureka",
       "wins": 13,
       "losses": 9,
@@ -25010,13 +25017,6 @@
       "losses": 8,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=4&alg=33"
-    },
-    {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 12,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
       "name": "Winfield",
@@ -25103,6 +25103,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=360&alg=33"
     },
     {
+      "name": "Webster Groves",
+      "wins": 13,
+      "losses": 11,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
+    },
+    {
       "name": "Saxony Lutheran with St. Vincent",
       "wins": 10,
       "losses": 9,
@@ -25122,13 +25129,6 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=408&alg=33"
-    },
-    {
-      "name": "Webster Groves",
-      "wins": 12,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
     },
     {
       "name": "Lutheran St. Charles",
