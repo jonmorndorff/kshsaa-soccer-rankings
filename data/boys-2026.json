@@ -24426,7 +24426,7 @@
     {
       "name": "Rockhurst",
       "wins": 20,
-      "losses": 0,
+      "losses": 1,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=540&alg=33"
     },
@@ -24460,10 +24460,24 @@
     },
     {
       "name": "Notre Dame (Cape Girardeau)",
-      "wins": 19,
+      "wins": 20,
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
+    },
+    {
+      "name": "Liberty North",
+      "wins": 19,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
+    },
+    {
+      "name": "John Burroughs",
+      "wins": 18,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
       "name": "Northeast (Kansas City)",
@@ -24471,13 +24485,6 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=143&alg=33"
-    },
-    {
-      "name": "Liberty North",
-      "wins": 18,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
     },
     {
       "name": "Father Tolton",
@@ -24494,13 +24501,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
     },
     {
-      "name": "John Burroughs",
-      "wins": 17,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
-    },
-    {
       "name": "Blue Springs South",
       "wins": 17,
       "losses": 3,
@@ -24515,6 +24515,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=72&alg=33"
     },
     {
+      "name": "Chaminade College Prep",
+      "wins": 23,
+      "losses": 3,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
+    },
+    {
       "name": "Sikeston",
       "wins": 21,
       "losses": 4,
@@ -24527,13 +24534,6 @@
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
-    },
-    {
-      "name": "Chaminade College Prep",
-      "wins": 22,
-      "losses": 3,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
     },
     {
       "name": "Excelsior Springs",
@@ -24555,13 +24555,6 @@
       "losses": 4,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=204&alg=33"
-    },
-    {
-      "name": "Veritas Christian Academy",
-      "wins": 20,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=812&alg=33"
     },
     {
       "name": "Kirksville",
@@ -24604,6 +24597,13 @@
       "losses": 4,
       "ties": 3,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=514&alg=33"
+    },
+    {
+      "name": "Veritas Christian Academy",
+      "wins": 20,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=812&alg=33"
     },
     {
       "name": "St. Charles",
@@ -24655,13 +24655,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=465&alg=33"
     },
     {
-      "name": "Faith Christian Academy",
-      "wins": 14,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1660&alg=33"
-    },
-    {
       "name": "Liberty",
       "wins": 14,
       "losses": 5,
@@ -24702,6 +24695,13 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=232&alg=33"
+    },
+    {
+      "name": "Faith Christian Academy",
+      "wins": 14,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=1660&alg=33"
     },
     {
       "name": "Savannah",
@@ -24823,6 +24823,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=203&alg=33"
     },
     {
+      "name": "Pembroke Hill",
+      "wins": 12,
+      "losses": 6,
+      "ties": 2,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
+    },
+    {
       "name": "Boonville",
       "wins": 11,
       "losses": 6,
@@ -24856,13 +24863,6 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=165&alg=33"
-    },
-    {
-      "name": "Pembroke Hill",
-      "wins": 11,
-      "losses": 6,
-      "ties": 2,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=570&alg=33"
     },
     {
       "name": "Parkway West",
@@ -24942,13 +24942,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=82&alg=33"
     },
     {
-      "name": "Ft. Zumwalt South",
-      "wins": 15,
-      "losses": 10,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=65&alg=33"
-    },
-    {
       "name": "Sullivan",
       "wins": 16,
       "losses": 11,
@@ -25019,6 +25012,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=4&alg=33"
     },
     {
+      "name": "Ft. Zumwalt South",
+      "wins": 15,
+      "losses": 11,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=65&alg=33"
+    },
+    {
       "name": "Winfield",
       "wins": 13,
       "losses": 10,
@@ -25045,13 +25045,6 @@
       "losses": 7,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=80&alg=33"
-    },
-    {
-      "name": "St. Mary's South Side",
-      "wins": 14,
-      "losses": 11,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
     },
     {
       "name": "Lindbergh",
@@ -25108,6 +25101,13 @@
       "losses": 11,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=228&alg=33"
+    },
+    {
+      "name": "St. Mary's South Side",
+      "wins": 14,
+      "losses": 12,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=549&alg=33"
     },
     {
       "name": "Saxony Lutheran with St. Vincent",
