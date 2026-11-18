@@ -25754,18 +25754,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=93&alg=33"
     },
     {
-      "name": "William Chrisman",
-      "wins": 5,
-      "losses": 15,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
-    },
-    {
       "name": "Truman",
       "wins": 5,
       "losses": 15,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=198&alg=33"
+    },
+    {
+      "name": "William Chrisman",
+      "wins": 5,
+      "losses": 15,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=235&alg=33"
     },
     {
       "name": "North Kansas City",
