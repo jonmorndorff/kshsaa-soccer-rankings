@@ -24431,13 +24431,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=540&alg=33"
     },
     {
-      "name": "Helias Catholic",
-      "wins": 22,
-      "losses": 2,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=522&alg=33"
-    },
-    {
       "name": "Fort Osage",
       "wins": 18,
       "losses": 2,
@@ -24446,10 +24439,24 @@
     },
     {
       "name": "SLUH",
-      "wins": 20,
+      "wins": 21,
       "losses": 1,
       "ties": 4,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=547&alg=33"
+    },
+    {
+      "name": "Helias Catholic",
+      "wins": 22,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=522&alg=33"
+    },
+    {
+      "name": "Notre Dame (Cape Girardeau)",
+      "wins": 21,
+      "losses": 3,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
     },
     {
       "name": "Maplewood-Richmond Hts.",
@@ -24459,11 +24466,11 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=106&alg=33"
     },
     {
-      "name": "Notre Dame (Cape Girardeau)",
-      "wins": 20,
+      "name": "John Burroughs",
+      "wins": 19,
       "losses": 3,
       "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=534&alg=33"
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
     },
     {
       "name": "Northeast (Kansas City)",
@@ -24473,13 +24480,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=143&alg=33"
     },
     {
-      "name": "Liberty North",
-      "wins": 19,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
-    },
-    {
       "name": "Father Tolton",
       "wins": 24,
       "losses": 4,
@@ -24487,18 +24487,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
     },
     {
-      "name": "John Burroughs",
-      "wins": 18,
-      "losses": 3,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=524&alg=33"
-    },
-    {
       "name": "Nixa",
       "wins": 23,
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=382&alg=33"
+    },
+    {
+      "name": "Chaminade College Prep",
+      "wins": 24,
+      "losses": 3,
+      "ties": 3,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
     },
     {
       "name": "Blue Springs South",
@@ -24515,13 +24515,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=72&alg=33"
     },
     {
-      "name": "Chaminade College Prep",
-      "wins": 23,
-      "losses": 3,
-      "ties": 3,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=512&alg=33"
-    },
-    {
       "name": "Sikeston",
       "wins": 21,
       "losses": 4,
@@ -24536,18 +24529,18 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=150&alg=33"
     },
     {
+      "name": "Liberty North",
+      "wins": 19,
+      "losses": 4,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=907&alg=33"
+    },
+    {
       "name": "Excelsior Springs",
       "wins": 17,
       "losses": 4,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=296&alg=33"
-    },
-    {
-      "name": "Logan-Rogersville",
-      "wins": 21,
-      "losses": 5,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
     },
     {
       "name": "Van Horn",
@@ -24583,6 +24576,13 @@
       "losses": 3,
       "ties": 1,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=125&alg=33"
+    },
+    {
+      "name": "Logan-Rogersville",
+      "wins": 21,
+      "losses": 6,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=127&alg=33"
     },
     {
       "name": "Christian Brothers College",
@@ -24956,13 +24956,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=403&alg=33"
     },
     {
-      "name": "St. Pius X (Kansas City)",
-      "wins": 13,
-      "losses": 9,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
-    },
-    {
       "name": "Eureka",
       "wins": 13,
       "losses": 9,
@@ -25024,6 +25017,13 @@
       "losses": 10,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=501&alg=33"
+    },
+    {
+      "name": "St. Pius X (Kansas City)",
+      "wins": 13,
+      "losses": 10,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=551&alg=33"
     },
     {
       "name": "Timberland",
