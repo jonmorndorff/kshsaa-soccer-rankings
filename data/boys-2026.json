@@ -24613,13 +24613,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=571&alg=33"
     },
     {
-      "name": "Fair Grove",
-      "wins": 19,
-      "losses": 6,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
-    },
-    {
       "name": "Troy Buchanan",
       "wins": 18,
       "losses": 6,
@@ -24667,6 +24660,13 @@
       "losses": 5,
       "ties": 2,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=542&alg=33"
+    },
+    {
+      "name": "Fair Grove",
+      "wins": 19,
+      "losses": 7,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=290&alg=33"
     },
     {
       "name": "Smith-Cotton",
@@ -25187,6 +25187,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=236&alg=33"
     },
     {
+      "name": "Whitfield",
+      "wins": 12,
+      "losses": 13,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=565&alg=33"
+    },
+    {
       "name": "Christian Fellowship Sr. with Hallsville",
       "wins": 12,
       "losses": 13,
@@ -25269,13 +25276,6 @@
       "losses": 9,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=55&alg=33"
-    },
-    {
-      "name": "Whitfield",
-      "wins": 11,
-      "losses": 13,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=565&alg=33"
     },
     {
       "name": "Valley Park",
