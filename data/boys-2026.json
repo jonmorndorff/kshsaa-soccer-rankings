@@ -24487,6 +24487,13 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=917&alg=33"
     },
     {
+      "name": "Francis Howell Central",
+      "wins": 20,
+      "losses": 3,
+      "ties": 1,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=72&alg=33"
+    },
+    {
       "name": "Nixa",
       "wins": 23,
       "losses": 4,
@@ -24506,13 +24513,6 @@
       "losses": 3,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=15&alg=33"
-    },
-    {
-      "name": "Francis Howell Central",
-      "wins": 19,
-      "losses": 3,
-      "ties": 1,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=72&alg=33"
     },
     {
       "name": "Sikeston",
@@ -24746,13 +24746,6 @@
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=59&alg=33"
     },
     {
-      "name": "Lee's Summit West",
-      "wins": 15,
-      "losses": 7,
-      "ties": 0,
-      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
-    },
-    {
       "name": "Perryville",
       "wins": 17,
       "losses": 8,
@@ -24821,6 +24814,13 @@
       "losses": 8,
       "ties": 0,
       "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=783&alg=33"
+    },
+    {
+      "name": "Lee's Summit West",
+      "wins": 15,
+      "losses": 8,
+      "ties": 0,
+      "source": "https://www.mshsaa.org/MySchool/Schedule.aspx?s=117&alg=33"
     },
     {
       "name": "University City",
